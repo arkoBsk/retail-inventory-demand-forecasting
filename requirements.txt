@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+statsmodels
+prophet
+lightgbm
+scikit-learn
+holidays
+openpyxl
+jupyter
+nbformat
+nbconvert
