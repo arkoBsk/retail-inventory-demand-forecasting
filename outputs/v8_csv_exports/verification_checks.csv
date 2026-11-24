@@ -1,0 +1,29 @@
+Check,Result,Detail
+Exported category totals == raw CSV totals,PASS,max diff 0
+All date x category cells match raw,PASS,3800 cells
+Export matches raw AND differs from the majority-vote remap (discriminating),PASS,remap would shift totals by up to 64%
+"Exported metrics recomputed from forecast rows (row-matched, full coverage)",PASS,"30 rows matched, max diff 2.27e-13"
+Forecast-file 'Actual' column equals raw CSV demand,PASS,460 cells
+LightGBM rows present in exported metrics and recomputed,PASS,5 rows
+Exported selection == validation argmin (read back from disk),PASS,"{'Clothing': 'Baseline: last 28-day mean', 'Electronics': 'Baseline: training mean', 'Furniture': 'Baseline: training mean', 'Groceries': 'ARIMA', 'Toys': 'ARIMA'}"
+"Selection is falsifiable (validation and test disagree somewhere, so the check has teeth)",PASS,disagree on ['Clothing']
+Tier A excludes every same-day commercial/exogenous column,PASS,
+POISON TEST: recursion is bit-identical when test-window demand is corrupted,PASS,max |diff| = 0.000e+00
+Tier B beats Tier A on the same horizon (the Price leak is real),PASS,"B 0.923 vs A 0.122, both recursive"
+Tier A converged before the iteration cap (the one tier whose number we rely on),PASS,"converged: ['A: history + calendar'] | hit cap: ['B: + own price/discount/promo', 'C: + competitor/weather/epidemic (DISQUALIFIED)']"
+"Calibration is reported as a search, with the full curve exported (not a single tuned number)",PASS,"15-point search exported; chose 11 d -> 0.859% of sales. Band membership is a property of the search, not evidence about the business."
+User-estimate shelf lives produce zero waste (days of cover never reach them),PASS,0 units across all categories; max days of cover 5.9
+Lead times bracket the inventory-implied figure on BOTH sides (within 1.5 days either way),PASS,"{'Clothing': 'set 3, implied 2.3', 'Electronics': 'set 3, implied 2.4', 'Furniture': 'set 3, implied 2.7', 'Groceries': 'set 3, implied 2.5', 'Toys': 'set 2, implied 1.8'}"
+Per-series lag reconstructs the reported ledger exactly,PASS,"max error 0.00e+00 units over 75,755 day-pairs"
+"Lead time uses demand weighting, not the order weighting that biased v7 low",PASS,demand-weighted 2.45 d vs order-weighted 1.79 d
+"Category lead times equal the demand-weighted series lag, rounded up",PASS,"{'Clothing': '2.17 -> 3', 'Electronics': '2.47 -> 3', 'Furniture': '2.67 -> 3', 'Groceries': '2.62 -> 3', 'Toys': '1.93 -> 2'}"
+"fifo_waste expires on exactly day 3, not 2 or 4 (catches an off-by-one)",PASS,"horizons 3/4/5 -> [0.0, 10.0, 10.0]"
+simulate() expires on the same day as fifo_waste,PASS,"[0.0, np.float64(10.0), np.float64(10.0)] vs [0.0, 10.0, 10.0]"
+fifo_waste actually ingests Units Ordered at the given lag,PASS,"lag-1 order of 7 expires at shelf 2 (7.0), survives at shelf 99"
+fifo_waste: stock sold before expiry wastes nothing,PASS,0.0
+Exported safety stock equals z x empirical L-day error SD (read back from disk),PASS,"{'Clothing': '1.08x the sqrt(L) figure', 'Electronics': '1.52x the sqrt(L) figure', 'Furniture': '1.58x the sqrt(L) figure', 'Groceries': '1.57x the sqrt(L) figure', 'Toys': '1.35x the sqrt(L) figure'}"
+Exported safety stock is strictly larger than the sqrt(L) figure it replaced,PASS,autocorrelated errors -> sqrt(L) understates
+Exported service-level file covers both windows x both conventions x 3 levels x 5 categories,PASS,60 rows
+Exported per-series lags cover all 100 series and span more than one value,PASS,"100 series, lags [1, 2, 3, 4]"
+Review period changes the simulation (R=1 vs R=5 give different stock),PASS,"avg on-hand 1,932 at R=1 vs 4,630 at R=5"
+Holiday file is non-empty and contains known fixed holidays,PASS,"28 dates incl. Jul 4, Dec 25, Thanksgiving"

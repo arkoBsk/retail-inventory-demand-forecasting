@@ -1,0 +1,11 @@
+Category,Policy,Fill rate (%),Stockout days,Avg on-hand units,Unmet demand units
+Clothing,Forecast policy,98.39284855565104,5,7202.626260679855,2812.257883379585
+Clothing,Static policy (training mean),99.24510794190593,4,7628.589868265851,1320.940318935318
+Electronics,Forecast policy,100.0,0,5885.987679420867,0.0
+Electronics,Static policy (training mean),100.0,0,5885.987679420869,0.0
+Furniture,Forecast policy,100.0,0,6824.150941460128,0.0
+Furniture,Static policy (training mean),100.0,0,6824.150941460128,0.0
+Groceries,Forecast policy,100.0,0,25747.38032460319,0.0
+Groceries,Static policy (training mean),100.0,0,25849.29065464606,0.0
+Toys,Forecast policy,100.0,0,7948.091940213615,0.0
+Toys,Static policy (training mean),100.0,0,7746.127209314165,0.0

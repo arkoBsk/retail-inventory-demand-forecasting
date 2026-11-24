@@ -1,0 +1,2761 @@
+Date,Category,Model,Actual,Forecast
+2023-10-31,Clothing,Baseline: training mean,1779,1788.131736526946
+2023-11-01,Clothing,Baseline: training mean,1838,1788.131736526946
+2023-11-02,Clothing,Baseline: training mean,2027,1788.131736526946
+2023-11-03,Clothing,Baseline: training mean,1734,1788.131736526946
+2023-11-04,Clothing,Baseline: training mean,1496,1788.131736526946
+2023-11-05,Clothing,Baseline: training mean,1659,1788.131736526946
+2023-11-06,Clothing,Baseline: training mean,1537,1788.131736526946
+2023-11-07,Clothing,Baseline: training mean,1717,1788.131736526946
+2023-11-08,Clothing,Baseline: training mean,1581,1788.131736526946
+2023-11-09,Clothing,Baseline: training mean,1836,1788.131736526946
+2023-11-10,Clothing,Baseline: training mean,1691,1788.131736526946
+2023-11-11,Clothing,Baseline: training mean,1950,1788.131736526946
+2023-11-12,Clothing,Baseline: training mean,1976,1788.131736526946
+2023-11-13,Clothing,Baseline: training mean,1855,1788.131736526946
+2023-11-14,Clothing,Baseline: training mean,1489,1788.131736526946
+2023-11-15,Clothing,Baseline: training mean,1896,1788.131736526946
+2023-11-16,Clothing,Baseline: training mean,1429,1788.131736526946
+2023-11-17,Clothing,Baseline: training mean,1754,1788.131736526946
+2023-11-18,Clothing,Baseline: training mean,1715,1788.131736526946
+2023-11-19,Clothing,Baseline: training mean,1575,1788.131736526946
+2023-11-20,Clothing,Baseline: training mean,1668,1788.131736526946
+2023-11-21,Clothing,Baseline: training mean,1779,1788.131736526946
+2023-11-22,Clothing,Baseline: training mean,1841,1788.131736526946
+2023-11-23,Clothing,Baseline: training mean,1692,1788.131736526946
+2023-11-24,Clothing,Baseline: training mean,1496,1788.131736526946
+2023-11-25,Clothing,Baseline: training mean,1584,1788.131736526946
+2023-11-26,Clothing,Baseline: training mean,1707,1788.131736526946
+2023-11-27,Clothing,Baseline: training mean,1864,1788.131736526946
+2023-11-28,Clothing,Baseline: training mean,1544,1788.131736526946
+2023-11-29,Clothing,Baseline: training mean,1365,1788.131736526946
+2023-11-30,Clothing,Baseline: training mean,1674,1788.131736526946
+2023-12-01,Clothing,Baseline: training mean,2128,1788.131736526946
+2023-12-02,Clothing,Baseline: training mean,2204,1788.131736526946
+2023-12-03,Clothing,Baseline: training mean,1915,1788.131736526946
+2023-12-04,Clothing,Baseline: training mean,1911,1788.131736526946
+2023-12-05,Clothing,Baseline: training mean,2393,1788.131736526946
+2023-12-06,Clothing,Baseline: training mean,2178,1788.131736526946
+2023-12-07,Clothing,Baseline: training mean,2186,1788.131736526946
+2023-12-08,Clothing,Baseline: training mean,2006,1788.131736526946
+2023-12-09,Clothing,Baseline: training mean,1987,1788.131736526946
+2023-12-10,Clothing,Baseline: training mean,1898,1788.131736526946
+2023-12-11,Clothing,Baseline: training mean,1601,1788.131736526946
+2023-12-12,Clothing,Baseline: training mean,2054,1788.131736526946
+2023-12-13,Clothing,Baseline: training mean,2296,1788.131736526946
+2023-12-14,Clothing,Baseline: training mean,1985,1788.131736526946
+2023-12-15,Clothing,Baseline: training mean,2560,1788.131736526946
+2023-12-16,Clothing,Baseline: training mean,1667,1788.131736526946
+2023-12-17,Clothing,Baseline: training mean,1931,1788.131736526946
+2023-12-18,Clothing,Baseline: training mean,2162,1788.131736526946
+2023-12-19,Clothing,Baseline: training mean,1949,1788.131736526946
+2023-12-20,Clothing,Baseline: training mean,1956,1788.131736526946
+2023-12-21,Clothing,Baseline: training mean,2095,1788.131736526946
+2023-12-22,Clothing,Baseline: training mean,2092,1788.131736526946
+2023-12-23,Clothing,Baseline: training mean,1997,1788.131736526946
+2023-12-24,Clothing,Baseline: training mean,1833,1788.131736526946
+2023-12-25,Clothing,Baseline: training mean,1962,1788.131736526946
+2023-12-26,Clothing,Baseline: training mean,2037,1788.131736526946
+2023-12-27,Clothing,Baseline: training mean,2123,1788.131736526946
+2023-12-28,Clothing,Baseline: training mean,2006,1788.131736526946
+2023-12-29,Clothing,Baseline: training mean,2164,1788.131736526946
+2023-12-30,Clothing,Baseline: training mean,1990,1788.131736526946
+2023-12-31,Clothing,Baseline: training mean,1891,1788.131736526946
+2024-01-01,Clothing,Baseline: training mean,1830,1788.131736526946
+2024-01-02,Clothing,Baseline: training mean,2386,1788.131736526946
+2024-01-03,Clothing,Baseline: training mean,1992,1788.131736526946
+2024-01-04,Clothing,Baseline: training mean,1969,1788.131736526946
+2024-01-05,Clothing,Baseline: training mean,2401,1788.131736526946
+2024-01-06,Clothing,Baseline: training mean,2207,1788.131736526946
+2024-01-07,Clothing,Baseline: training mean,1925,1788.131736526946
+2024-01-08,Clothing,Baseline: training mean,2308,1788.131736526946
+2024-01-09,Clothing,Baseline: training mean,1659,1788.131736526946
+2024-01-10,Clothing,Baseline: training mean,1788,1788.131736526946
+2024-01-11,Clothing,Baseline: training mean,2036,1788.131736526946
+2024-01-12,Clothing,Baseline: training mean,1661,1788.131736526946
+2024-01-13,Clothing,Baseline: training mean,2254,1788.131736526946
+2024-01-14,Clothing,Baseline: training mean,1686,1788.131736526946
+2024-01-15,Clothing,Baseline: training mean,1784,1788.131736526946
+2024-01-16,Clothing,Baseline: training mean,1897,1788.131736526946
+2024-01-17,Clothing,Baseline: training mean,1742,1788.131736526946
+2024-01-18,Clothing,Baseline: training mean,1915,1788.131736526946
+2024-01-19,Clothing,Baseline: training mean,1545,1788.131736526946
+2024-01-20,Clothing,Baseline: training mean,2319,1788.131736526946
+2024-01-21,Clothing,Baseline: training mean,1754,1788.131736526946
+2024-01-22,Clothing,Baseline: training mean,2080,1788.131736526946
+2024-01-23,Clothing,Baseline: training mean,1555,1788.131736526946
+2024-01-24,Clothing,Baseline: training mean,2174,1788.131736526946
+2024-01-25,Clothing,Baseline: training mean,2381,1788.131736526946
+2024-01-26,Clothing,Baseline: training mean,2250,1788.131736526946
+2024-01-27,Clothing,Baseline: training mean,2123,1788.131736526946
+2024-01-28,Clothing,Baseline: training mean,1834,1788.131736526946
+2024-01-29,Clothing,Baseline: training mean,1881,1788.131736526946
+2024-01-30,Clothing,Baseline: training mean,1743,1788.131736526946
+2023-10-31,Clothing,Baseline: last 28-day mean,1779,1753.4285714285713
+2023-11-01,Clothing,Baseline: last 28-day mean,1838,1753.4285714285713
+2023-11-02,Clothing,Baseline: last 28-day mean,2027,1753.4285714285713
+2023-11-03,Clothing,Baseline: last 28-day mean,1734,1753.4285714285713
+2023-11-04,Clothing,Baseline: last 28-day mean,1496,1753.4285714285713
+2023-11-05,Clothing,Baseline: last 28-day mean,1659,1753.4285714285713
+2023-11-06,Clothing,Baseline: last 28-day mean,1537,1753.4285714285713
+2023-11-07,Clothing,Baseline: last 28-day mean,1717,1753.4285714285713
+2023-11-08,Clothing,Baseline: last 28-day mean,1581,1753.4285714285713
+2023-11-09,Clothing,Baseline: last 28-day mean,1836,1753.4285714285713
+2023-11-10,Clothing,Baseline: last 28-day mean,1691,1753.4285714285713
+2023-11-11,Clothing,Baseline: last 28-day mean,1950,1753.4285714285713
+2023-11-12,Clothing,Baseline: last 28-day mean,1976,1753.4285714285713
+2023-11-13,Clothing,Baseline: last 28-day mean,1855,1753.4285714285713
+2023-11-14,Clothing,Baseline: last 28-day mean,1489,1753.4285714285713
+2023-11-15,Clothing,Baseline: last 28-day mean,1896,1753.4285714285713
+2023-11-16,Clothing,Baseline: last 28-day mean,1429,1753.4285714285713
+2023-11-17,Clothing,Baseline: last 28-day mean,1754,1753.4285714285713
+2023-11-18,Clothing,Baseline: last 28-day mean,1715,1753.4285714285713
+2023-11-19,Clothing,Baseline: last 28-day mean,1575,1753.4285714285713
+2023-11-20,Clothing,Baseline: last 28-day mean,1668,1753.4285714285713
+2023-11-21,Clothing,Baseline: last 28-day mean,1779,1753.4285714285713
+2023-11-22,Clothing,Baseline: last 28-day mean,1841,1753.4285714285713
+2023-11-23,Clothing,Baseline: last 28-day mean,1692,1753.4285714285713
+2023-11-24,Clothing,Baseline: last 28-day mean,1496,1753.4285714285713
+2023-11-25,Clothing,Baseline: last 28-day mean,1584,1753.4285714285713
+2023-11-26,Clothing,Baseline: last 28-day mean,1707,1753.4285714285713
+2023-11-27,Clothing,Baseline: last 28-day mean,1864,1753.4285714285713
+2023-11-28,Clothing,Baseline: last 28-day mean,1544,1753.4285714285713
+2023-11-29,Clothing,Baseline: last 28-day mean,1365,1753.4285714285713
+2023-11-30,Clothing,Baseline: last 28-day mean,1674,1753.4285714285713
+2023-12-01,Clothing,Baseline: last 28-day mean,2128,1753.4285714285713
+2023-12-02,Clothing,Baseline: last 28-day mean,2204,1753.4285714285713
+2023-12-03,Clothing,Baseline: last 28-day mean,1915,1753.4285714285713
+2023-12-04,Clothing,Baseline: last 28-day mean,1911,1753.4285714285713
+2023-12-05,Clothing,Baseline: last 28-day mean,2393,1753.4285714285713
+2023-12-06,Clothing,Baseline: last 28-day mean,2178,1753.4285714285713
+2023-12-07,Clothing,Baseline: last 28-day mean,2186,1753.4285714285713
+2023-12-08,Clothing,Baseline: last 28-day mean,2006,1753.4285714285713
+2023-12-09,Clothing,Baseline: last 28-day mean,1987,1753.4285714285713
+2023-12-10,Clothing,Baseline: last 28-day mean,1898,1753.4285714285713
+2023-12-11,Clothing,Baseline: last 28-day mean,1601,1753.4285714285713
+2023-12-12,Clothing,Baseline: last 28-day mean,2054,1753.4285714285713
+2023-12-13,Clothing,Baseline: last 28-day mean,2296,1753.4285714285713
+2023-12-14,Clothing,Baseline: last 28-day mean,1985,1753.4285714285713
+2023-12-15,Clothing,Baseline: last 28-day mean,2560,1753.4285714285713
+2023-12-16,Clothing,Baseline: last 28-day mean,1667,1753.4285714285713
+2023-12-17,Clothing,Baseline: last 28-day mean,1931,1753.4285714285713
+2023-12-18,Clothing,Baseline: last 28-day mean,2162,1753.4285714285713
+2023-12-19,Clothing,Baseline: last 28-day mean,1949,1753.4285714285713
+2023-12-20,Clothing,Baseline: last 28-day mean,1956,1753.4285714285713
+2023-12-21,Clothing,Baseline: last 28-day mean,2095,1753.4285714285713
+2023-12-22,Clothing,Baseline: last 28-day mean,2092,1753.4285714285713
+2023-12-23,Clothing,Baseline: last 28-day mean,1997,1753.4285714285713
+2023-12-24,Clothing,Baseline: last 28-day mean,1833,1753.4285714285713
+2023-12-25,Clothing,Baseline: last 28-day mean,1962,1753.4285714285713
+2023-12-26,Clothing,Baseline: last 28-day mean,2037,1753.4285714285713
+2023-12-27,Clothing,Baseline: last 28-day mean,2123,1753.4285714285713
+2023-12-28,Clothing,Baseline: last 28-day mean,2006,1753.4285714285713
+2023-12-29,Clothing,Baseline: last 28-day mean,2164,1753.4285714285713
+2023-12-30,Clothing,Baseline: last 28-day mean,1990,1753.4285714285713
+2023-12-31,Clothing,Baseline: last 28-day mean,1891,1753.4285714285713
+2024-01-01,Clothing,Baseline: last 28-day mean,1830,1753.4285714285713
+2024-01-02,Clothing,Baseline: last 28-day mean,2386,1753.4285714285713
+2024-01-03,Clothing,Baseline: last 28-day mean,1992,1753.4285714285713
+2024-01-04,Clothing,Baseline: last 28-day mean,1969,1753.4285714285713
+2024-01-05,Clothing,Baseline: last 28-day mean,2401,1753.4285714285713
+2024-01-06,Clothing,Baseline: last 28-day mean,2207,1753.4285714285713
+2024-01-07,Clothing,Baseline: last 28-day mean,1925,1753.4285714285713
+2024-01-08,Clothing,Baseline: last 28-day mean,2308,1753.4285714285713
+2024-01-09,Clothing,Baseline: last 28-day mean,1659,1753.4285714285713
+2024-01-10,Clothing,Baseline: last 28-day mean,1788,1753.4285714285713
+2024-01-11,Clothing,Baseline: last 28-day mean,2036,1753.4285714285713
+2024-01-12,Clothing,Baseline: last 28-day mean,1661,1753.4285714285713
+2024-01-13,Clothing,Baseline: last 28-day mean,2254,1753.4285714285713
+2024-01-14,Clothing,Baseline: last 28-day mean,1686,1753.4285714285713
+2024-01-15,Clothing,Baseline: last 28-day mean,1784,1753.4285714285713
+2024-01-16,Clothing,Baseline: last 28-day mean,1897,1753.4285714285713
+2024-01-17,Clothing,Baseline: last 28-day mean,1742,1753.4285714285713
+2024-01-18,Clothing,Baseline: last 28-day mean,1915,1753.4285714285713
+2024-01-19,Clothing,Baseline: last 28-day mean,1545,1753.4285714285713
+2024-01-20,Clothing,Baseline: last 28-day mean,2319,1753.4285714285713
+2024-01-21,Clothing,Baseline: last 28-day mean,1754,1753.4285714285713
+2024-01-22,Clothing,Baseline: last 28-day mean,2080,1753.4285714285713
+2024-01-23,Clothing,Baseline: last 28-day mean,1555,1753.4285714285713
+2024-01-24,Clothing,Baseline: last 28-day mean,2174,1753.4285714285713
+2024-01-25,Clothing,Baseline: last 28-day mean,2381,1753.4285714285713
+2024-01-26,Clothing,Baseline: last 28-day mean,2250,1753.4285714285713
+2024-01-27,Clothing,Baseline: last 28-day mean,2123,1753.4285714285713
+2024-01-28,Clothing,Baseline: last 28-day mean,1834,1753.4285714285713
+2024-01-29,Clothing,Baseline: last 28-day mean,1881,1753.4285714285713
+2024-01-30,Clothing,Baseline: last 28-day mean,1743,1753.4285714285713
+2023-10-31,Clothing,ARIMA,1779,1705.2091616971422
+2023-11-01,Clothing,ARIMA,1838,1733.1390511784068
+2023-11-02,Clothing,ARIMA,2027,1733.1390511784068
+2023-11-03,Clothing,ARIMA,1734,1733.1390511784068
+2023-11-04,Clothing,ARIMA,1496,1733.1390511784068
+2023-11-05,Clothing,ARIMA,1659,1733.1390511784068
+2023-11-06,Clothing,ARIMA,1537,1733.1390511784068
+2023-11-07,Clothing,ARIMA,1717,1733.1390511784068
+2023-11-08,Clothing,ARIMA,1581,1733.1390511784068
+2023-11-09,Clothing,ARIMA,1836,1733.1390511784068
+2023-11-10,Clothing,ARIMA,1691,1733.1390511784068
+2023-11-11,Clothing,ARIMA,1950,1733.1390511784068
+2023-11-12,Clothing,ARIMA,1976,1733.1390511784068
+2023-11-13,Clothing,ARIMA,1855,1733.1390511784068
+2023-11-14,Clothing,ARIMA,1489,1733.1390511784068
+2023-11-15,Clothing,ARIMA,1896,1733.1390511784068
+2023-11-16,Clothing,ARIMA,1429,1733.1390511784068
+2023-11-17,Clothing,ARIMA,1754,1733.1390511784068
+2023-11-18,Clothing,ARIMA,1715,1733.1390511784068
+2023-11-19,Clothing,ARIMA,1575,1733.1390511784068
+2023-11-20,Clothing,ARIMA,1668,1733.1390511784068
+2023-11-21,Clothing,ARIMA,1779,1733.1390511784068
+2023-11-22,Clothing,ARIMA,1841,1733.1390511784068
+2023-11-23,Clothing,ARIMA,1692,1733.1390511784068
+2023-11-24,Clothing,ARIMA,1496,1733.1390511784068
+2023-11-25,Clothing,ARIMA,1584,1733.1390511784068
+2023-11-26,Clothing,ARIMA,1707,1733.1390511784068
+2023-11-27,Clothing,ARIMA,1864,1733.1390511784068
+2023-11-28,Clothing,ARIMA,1544,1733.1390511784068
+2023-11-29,Clothing,ARIMA,1365,1733.1390511784068
+2023-11-30,Clothing,ARIMA,1674,1733.1390511784068
+2023-12-01,Clothing,ARIMA,2128,1733.1390511784068
+2023-12-02,Clothing,ARIMA,2204,1733.1390511784068
+2023-12-03,Clothing,ARIMA,1915,1733.1390511784068
+2023-12-04,Clothing,ARIMA,1911,1733.1390511784068
+2023-12-05,Clothing,ARIMA,2393,1733.1390511784068
+2023-12-06,Clothing,ARIMA,2178,1733.1390511784068
+2023-12-07,Clothing,ARIMA,2186,1733.1390511784068
+2023-12-08,Clothing,ARIMA,2006,1733.1390511784068
+2023-12-09,Clothing,ARIMA,1987,1733.1390511784068
+2023-12-10,Clothing,ARIMA,1898,1733.1390511784068
+2023-12-11,Clothing,ARIMA,1601,1733.1390511784068
+2023-12-12,Clothing,ARIMA,2054,1733.1390511784068
+2023-12-13,Clothing,ARIMA,2296,1733.1390511784068
+2023-12-14,Clothing,ARIMA,1985,1733.1390511784068
+2023-12-15,Clothing,ARIMA,2560,1733.1390511784068
+2023-12-16,Clothing,ARIMA,1667,1733.1390511784068
+2023-12-17,Clothing,ARIMA,1931,1733.1390511784068
+2023-12-18,Clothing,ARIMA,2162,1733.1390511784068
+2023-12-19,Clothing,ARIMA,1949,1733.1390511784068
+2023-12-20,Clothing,ARIMA,1956,1733.1390511784068
+2023-12-21,Clothing,ARIMA,2095,1733.1390511784068
+2023-12-22,Clothing,ARIMA,2092,1733.1390511784068
+2023-12-23,Clothing,ARIMA,1997,1733.1390511784068
+2023-12-24,Clothing,ARIMA,1833,1733.1390511784068
+2023-12-25,Clothing,ARIMA,1962,1733.1390511784068
+2023-12-26,Clothing,ARIMA,2037,1733.1390511784068
+2023-12-27,Clothing,ARIMA,2123,1733.1390511784068
+2023-12-28,Clothing,ARIMA,2006,1733.1390511784068
+2023-12-29,Clothing,ARIMA,2164,1733.1390511784068
+2023-12-30,Clothing,ARIMA,1990,1733.1390511784068
+2023-12-31,Clothing,ARIMA,1891,1733.1390511784068
+2024-01-01,Clothing,ARIMA,1830,1733.1390511784068
+2024-01-02,Clothing,ARIMA,2386,1733.1390511784068
+2024-01-03,Clothing,ARIMA,1992,1733.1390511784068
+2024-01-04,Clothing,ARIMA,1969,1733.1390511784068
+2024-01-05,Clothing,ARIMA,2401,1733.1390511784068
+2024-01-06,Clothing,ARIMA,2207,1733.1390511784068
+2024-01-07,Clothing,ARIMA,1925,1733.1390511784068
+2024-01-08,Clothing,ARIMA,2308,1733.1390511784068
+2024-01-09,Clothing,ARIMA,1659,1733.1390511784068
+2024-01-10,Clothing,ARIMA,1788,1733.1390511784068
+2024-01-11,Clothing,ARIMA,2036,1733.1390511784068
+2024-01-12,Clothing,ARIMA,1661,1733.1390511784068
+2024-01-13,Clothing,ARIMA,2254,1733.1390511784068
+2024-01-14,Clothing,ARIMA,1686,1733.1390511784068
+2024-01-15,Clothing,ARIMA,1784,1733.1390511784068
+2024-01-16,Clothing,ARIMA,1897,1733.1390511784068
+2024-01-17,Clothing,ARIMA,1742,1733.1390511784068
+2024-01-18,Clothing,ARIMA,1915,1733.1390511784068
+2024-01-19,Clothing,ARIMA,1545,1733.1390511784068
+2024-01-20,Clothing,ARIMA,2319,1733.1390511784068
+2024-01-21,Clothing,ARIMA,1754,1733.1390511784068
+2024-01-22,Clothing,ARIMA,2080,1733.1390511784068
+2024-01-23,Clothing,ARIMA,1555,1733.1390511784068
+2024-01-24,Clothing,ARIMA,2174,1733.1390511784068
+2024-01-25,Clothing,ARIMA,2381,1733.1390511784068
+2024-01-26,Clothing,ARIMA,2250,1733.1390511784068
+2024-01-27,Clothing,ARIMA,2123,1733.1390511784068
+2024-01-28,Clothing,ARIMA,1834,1733.1390511784068
+2024-01-29,Clothing,ARIMA,1881,1733.1390511784068
+2024-01-30,Clothing,ARIMA,1743,1733.1390511784068
+2023-10-31,Clothing,Prophet,1779,1662.8538782624973
+2023-11-01,Clothing,Prophet,1838,1658.2565265305905
+2023-11-02,Clothing,Prophet,2027,1660.2943283795944
+2023-11-03,Clothing,Prophet,1734,1641.101784883164
+2023-11-04,Clothing,Prophet,1496,1659.5371311261847
+2023-11-05,Clothing,Prophet,1659,1682.5437124118557
+2023-11-06,Clothing,Prophet,1537,1657.3414932035842
+2023-11-07,Clothing,Prophet,1717,1659.0754827035744
+2023-11-08,Clothing,Prophet,1581,1654.4781309716727
+2023-11-09,Clothing,Prophet,1836,1656.5159328206837
+2023-11-10,Clothing,Prophet,1691,1637.3233893242498
+2023-11-11,Clothing,Prophet,1950,1655.7587355672688
+2023-11-12,Clothing,Prophet,1976,1678.765316852939
+2023-11-13,Clothing,Prophet,1855,1653.563097644638
+2023-11-14,Clothing,Prophet,1489,1655.29708714465
+2023-11-15,Clothing,Prophet,1896,1650.6997354127352
+2023-11-16,Clothing,Prophet,1429,1652.7375372617357
+2023-11-17,Clothing,Prophet,1754,1633.544993765329
+2023-11-18,Clothing,Prophet,1715,1651.980340008353
+2023-11-19,Clothing,Prophet,1575,1674.9869212939832
+2023-11-20,Clothing,Prophet,1668,1649.7847020857132
+2023-11-21,Clothing,Prophet,1779,1651.5186915857266
+2023-11-22,Clothing,Prophet,1841,1646.921339853816
+2023-11-23,Clothing,Prophet,1692,1648.9591417027875
+2023-11-24,Clothing,Prophet,1496,1629.7665982064152
+2023-11-25,Clothing,Prophet,1584,1648.2019444494847
+2023-11-26,Clothing,Prophet,1707,1671.2085257350666
+2023-11-27,Clothing,Prophet,1864,1646.0063065267666
+2023-11-28,Clothing,Prophet,1544,1647.740296026789
+2023-11-29,Clothing,Prophet,1365,1643.1429442948988
+2023-11-30,Clothing,Prophet,1674,1645.1807461438768
+2023-12-01,Clothing,Prophet,2128,1625.9882026474538
+2023-12-02,Clothing,Prophet,2204,1644.423548890405
+2023-12-03,Clothing,Prophet,1915,1667.4301301761473
+2023-12-04,Clothing,Prophet,1911,1642.22791096782
+2023-12-05,Clothing,Prophet,2393,1643.9619004678661
+2023-12-06,Clothing,Prophet,2178,1639.364548735961
+2023-12-07,Clothing,Prophet,2186,1641.4023505849286
+2023-12-08,Clothing,Prophet,2006,1622.2098070885395
+2023-12-09,Clothing,Prophet,1987,1640.6451533314894
+2023-12-10,Clothing,Prophet,1898,1663.6517346172307
+2023-12-11,Clothing,Prophet,1601,1638.4495154088954
+2023-12-12,Clothing,Prophet,2054,1640.1835049089418
+2023-12-13,Clothing,Prophet,2296,1635.5861531770433
+2023-12-14,Clothing,Prophet,1985,1637.6239550260552
+2023-12-15,Clothing,Prophet,2560,1618.4314115296256
+2023-12-16,Clothing,Prophet,1667,1636.8667577726214
+2023-12-17,Clothing,Prophet,1931,1659.873339058275
+2023-12-18,Clothing,Prophet,2162,1634.6711198499488
+2023-12-19,Clothing,Prophet,1949,1636.4051093500054
+2023-12-20,Clothing,Prophet,1956,1631.807757618126
+2023-12-21,Clothing,Prophet,2095,1633.8455594671073
+2023-12-22,Clothing,Prophet,2092,1614.6530159706642
+2023-12-23,Clothing,Prophet,1997,1633.0883622137053
+2023-12-24,Clothing,Prophet,1833,1656.094943499358
+2023-12-25,Clothing,Prophet,1962,1630.892724291088
+2023-12-26,Clothing,Prophet,2037,1632.6267137910822
+2023-12-27,Clothing,Prophet,2123,1628.0293620591883
+2023-12-28,Clothing,Prophet,2006,1630.0671639081963
+2023-12-29,Clothing,Prophet,2164,1610.8746204117501
+2023-12-30,Clothing,Prophet,1990,1629.3099666546736
+2023-12-31,Clothing,Prophet,1891,1652.3165479404413
+2024-01-01,Clothing,Prophet,1830,1627.114328732141
+2024-01-02,Clothing,Prophet,2386,1628.848318232158
+2024-01-03,Clothing,Prophet,1992,1624.2509665002708
+2024-01-04,Clothing,Prophet,1969,1626.2887683492481
+2024-01-05,Clothing,Prophet,2401,1607.096224852877
+2024-01-06,Clothing,Prophet,2207,1625.5315710957577
+2024-01-07,Clothing,Prophet,1925,1648.5381523814856
+2024-01-08,Clothing,Prophet,2308,1623.3359331732167
+2024-01-09,Clothing,Prophet,1659,1625.0699226732347
+2024-01-10,Clothing,Prophet,1788,1620.4725709413317
+2024-01-11,Clothing,Prophet,2036,1622.5103727903002
+2024-01-12,Clothing,Prophet,1661,1603.3178292939153
+2024-01-13,Clothing,Prophet,2254,1621.7531755368893
+2024-01-14,Clothing,Prophet,1686,1644.7597568225688
+2024-01-15,Clothing,Prophet,1784,1619.5575376143336
+2024-01-16,Clothing,Prophet,1897,1621.2915271143117
+2024-01-17,Clothing,Prophet,1742,1616.694175382414
+2024-01-18,Clothing,Prophet,1915,1618.7319772313897
+2024-01-19,Clothing,Prophet,1545,1599.5394337350012
+2024-01-20,Clothing,Prophet,2319,1617.9747799779736
+2024-01-21,Clothing,Prophet,1754,1640.9813612636501
+2024-01-22,Clothing,Prophet,2080,1615.779142055387
+2024-01-23,Clothing,Prophet,1555,1617.5131315553874
+2024-01-24,Clothing,Prophet,2174,1612.9157798234764
+2024-01-25,Clothing,Prophet,2381,1614.953581672441
+2024-01-26,Clothing,Prophet,2250,1595.7610381760808
+2024-01-27,Clothing,Prophet,2123,1614.196384419058
+2024-01-28,Clothing,Prophet,1834,1637.202965704733
+2024-01-29,Clothing,Prophet,1881,1612.0007464964626
+2024-01-30,Clothing,Prophet,1743,1613.734735996464
+2023-10-31,Clothing,ARIMA scenario-oracle (realised regressors),1779,1611.3692431941236
+2023-11-01,Clothing,ARIMA scenario-oracle (realised regressors),1838,1780.9394369048673
+2023-11-02,Clothing,ARIMA scenario-oracle (realised regressors),2027,1799.9546382051897
+2023-11-03,Clothing,ARIMA scenario-oracle (realised regressors),1734,1832.8547556277765
+2023-11-04,Clothing,ARIMA scenario-oracle (realised regressors),1496,1797.0098516295018
+2023-11-05,Clothing,ARIMA scenario-oracle (realised regressors),1659,1786.9626746847582
+2023-11-06,Clothing,ARIMA scenario-oracle (realised regressors),1537,1650.2669216139977
+2023-11-07,Clothing,ARIMA scenario-oracle (realised regressors),1717,1716.1094837825594
+2023-11-08,Clothing,ARIMA scenario-oracle (realised regressors),1581,1842.1000807790217
+2023-11-09,Clothing,ARIMA scenario-oracle (realised regressors),1836,1765.3991805701176
+2023-11-10,Clothing,ARIMA scenario-oracle (realised regressors),1691,1730.791157267829
+2023-11-11,Clothing,ARIMA scenario-oracle (realised regressors),1950,1703.8497919852753
+2023-11-12,Clothing,ARIMA scenario-oracle (realised regressors),1976,1816.604246646031
+2023-11-13,Clothing,ARIMA scenario-oracle (realised regressors),1855,1766.4982159438177
+2023-11-14,Clothing,ARIMA scenario-oracle (realised regressors),1489,1767.9803020002216
+2023-11-15,Clothing,ARIMA scenario-oracle (realised regressors),1896,1839.1912701847082
+2023-11-16,Clothing,ARIMA scenario-oracle (realised regressors),1429,1671.205251477199
+2023-11-17,Clothing,ARIMA scenario-oracle (realised regressors),1754,1742.8312983014735
+2023-11-18,Clothing,ARIMA scenario-oracle (realised regressors),1715,1888.2826777506373
+2023-11-19,Clothing,ARIMA scenario-oracle (realised regressors),1575,1767.0889546539888
+2023-11-20,Clothing,ARIMA scenario-oracle (realised regressors),1668,1743.3663434248342
+2023-11-21,Clothing,ARIMA scenario-oracle (realised regressors),1779,1791.304598489828
+2023-11-22,Clothing,ARIMA scenario-oracle (realised regressors),1841,1767.4386467576896
+2023-11-23,Clothing,ARIMA scenario-oracle (realised regressors),1692,1801.551517147848
+2023-11-24,Clothing,ARIMA scenario-oracle (realised regressors),1496,1694.9876210316427
+2023-11-25,Clothing,ARIMA scenario-oracle (realised regressors),1584,1767.253877825372
+2023-11-26,Clothing,ARIMA scenario-oracle (realised regressors),1707,1791.505776695676
+2023-11-27,Clothing,ARIMA scenario-oracle (realised regressors),1864,1719.0032425477475
+2023-11-28,Clothing,ARIMA scenario-oracle (realised regressors),1544,1719.0787415706643
+2023-11-29,Clothing,ARIMA scenario-oracle (realised regressors),1365,1598.3357958194817
+2023-11-30,Clothing,ARIMA scenario-oracle (realised regressors),1674,1598.3851400915785
+2023-12-01,Clothing,ARIMA scenario-oracle (realised regressors),2128,1791.4363031490964
+2023-12-02,Clothing,ARIMA scenario-oracle (realised regressors),2204,1815.6049351971758
+2023-12-03,Clothing,ARIMA scenario-oracle (realised regressors),1915,1767.3060991323684
+2023-12-04,Clothing,ARIMA scenario-oracle (realised regressors),1911,1791.4635589105656
+2023-12-05,Clothing,ARIMA scenario-oracle (realised regressors),2393,1767.3101368204664
+2023-12-06,Clothing,ARIMA scenario-oracle (realised regressors),2178,1863.869440282515
+2023-12-07,Clothing,ARIMA scenario-oracle (realised regressors),2186,1694.9036301524964
+2023-12-08,Clothing,ARIMA scenario-oracle (realised regressors),2006,1743.185397531708
+2023-12-09,Clothing,ARIMA scenario-oracle (realised regressors),1987,1767.3145004922233
+2023-12-10,Clothing,ARIMA scenario-oracle (realised regressors),1898,1767.3203850499185
+2023-12-11,Clothing,ARIMA scenario-oracle (realised regressors),1601,1791.4520096056567
+2023-12-12,Clothing,ARIMA scenario-oracle (realised regressors),2054,1863.865001205184
+2023-12-13,Clothing,ARIMA scenario-oracle (realised regressors),2296,1719.0436007460912
+2023-12-14,Clothing,ARIMA scenario-oracle (realised regressors),1985,1694.9097325285995
+2023-12-15,Clothing,ARIMA scenario-oracle (realised regressors),2560,1791.4532278609915
+2023-12-16,Clothing,ARIMA scenario-oracle (realised regressors),1667,1791.4548707191632
+2023-12-17,Clothing,ARIMA scenario-oracle (realised regressors),1931,1839.7263063004127
+2023-12-18,Clothing,ARIMA scenario-oracle (realised regressors),2162,1767.3182344315305
+2023-12-19,Clothing,ARIMA scenario-oracle (realised regressors),1949,1743.180984517996
+2023-12-20,Clothing,ARIMA scenario-oracle (realised regressors),1956,1719.0453044150781
+2023-12-21,Clothing,ARIMA scenario-oracle (realised regressors),2095,1743.1811189479631
+2023-12-22,Clothing,ARIMA scenario-oracle (realised regressors),2092,1839.727105069657
+2023-12-23,Clothing,ARIMA scenario-oracle (realised regressors),1997,1791.453970541274
+2023-12-24,Clothing,ARIMA scenario-oracle (realised regressors),1833,1767.3178884402096
+2023-12-25,Clothing,ARIMA scenario-oracle (realised regressors),1962,1680.9672336496783
+2023-12-26,Clothing,ARIMA scenario-oracle (realised regressors),2037,1719.0450782838086
+2023-12-27,Clothing,ARIMA scenario-oracle (realised regressors),2123,1820.6597841815012
+2023-12-28,Clothing,ARIMA scenario-oracle (realised regressors),2006,1748.25076662956
+2023-12-29,Clothing,ARIMA scenario-oracle (realised regressors),2164,1627.5687537773906
+2023-12-30,Clothing,ARIMA scenario-oracle (realised regressors),1990,1627.568837466314
+2023-12-31,Clothing,ARIMA scenario-oracle (realised regressors),1891,1627.568769808854
+2024-01-01,Clothing,ARIMA scenario-oracle (realised regressors),1830,1758.445848857347
+2024-01-02,Clothing,ARIMA scenario-oracle (realised regressors),2386,1748.2506896197378
+2024-01-03,Clothing,ARIMA scenario-oracle (realised regressors),1992,1820.6598709681916
+2024-01-04,Clothing,ARIMA scenario-oracle (realised regressors),1969,1796.52346020099
+2024-01-05,Clothing,ARIMA scenario-oracle (realised regressors),2401,1893.0690110318646
+2024-01-06,Clothing,ARIMA scenario-oracle (realised regressors),2207,1748.2507009434257
+2024-01-07,Clothing,ARIMA scenario-oracle (realised regressors),1925,1796.523479947047
+2024-01-08,Clothing,ARIMA scenario-oracle (realised regressors),2308,1820.6598494684931
+2024-01-09,Clothing,ARIMA scenario-oracle (realised regressors),1659,1791.454140762064
+2024-01-10,Clothing,ARIMA scenario-oracle (realised regressors),1788,1743.1813689603168
+2024-01-11,Clothing,ARIMA scenario-oracle (realised regressors),2036,1791.454139216461
+2024-01-12,Clothing,ARIMA scenario-oracle (realised regressors),1661,1719.0449883432198
+2024-01-13,Clothing,ARIMA scenario-oracle (realised regressors),2254,1791.4541382062937
+2024-01-14,Clothing,ARIMA scenario-oracle (realised regressors),1686,1670.7722254266312
+2024-01-15,Clothing,ARIMA scenario-oracle (realised regressors),1784,1632.6945794980913
+2024-01-16,Clothing,ARIMA scenario-oracle (realised regressors),1897,1863.8632808933721
+2024-01-17,Clothing,ARIMA scenario-oracle (realised regressors),1742,1767.317755247946
+2024-01-18,Clothing,ARIMA scenario-oracle (realised regressors),1915,1743.181371909096
+2024-01-19,Clothing,ARIMA scenario-oracle (realised regressors),1545,1719.044991232678
+2024-01-20,Clothing,ARIMA scenario-oracle (realised regressors),2319,1815.5905177369643
+2024-01-21,Clothing,ARIMA scenario-oracle (realised regressors),1754,1815.590518514853
+2024-01-22,Clothing,ARIMA scenario-oracle (realised regressors),2080,1791.4541360193527
+2024-01-23,Clothing,ARIMA scenario-oracle (realised regressors),1555,1719.0449909278893
+2024-01-24,Clothing,ARIMA scenario-oracle (realised regressors),2174,1863.8632817166158
+2024-01-25,Clothing,ARIMA scenario-oracle (realised regressors),2381,1743.1813727157787
+2024-01-26,Clothing,ARIMA scenario-oracle (realised regressors),2250,1743.1813724471476
+2024-01-27,Clothing,ARIMA scenario-oracle (realised regressors),2123,1863.8632819974398
+2024-01-28,Clothing,ARIMA scenario-oracle (realised regressors),1834,1767.317754355373
+2024-01-29,Clothing,ARIMA scenario-oracle (realised regressors),1881,1598.3630814309427
+2024-01-30,Clothing,ARIMA scenario-oracle (realised regressors),1743,1598.3630813161942
+2023-10-31,Clothing,Prophet scenario-oracle (realised regressors),1779,1514.2050339059906
+2023-11-01,Clothing,Prophet scenario-oracle (realised regressors),1838,1690.508486182847
+2023-11-02,Clothing,Prophet scenario-oracle (realised regressors),2027,1696.406916228484
+2023-11-03,Clothing,Prophet scenario-oracle (realised regressors),1734,1728.833506263121
+2023-11-04,Clothing,Prophet scenario-oracle (realised regressors),1496,1702.4685124756616
+2023-11-05,Clothing,Prophet scenario-oracle (realised regressors),1659,1719.0967698873244
+2023-11-06,Clothing,Prophet scenario-oracle (realised regressors),1537,1561.1888961216168
+2023-11-07,Clothing,Prophet scenario-oracle (realised regressors),1717,1631.913491036965
+2023-11-08,Clothing,Prophet scenario-oracle (realised regressors),1581,1736.0068626950274
+2023-11-09,Clothing,Prophet scenario-oracle (realised regressors),1836,1669.6952121218842
+2023-11-10,Clothing,Prophet scenario-oracle (realised regressors),1691,1655.1593949531123
+2023-11-11,Clothing,Prophet scenario-oracle (realised regressors),1950,1652.8644280385759
+2023-11-12,Clothing,Prophet scenario-oracle (realised regressors),1976,1740.525119526591
+2023-11-13,Clothing,Prophet scenario-oracle (realised regressors),1855,1678.8973532525713
+2023-11-14,Clothing,Prophet scenario-oracle (realised regressors),1489,1677.4118675491259
+2023-11-15,Clothing,Prophet scenario-oracle (realised regressors),1896,1733.3651854613454
+2023-11-16,Clothing,Prophet scenario-oracle (realised regressors),1429,1570.773427396469
+2023-11-17,Clothing,Prophet scenario-oracle (realised regressors),1754,1627.2700443040437
+2023-11-18,Clothing,Prophet scenario-oracle (realised regressors),1715,1793.4652655000366
+2023-11-19,Clothing,Prophet scenario-oracle (realised regressors),1575,1689.7433885470155
+2023-11-20,Clothing,Prophet scenario-oracle (realised regressors),1668,1652.1856491459807
+2023-11-21,Clothing,Prophet scenario-oracle (realised regressors),1779,1698.8402171883777
+2023-11-22,Clothing,Prophet scenario-oracle (realised regressors),1841,1658.5134276088831
+2023-11-23,Clothing,Prophet scenario-oracle (realised regressors),1692,1737.7995848157418
+2023-11-24,Clothing,Prophet scenario-oracle (realised regressors),1496,1576.488313324516
+2023-11-25,Clothing,Prophet scenario-oracle (realised regressors),1584,1670.473453901759
+2023-11-26,Clothing,Prophet scenario-oracle (realised regressors),1707,1711.171738186282
+2023-11-27,Clothing,Prophet scenario-oracle (realised regressors),1864,1625.4739450393506
+2023-11-28,Clothing,Prophet scenario-oracle (realised regressors),1544,1623.988459335931
+2023-11-29,Clothing,Prophet scenario-oracle (realised regressors),1365,1487.3815622646869
+2023-11-30,Clothing,Prophet scenario-oracle (realised regressors),1674,1493.2799923103153
+2023-12-01,Clothing,Prophet scenario-oracle (realised regressors),2128,1670.126743582532
+2023-12-02,Clothing,Prophet scenario-oracle (realised regressors),2204,1715.9718304138028
+2023-12-03,Clothing,Prophet scenario-oracle (realised regressors),1915,1684.4600340796655
+2023-12-04,Clothing,Prophet scenario-oracle (realised regressors),1911,1695.0423484244432
+2023-12-05,Clothing,Prophet scenario-oracle (realised regressors),2393,1669.4868358481137
+2023-12-06,Clothing,Prophet scenario-oracle (realised regressors),2178,1749.510180633243
+2023-12-07,Clothing,Prophet scenario-oracle (realised regressors),2186,1586.918422568346
+2023-12-08,Clothing,Prophet scenario-oracle (realised regressors),2006,1619.345012603004
+2023-12-09,Clothing,Prophet scenario-oracle (realised regressors),1987,1665.1900994342677
+2023-12-10,Clothing,Prophet scenario-oracle (realised regressors),1898,1681.818356846001
+2023-12-11,Clothing,Prophet scenario-oracle (realised regressors),1601,1692.4006711907832
+2023-12-12,Clothing,Prophet scenario-oracle (realised regressors),2054,1763.125266106136
+2023-12-13,Clothing,Prophet scenario-oracle (realised regressors),2296,1602.4483421619775
+2023-12-14,Clothing,Prophet scenario-oracle (realised regressors),1985,1584.276745334695
+2023-12-15,Clothing,Prophet scenario-oracle (realised regressors),2560,1664.8433891151992
+2023-12-16,Clothing,Prophet scenario-oracle (realised regressors),1667,1686.6184490735745
+2023-12-17,Clothing,Prophet scenario-oracle (realised regressors),1931,1751.3867602310793
+2023-12-18,Clothing,Prophet scenario-oracle (realised regressors),2162,1665.6889670841533
+2023-12-19,Clothing,Prophet scenario-oracle (realised regressors),1949,1640.1334545078496
+2023-12-20,Clothing,Prophet scenario-oracle (realised regressors),1956,1599.8066649282962
+2023-12-21,Clothing,Prophet scenario-oracle (realised regressors),2095,1629.7751218468643
+2023-12-22,Clothing,Prophet scenario-oracle (realised regressors),2092,1710.3417656273539
+2023-12-23,Clothing,Prophet scenario-oracle (realised regressors),1997,1683.9767718399007
+2023-12-24,Clothing,Prophet scenario-oracle (realised regressors),1833,1676.5350023786227
+2023-12-25,Clothing,Prophet scenario-oracle (realised regressors),1962,1616.0848826471022
+2023-12-26,Clothing,Prophet scenario-oracle (realised regressors),2037,1613.4217504012397
+2023-12-27,Clothing,Prophet scenario-oracle (realised regressors),2123,1712.4146278204064
+2023-12-28,Clothing,Prophet scenario-oracle (realised regressors),2006,1646.1029772472643
+2023-12-29,Clothing,Prophet scenario-oracle (realised regressors),2164,1510.0393791713802
+2023-12-30,Clothing,Prophet scenario-oracle (realised regressors),1990,1531.8144391296873
+2023-12-31,Clothing,Prophet scenario-oracle (realised regressors),1891,1548.4426965414432
+2024-01-01,Clothing,Prophet scenario-oracle (realised regressors),1830,1704.6228186662643
+2024-01-02,Clothing,Prophet scenario-oracle (realised regressors),2386,1653.819632674539
+2024-01-03,Clothing,Prophet scenario-oracle (realised regressors),1992,1709.772950586725
+2024-01-04,Clothing,Prophet scenario-oracle (realised regressors),1969,1691.6013537594338
+2024-01-05,Clothing,Prophet scenario-oracle (realised regressors),2401,1772.167997539971
+2024-01-06,Clothing,Prophet scenario-oracle (realised regressors),2207,1649.522896260667
+2024-01-07,Clothing,Prophet scenario-oracle (realised regressors),1925,1714.2912074182443
+2024-01-08,Clothing,Prophet scenario-oracle (realised regressors),2308,1724.8735217630854
+2024-01-09,Clothing,Prophet scenario-oracle (realised regressors),1659,1680.3484765526518
+2024-01-10,Clothing,Prophet scenario-oracle (realised regressors),1788,1615.9516601001926
+2024-01-11,Clothing,Prophet scenario-oracle (realised regressors),2036,1669.9901438916722
+2024-01-12,Clothing,Prophet scenario-oracle (realised regressors),1661,1582.0665995616796
+2024-01-13,Clothing,Prophet scenario-oracle (realised regressors),2254,1676.0517401388354
+2024-01-14,Clothing,Prophet scenario-oracle (realised regressors),1686,1572.329863185857
+2024-01-15,Clothing,Prophet scenario-oracle (realised regressors),1784,1560.0197972002027
+2024-01-16,Clothing,Prophet scenario-oracle (realised regressors),1897,1749.916879937765
+2024-01-17,Clothing,Prophet scenario-oracle (realised regressors),1742,1637.3800097394421
+2024-01-18,Clothing,Prophet scenario-oracle (realised regressors),1915,1619.2084129121415
+2024-01-19,Clothing,Prophet scenario-oracle (realised regressors),1545,1579.4249223280133
+2024-01-20,Clothing,Prophet scenario-oracle (realised regressors),2319,1697.4800897780922
+2024-01-21,Clothing,Prophet scenario-oracle (realised regressors),1754,1714.1083471897562
+2024-01-22,Clothing,Prophet scenario-oracle (realised regressors),2080,1676.550607788707
+2024-01-23,Clothing,Prophet scenario-oracle (realised regressors),1555,1602.85504146648
+2024-01-24,Clothing,Prophet scenario-oracle (realised regressors),2174,1731.0184399974833
+2024-01-25,Clothing,Prophet scenario-oracle (realised regressors),2381,1616.5667356784493
+2024-01-26,Clothing,Prophet scenario-oracle (realised regressors),2250,1600.8532719672562
+2024-01-27,Clothing,Prophet scenario-oracle (realised regressors),2123,1742.9784662902798
+2024-01-28,Clothing,Prophet scenario-oracle (realised regressors),1834,1663.3266162102302
+2024-01-29,Clothing,Prophet scenario-oracle (realised regressors),1881,1481.3487155716014
+2024-01-30,Clothing,Prophet scenario-oracle (realised regressors),1743,1479.8632298681473
+2023-10-31,Electronics,Baseline: training mean,980,1166.8697604790418
+2023-11-01,Electronics,Baseline: training mean,1429,1166.8697604790418
+2023-11-02,Electronics,Baseline: training mean,1362,1166.8697604790418
+2023-11-03,Electronics,Baseline: training mean,1441,1166.8697604790418
+2023-11-04,Electronics,Baseline: training mean,1452,1166.8697604790418
+2023-11-05,Electronics,Baseline: training mean,1287,1166.8697604790418
+2023-11-06,Electronics,Baseline: training mean,1348,1166.8697604790418
+2023-11-07,Electronics,Baseline: training mean,1254,1166.8697604790418
+2023-11-08,Electronics,Baseline: training mean,1448,1166.8697604790418
+2023-11-09,Electronics,Baseline: training mean,1188,1166.8697604790418
+2023-11-10,Electronics,Baseline: training mean,1157,1166.8697604790418
+2023-11-11,Electronics,Baseline: training mean,1482,1166.8697604790418
+2023-11-12,Electronics,Baseline: training mean,1315,1166.8697604790418
+2023-11-13,Electronics,Baseline: training mean,1086,1166.8697604790418
+2023-11-14,Electronics,Baseline: training mean,1335,1166.8697604790418
+2023-11-15,Electronics,Baseline: training mean,1253,1166.8697604790418
+2023-11-16,Electronics,Baseline: training mean,1266,1166.8697604790418
+2023-11-17,Electronics,Baseline: training mean,1254,1166.8697604790418
+2023-11-18,Electronics,Baseline: training mean,1494,1166.8697604790418
+2023-11-19,Electronics,Baseline: training mean,1451,1166.8697604790418
+2023-11-20,Electronics,Baseline: training mean,1060,1166.8697604790418
+2023-11-21,Electronics,Baseline: training mean,1061,1166.8697604790418
+2023-11-22,Electronics,Baseline: training mean,1299,1166.8697604790418
+2023-11-23,Electronics,Baseline: training mean,1292,1166.8697604790418
+2023-11-24,Electronics,Baseline: training mean,1338,1166.8697604790418
+2023-11-25,Electronics,Baseline: training mean,1252,1166.8697604790418
+2023-11-26,Electronics,Baseline: training mean,1247,1166.8697604790418
+2023-11-27,Electronics,Baseline: training mean,1258,1166.8697604790418
+2023-11-28,Electronics,Baseline: training mean,1161,1166.8697604790418
+2023-11-29,Electronics,Baseline: training mean,1461,1166.8697604790418
+2023-11-30,Electronics,Baseline: training mean,1262,1166.8697604790418
+2023-12-01,Electronics,Baseline: training mean,1401,1166.8697604790418
+2023-12-02,Electronics,Baseline: training mean,1332,1166.8697604790418
+2023-12-03,Electronics,Baseline: training mean,1219,1166.8697604790418
+2023-12-04,Electronics,Baseline: training mean,1186,1166.8697604790418
+2023-12-05,Electronics,Baseline: training mean,1194,1166.8697604790418
+2023-12-06,Electronics,Baseline: training mean,1582,1166.8697604790418
+2023-12-07,Electronics,Baseline: training mean,1239,1166.8697604790418
+2023-12-08,Electronics,Baseline: training mean,1287,1166.8697604790418
+2023-12-09,Electronics,Baseline: training mean,1101,1166.8697604790418
+2023-12-10,Electronics,Baseline: training mean,1185,1166.8697604790418
+2023-12-11,Electronics,Baseline: training mean,1220,1166.8697604790418
+2023-12-12,Electronics,Baseline: training mean,1491,1166.8697604790418
+2023-12-13,Electronics,Baseline: training mean,1148,1166.8697604790418
+2023-12-14,Electronics,Baseline: training mean,1413,1166.8697604790418
+2023-12-15,Electronics,Baseline: training mean,1315,1166.8697604790418
+2023-12-16,Electronics,Baseline: training mean,1280,1166.8697604790418
+2023-12-17,Electronics,Baseline: training mean,1205,1166.8697604790418
+2023-12-18,Electronics,Baseline: training mean,1469,1166.8697604790418
+2023-12-19,Electronics,Baseline: training mean,1373,1166.8697604790418
+2023-12-20,Electronics,Baseline: training mean,1257,1166.8697604790418
+2023-12-21,Electronics,Baseline: training mean,1455,1166.8697604790418
+2023-12-22,Electronics,Baseline: training mean,1227,1166.8697604790418
+2023-12-23,Electronics,Baseline: training mean,1280,1166.8697604790418
+2023-12-24,Electronics,Baseline: training mean,1384,1166.8697604790418
+2023-12-25,Electronics,Baseline: training mean,1034,1166.8697604790418
+2023-12-26,Electronics,Baseline: training mean,1546,1166.8697604790418
+2023-12-27,Electronics,Baseline: training mean,654,1166.8697604790418
+2023-12-28,Electronics,Baseline: training mean,652,1166.8697604790418
+2023-12-29,Electronics,Baseline: training mean,687,1166.8697604790418
+2023-12-30,Electronics,Baseline: training mean,505,1166.8697604790418
+2023-12-31,Electronics,Baseline: training mean,667,1166.8697604790418
+2024-01-01,Electronics,Baseline: training mean,590,1166.8697604790418
+2024-01-02,Electronics,Baseline: training mean,671,1166.8697604790418
+2024-01-03,Electronics,Baseline: training mean,688,1166.8697604790418
+2024-01-04,Electronics,Baseline: training mean,615,1166.8697604790418
+2024-01-05,Electronics,Baseline: training mean,759,1166.8697604790418
+2024-01-06,Electronics,Baseline: training mean,657,1166.8697604790418
+2024-01-07,Electronics,Baseline: training mean,586,1166.8697604790418
+2024-01-08,Electronics,Baseline: training mean,692,1166.8697604790418
+2024-01-09,Electronics,Baseline: training mean,1217,1166.8697604790418
+2024-01-10,Electronics,Baseline: training mean,1077,1166.8697604790418
+2024-01-11,Electronics,Baseline: training mean,1454,1166.8697604790418
+2024-01-12,Electronics,Baseline: training mean,1314,1166.8697604790418
+2024-01-13,Electronics,Baseline: training mean,1273,1166.8697604790418
+2024-01-14,Electronics,Baseline: training mean,1058,1166.8697604790418
+2024-01-15,Electronics,Baseline: training mean,1291,1166.8697604790418
+2024-01-16,Electronics,Baseline: training mean,1102,1166.8697604790418
+2024-01-17,Electronics,Baseline: training mean,1192,1166.8697604790418
+2024-01-18,Electronics,Baseline: training mean,1474,1166.8697604790418
+2024-01-19,Electronics,Baseline: training mean,1040,1166.8697604790418
+2024-01-20,Electronics,Baseline: training mean,1611,1166.8697604790418
+2024-01-21,Electronics,Baseline: training mean,1144,1166.8697604790418
+2024-01-22,Electronics,Baseline: training mean,1358,1166.8697604790418
+2024-01-23,Electronics,Baseline: training mean,1133,1166.8697604790418
+2024-01-24,Electronics,Baseline: training mean,1174,1166.8697604790418
+2024-01-25,Electronics,Baseline: training mean,1305,1166.8697604790418
+2024-01-26,Electronics,Baseline: training mean,1237,1166.8697604790418
+2024-01-27,Electronics,Baseline: training mean,1172,1166.8697604790418
+2024-01-28,Electronics,Baseline: training mean,1298,1166.8697604790418
+2024-01-29,Electronics,Baseline: training mean,1179,1166.8697604790418
+2024-01-30,Electronics,Baseline: training mean,1245,1166.8697604790418
+2023-10-31,Electronics,Baseline: last 28-day mean,980,867.3214285714286
+2023-11-01,Electronics,Baseline: last 28-day mean,1429,867.3214285714286
+2023-11-02,Electronics,Baseline: last 28-day mean,1362,867.3214285714286
+2023-11-03,Electronics,Baseline: last 28-day mean,1441,867.3214285714286
+2023-11-04,Electronics,Baseline: last 28-day mean,1452,867.3214285714286
+2023-11-05,Electronics,Baseline: last 28-day mean,1287,867.3214285714286
+2023-11-06,Electronics,Baseline: last 28-day mean,1348,867.3214285714286
+2023-11-07,Electronics,Baseline: last 28-day mean,1254,867.3214285714286
+2023-11-08,Electronics,Baseline: last 28-day mean,1448,867.3214285714286
+2023-11-09,Electronics,Baseline: last 28-day mean,1188,867.3214285714286
+2023-11-10,Electronics,Baseline: last 28-day mean,1157,867.3214285714286
+2023-11-11,Electronics,Baseline: last 28-day mean,1482,867.3214285714286
+2023-11-12,Electronics,Baseline: last 28-day mean,1315,867.3214285714286
+2023-11-13,Electronics,Baseline: last 28-day mean,1086,867.3214285714286
+2023-11-14,Electronics,Baseline: last 28-day mean,1335,867.3214285714286
+2023-11-15,Electronics,Baseline: last 28-day mean,1253,867.3214285714286
+2023-11-16,Electronics,Baseline: last 28-day mean,1266,867.3214285714286
+2023-11-17,Electronics,Baseline: last 28-day mean,1254,867.3214285714286
+2023-11-18,Electronics,Baseline: last 28-day mean,1494,867.3214285714286
+2023-11-19,Electronics,Baseline: last 28-day mean,1451,867.3214285714286
+2023-11-20,Electronics,Baseline: last 28-day mean,1060,867.3214285714286
+2023-11-21,Electronics,Baseline: last 28-day mean,1061,867.3214285714286
+2023-11-22,Electronics,Baseline: last 28-day mean,1299,867.3214285714286
+2023-11-23,Electronics,Baseline: last 28-day mean,1292,867.3214285714286
+2023-11-24,Electronics,Baseline: last 28-day mean,1338,867.3214285714286
+2023-11-25,Electronics,Baseline: last 28-day mean,1252,867.3214285714286
+2023-11-26,Electronics,Baseline: last 28-day mean,1247,867.3214285714286
+2023-11-27,Electronics,Baseline: last 28-day mean,1258,867.3214285714286
+2023-11-28,Electronics,Baseline: last 28-day mean,1161,867.3214285714286
+2023-11-29,Electronics,Baseline: last 28-day mean,1461,867.3214285714286
+2023-11-30,Electronics,Baseline: last 28-day mean,1262,867.3214285714286
+2023-12-01,Electronics,Baseline: last 28-day mean,1401,867.3214285714286
+2023-12-02,Electronics,Baseline: last 28-day mean,1332,867.3214285714286
+2023-12-03,Electronics,Baseline: last 28-day mean,1219,867.3214285714286
+2023-12-04,Electronics,Baseline: last 28-day mean,1186,867.3214285714286
+2023-12-05,Electronics,Baseline: last 28-day mean,1194,867.3214285714286
+2023-12-06,Electronics,Baseline: last 28-day mean,1582,867.3214285714286
+2023-12-07,Electronics,Baseline: last 28-day mean,1239,867.3214285714286
+2023-12-08,Electronics,Baseline: last 28-day mean,1287,867.3214285714286
+2023-12-09,Electronics,Baseline: last 28-day mean,1101,867.3214285714286
+2023-12-10,Electronics,Baseline: last 28-day mean,1185,867.3214285714286
+2023-12-11,Electronics,Baseline: last 28-day mean,1220,867.3214285714286
+2023-12-12,Electronics,Baseline: last 28-day mean,1491,867.3214285714286
+2023-12-13,Electronics,Baseline: last 28-day mean,1148,867.3214285714286
+2023-12-14,Electronics,Baseline: last 28-day mean,1413,867.3214285714286
+2023-12-15,Electronics,Baseline: last 28-day mean,1315,867.3214285714286
+2023-12-16,Electronics,Baseline: last 28-day mean,1280,867.3214285714286
+2023-12-17,Electronics,Baseline: last 28-day mean,1205,867.3214285714286
+2023-12-18,Electronics,Baseline: last 28-day mean,1469,867.3214285714286
+2023-12-19,Electronics,Baseline: last 28-day mean,1373,867.3214285714286
+2023-12-20,Electronics,Baseline: last 28-day mean,1257,867.3214285714286
+2023-12-21,Electronics,Baseline: last 28-day mean,1455,867.3214285714286
+2023-12-22,Electronics,Baseline: last 28-day mean,1227,867.3214285714286
+2023-12-23,Electronics,Baseline: last 28-day mean,1280,867.3214285714286
+2023-12-24,Electronics,Baseline: last 28-day mean,1384,867.3214285714286
+2023-12-25,Electronics,Baseline: last 28-day mean,1034,867.3214285714286
+2023-12-26,Electronics,Baseline: last 28-day mean,1546,867.3214285714286
+2023-12-27,Electronics,Baseline: last 28-day mean,654,867.3214285714286
+2023-12-28,Electronics,Baseline: last 28-day mean,652,867.3214285714286
+2023-12-29,Electronics,Baseline: last 28-day mean,687,867.3214285714286
+2023-12-30,Electronics,Baseline: last 28-day mean,505,867.3214285714286
+2023-12-31,Electronics,Baseline: last 28-day mean,667,867.3214285714286
+2024-01-01,Electronics,Baseline: last 28-day mean,590,867.3214285714286
+2024-01-02,Electronics,Baseline: last 28-day mean,671,867.3214285714286
+2024-01-03,Electronics,Baseline: last 28-day mean,688,867.3214285714286
+2024-01-04,Electronics,Baseline: last 28-day mean,615,867.3214285714286
+2024-01-05,Electronics,Baseline: last 28-day mean,759,867.3214285714286
+2024-01-06,Electronics,Baseline: last 28-day mean,657,867.3214285714286
+2024-01-07,Electronics,Baseline: last 28-day mean,586,867.3214285714286
+2024-01-08,Electronics,Baseline: last 28-day mean,692,867.3214285714286
+2024-01-09,Electronics,Baseline: last 28-day mean,1217,867.3214285714286
+2024-01-10,Electronics,Baseline: last 28-day mean,1077,867.3214285714286
+2024-01-11,Electronics,Baseline: last 28-day mean,1454,867.3214285714286
+2024-01-12,Electronics,Baseline: last 28-day mean,1314,867.3214285714286
+2024-01-13,Electronics,Baseline: last 28-day mean,1273,867.3214285714286
+2024-01-14,Electronics,Baseline: last 28-day mean,1058,867.3214285714286
+2024-01-15,Electronics,Baseline: last 28-day mean,1291,867.3214285714286
+2024-01-16,Electronics,Baseline: last 28-day mean,1102,867.3214285714286
+2024-01-17,Electronics,Baseline: last 28-day mean,1192,867.3214285714286
+2024-01-18,Electronics,Baseline: last 28-day mean,1474,867.3214285714286
+2024-01-19,Electronics,Baseline: last 28-day mean,1040,867.3214285714286
+2024-01-20,Electronics,Baseline: last 28-day mean,1611,867.3214285714286
+2024-01-21,Electronics,Baseline: last 28-day mean,1144,867.3214285714286
+2024-01-22,Electronics,Baseline: last 28-day mean,1358,867.3214285714286
+2024-01-23,Electronics,Baseline: last 28-day mean,1133,867.3214285714286
+2024-01-24,Electronics,Baseline: last 28-day mean,1174,867.3214285714286
+2024-01-25,Electronics,Baseline: last 28-day mean,1305,867.3214285714286
+2024-01-26,Electronics,Baseline: last 28-day mean,1237,867.3214285714286
+2024-01-27,Electronics,Baseline: last 28-day mean,1172,867.3214285714286
+2024-01-28,Electronics,Baseline: last 28-day mean,1298,867.3214285714286
+2024-01-29,Electronics,Baseline: last 28-day mean,1179,867.3214285714286
+2024-01-30,Electronics,Baseline: last 28-day mean,1245,867.3214285714286
+2023-10-31,Electronics,ARIMA,980,1108.3729220811106
+2023-11-01,Electronics,ARIMA,1429,1098.8031770564933
+2023-11-02,Electronics,ARIMA,1362,1113.6313336319697
+2023-11-03,Electronics,ARIMA,1441,1109.8441889329397
+2023-11-04,Electronics,ARIMA,1452,1119.3502738721018
+2023-11-05,Electronics,ARIMA,1287,1118.5412584036674
+2023-11-06,Electronics,ARIMA,1348,1124.9423677778998
+2023-11-07,Electronics,ARIMA,1254,1125.598120387582
+2023-11-08,Electronics,ARIMA,1448,1130.1360371740157
+2023-11-09,Electronics,ARIMA,1188,1131.4485153987112
+2023-11-10,Electronics,ARIMA,1157,1134.8262595960298
+2023-11-11,Electronics,ARIMA,1482,1136.3715985155739
+2023-11-12,Electronics,ARIMA,1315,1138.9935459829903
+2023-11-13,Electronics,ARIMA,1086,1140.5561535474712
+2023-11-14,Electronics,ARIMA,1335,1142.6602496520613
+2023-11-15,Electronics,ARIMA,1253,1144.1365857077787
+2023-11-16,Electronics,ARIMA,1266,1145.8672649104976
+2023-11-17,Electronics,ARIMA,1254,1147.2133210664417
+2023-11-18,Electronics,ARIMA,1494,1148.661828130476
+2023-11-19,Electronics,ARIMA,1451,1149.864559297591
+2023-11-20,Electronics,ARIMA,1060,1151.0913347125888
+2023-11-21,Electronics,ARIMA,1061,1152.1532050240583
+2023-11-22,Electronics,ARIMA,1299,1153.2003899526017
+2023-11-23,Electronics,ARIMA,1292,1154.1310878912063
+2023-11-24,Electronics,ARIMA,1338,1155.0295756753062
+2023-11-25,Electronics,ARIMA,1252,1155.8416384958434
+2023-11-26,Electronics,ARIMA,1247,1156.61510714651
+2023-11-27,Electronics,ARIMA,1258,1157.3216684060837
+2023-11-28,Electronics,ARIMA,1161,1157.9889339823992
+2023-11-29,Electronics,ARIMA,1461,1158.6026166243364
+2023-11-30,Electronics,ARIMA,1262,1159.1790460412237
+2023-12-01,Electronics,ARIMA,1401,1159.711467022556
+2023-12-02,Electronics,ARIMA,1332,1160.209858271568
+2023-12-03,Electronics,ARIMA,1219,1160.6714538805775
+2023-12-04,Electronics,ARIMA,1186,1161.1026098284706
+2023-12-05,Electronics,ARIMA,1194,1161.5026240255709
+2023-12-06,Electronics,ARIMA,1582,1161.87574584061
+2023-12-07,Electronics,ARIMA,1239,1162.2222968081708
+2023-12-08,Electronics,ARIMA,1287,1162.545267846394
+2023-12-09,Electronics,ARIMA,1101,1162.8454476965305
+2023-12-10,Electronics,ARIMA,1185,1163.1250481460067
+2023-12-11,Electronics,ARIMA,1220,1163.3850323634947
+2023-12-12,Electronics,ARIMA,1491,1163.6271079915616
+2023-12-13,Electronics,ARIMA,1148,1163.8522628876487
+2023-12-14,Electronics,ARIMA,1413,1164.0618617648367
+2023-12-15,Electronics,ARIMA,1315,1164.256844488328
+2023-12-16,Electronics,ARIMA,1280,1164.438330221015
+2023-12-17,Electronics,ARIMA,1205,1164.607179183904
+2023-12-18,Electronics,ARIMA,1469,1164.764326132345
+2023-12-19,Electronics,ARIMA,1373,1164.9105414108815
+2023-12-20,Electronics,ARIMA,1257,1165.046615585538
+2023-12-21,Electronics,ARIMA,1455,1165.1732296940863
+2023-12-22,Electronics,ARIMA,1227,1165.291057951877
+2023-12-23,Electronics,ARIMA,1280,1165.4006977605839
+2023-12-24,Electronics,ARIMA,1384,1165.5027272548514
+2023-12-25,Electronics,ARIMA,1034,1165.597667953149
+2023-12-26,Electronics,ARIMA,1546,1165.6860173555049
+2023-12-27,Electronics,ARIMA,654,1165.7682293712317
+2023-12-28,Electronics,ARIMA,652,1165.844733084548
+2023-12-29,Electronics,ARIMA,687,1165.91592281714
+2023-12-30,Electronics,ARIMA,505,1165.9821691831253
+2023-12-31,Electronics,ARIMA,667,1166.04381433303
+2024-01-01,Electronics,ARIMA,590,1166.1011786745535
+2024-01-02,Electronics,ARIMA,671,1166.154558867444
+2024-01-03,Electronics,ARIMA,688,1166.204232077348
+2024-01-04,Electronics,ARIMA,615,1166.2504553997483
+2024-01-05,Electronics,ARIMA,759,1166.2934686837957
+2024-01-06,Electronics,ARIMA,657,1166.333494670478
+2024-01-07,Electronics,ARIMA,586,1166.3707409658587
+2024-01-08,Electronics,ARIMA,692,1166.4054005104465
+2024-01-09,Electronics,ARIMA,1217,1166.4376530287416
+2024-01-10,Electronics,ARIMA,1077,1166.467665627682
+2024-01-11,Electronics,ARIMA,1454,1166.4955939095714
+2024-01-12,Electronics,ARIMA,1314,1166.5215825957089
+2024-01-13,Electronics,ARIMA,1273,1166.5457664119888
+2024-01-14,Electronics,ARIMA,1058,1166.5682706867965
+2024-01-15,Electronics,ARIMA,1291,1166.589212074987
+2024-01-16,Electronics,ARIMA,1102,1166.6086991073944
+2024-01-17,Electronics,ARIMA,1192,1166.626832794198
+2024-01-18,Electronics,ARIMA,1474,1166.643707118203
+2024-01-19,Electronics,ARIMA,1040,1166.6594095443852
+2024-01-20,Electronics,ARIMA,1611,1166.674021456612
+2024-01-21,Electronics,ARIMA,1144,1166.6876185917736
+2024-01-22,Electronics,ARIMA,1358,1166.70027142321
+2024-01-23,Electronics,ARIMA,1133,1166.7120455327404
+2024-01-24,Electronics,ARIMA,1174,1166.7230019455683
+2024-01-25,Electronics,ARIMA,1305,1166.733197450293
+2024-01-26,Electronics,ARIMA,1237,1166.742684890498
+2024-01-27,Electronics,ARIMA,1172,1166.7515134406813
+2024-01-28,Electronics,ARIMA,1298,1166.7597288596212
+2024-01-29,Electronics,ARIMA,1179,1166.767373728666
+2024-01-30,Electronics,ARIMA,1245,1166.7744876716067
+2023-10-31,Electronics,Prophet,980,1145.8986291821136
+2023-11-01,Electronics,Prophet,1429,1159.6133780662362
+2023-11-02,Electronics,Prophet,1362,1140.962210350512
+2023-11-03,Electronics,Prophet,1441,1151.9114690818305
+2023-11-04,Electronics,Prophet,1452,1145.5559917680328
+2023-11-05,Electronics,Prophet,1287,1146.6214171478864
+2023-11-06,Electronics,Prophet,1348,1141.3809018473075
+2023-11-07,Electronics,Prophet,1254,1145.5339832355908
+2023-11-08,Electronics,Prophet,1448,1159.2487321197173
+2023-11-09,Electronics,Prophet,1188,1140.5975644039875
+2023-11-10,Electronics,Prophet,1157,1151.5468231353077
+2023-11-11,Electronics,Prophet,1482,1145.1913458215186
+2023-11-12,Electronics,Prophet,1315,1146.2567712013483
+2023-11-13,Electronics,Prophet,1086,1141.0162559007981
+2023-11-14,Electronics,Prophet,1335,1145.169337289106
+2023-11-15,Electronics,Prophet,1253,1158.8840861731749
+2023-11-16,Electronics,Prophet,1266,1140.2329184574594
+2023-11-17,Electronics,Prophet,1254,1151.182177188768
+2023-11-18,Electronics,Prophet,1494,1144.8266998750044
+2023-11-19,Electronics,Prophet,1451,1145.8921252548537
+2023-11-20,Electronics,Prophet,1060,1140.6516099542423
+2023-11-21,Electronics,Prophet,1061,1144.8046913425828
+2023-11-22,Electronics,Prophet,1299,1158.519440226691
+2023-11-23,Electronics,Prophet,1292,1139.8682725109315
+2023-11-24,Electronics,Prophet,1338,1150.817531242245
+2023-11-25,Electronics,Prophet,1252,1144.4620539284563
+2023-11-26,Electronics,Prophet,1247,1145.5274793083154
+2023-11-27,Electronics,Prophet,1258,1140.286964007733
+2023-11-28,Electronics,Prophet,1161,1144.4400453960168
+2023-11-29,Electronics,Prophet,1461,1158.154794280172
+2023-11-30,Electronics,Prophet,1262,1139.503626564407
+2023-12-01,Electronics,Prophet,1401,1150.4528852957387
+2023-12-02,Electronics,Prophet,1332,1144.0974079819744
+2023-12-03,Electronics,Prophet,1219,1145.1628333618112
+2023-12-04,Electronics,Prophet,1186,1139.9223180612235
+2023-12-05,Electronics,Prophet,1194,1144.0753994494937
+2023-12-06,Electronics,Prophet,1582,1157.7901483336295
+2023-12-07,Electronics,Prophet,1239,1139.1389806178793
+2023-12-08,Electronics,Prophet,1287,1150.0882393492159
+2023-12-09,Electronics,Prophet,1101,1143.73276203546
+2023-12-10,Electronics,Prophet,1185,1144.7981874152727
+2023-12-11,Electronics,Prophet,1220,1139.5576721146679
+2023-12-12,Electronics,Prophet,1491,1143.7107535030088
+2023-12-13,Electronics,Prophet,1148,1157.4255023871108
+2023-12-14,Electronics,Prophet,1413,1138.7743346713787
+2023-12-15,Electronics,Prophet,1315,1149.723593402693
+2023-12-16,Electronics,Prophet,1280,1143.368116088912
+2023-12-17,Electronics,Prophet,1205,1144.4335414687785
+2023-12-18,Electronics,Prophet,1469,1139.1930261681584
+2023-12-19,Electronics,Prophet,1373,1143.3461075564044
+2023-12-20,Electronics,Prophet,1257,1157.0608564405918
+2023-12-21,Electronics,Prophet,1455,1138.4096887248506
+2023-12-22,Electronics,Prophet,1227,1149.3589474561866
+2023-12-23,Electronics,Prophet,1280,1143.0034701423976
+2023-12-24,Electronics,Prophet,1384,1144.06889552224
+2023-12-25,Electronics,Prophet,1034,1138.828380221637
+2023-12-26,Electronics,Prophet,1546,1142.9814616098813
+2023-12-27,Electronics,Prophet,654,1156.6962104940496
+2023-12-28,Electronics,Prophet,652,1138.0450427783264
+2023-12-29,Electronics,Prophet,687,1148.9943015096637
+2023-12-30,Electronics,Prophet,505,1142.638824195882
+2023-12-31,Electronics,Prophet,667,1143.7042495757014
+2024-01-01,Electronics,Prophet,590,1138.4637342751275
+2024-01-02,Electronics,Prophet,671,1142.6168156633967
+2024-01-03,Electronics,Prophet,688,1156.3315645475304
+2024-01-04,Electronics,Prophet,615,1137.6803968317984
+2024-01-05,Electronics,Prophet,759,1148.6296555631075
+2024-01-06,Electronics,Prophet,657,1142.274178249368
+2024-01-07,Electronics,Prophet,586,1143.3396036292072
+2024-01-08,Electronics,Prophet,692,1138.099088328572
+2024-01-09,Electronics,Prophet,1217,1142.2521697168736
+2024-01-10,Electronics,Prophet,1077,1155.9669186010228
+2024-01-11,Electronics,Prophet,1454,1137.3157508852703
+2024-01-12,Electronics,Prophet,1314,1148.2650096166012
+2024-01-13,Electronics,Prophet,1273,1141.90953230282
+2024-01-14,Electronics,Prophet,1058,1142.9749576826687
+2024-01-15,Electronics,Prophet,1291,1137.7344423820964
+2024-01-16,Electronics,Prophet,1102,1141.8875237703505
+2024-01-17,Electronics,Prophet,1192,1155.6022726545043
+2024-01-18,Electronics,Prophet,1474,1136.951104938746
+2024-01-19,Electronics,Prophet,1040,1147.9003636700781
+2024-01-20,Electronics,Prophet,1611,1141.5448863563056
+2024-01-21,Electronics,Prophet,1144,1142.6103117361647
+2024-01-22,Electronics,Prophet,1358,1137.3697964355867
+2024-01-23,Electronics,Prophet,1133,1141.5228778238657
+2024-01-24,Electronics,Prophet,1174,1155.2376267079617
+2024-01-25,Electronics,Prophet,1305,1136.586458992218
+2024-01-26,Electronics,Prophet,1237,1147.5357177235387
+2024-01-27,Electronics,Prophet,1172,1141.1802404097914
+2024-01-28,Electronics,Prophet,1298,1142.2456657896262
+2024-01-29,Electronics,Prophet,1179,1137.0051504890314
+2024-01-30,Electronics,Prophet,1245,1141.1582318773424
+2023-10-31,Electronics,ARIMA scenario-oracle (realised regressors),980,1157.6999871070593
+2023-11-01,Electronics,ARIMA scenario-oracle (realised regressors),1429,1288.785985673303
+2023-11-02,Electronics,ARIMA scenario-oracle (realised regressors),1362,1306.6903592882932
+2023-11-03,Electronics,ARIMA scenario-oracle (realised regressors),1441,1339.6995981524371
+2023-11-04,Electronics,ARIMA scenario-oracle (realised regressors),1452,1310.1122470856294
+2023-11-05,Electronics,ARIMA scenario-oracle (realised regressors),1287,1310.246185923569
+2023-11-06,Electronics,ARIMA scenario-oracle (realised regressors),1348,1213.17947394263
+2023-11-07,Electronics,ARIMA scenario-oracle (realised regressors),1254,1261.9833551416004
+2023-11-08,Electronics,ARIMA scenario-oracle (realised regressors),1448,1343.350959941689
+2023-11-09,Electronics,ARIMA scenario-oracle (realised regressors),1188,1294.5841008521927
+2023-11-10,Electronics,ARIMA scenario-oracle (realised regressors),1157,1336.042597448587
+2023-11-11,Electronics,ARIMA scenario-oracle (realised regressors),1482,1319.786119990319
+2023-11-12,Electronics,ARIMA scenario-oracle (realised regressors),1315,1327.11601037634
+2023-11-13,Electronics,ARIMA scenario-oracle (realised regressors),1086,1294.6007350802568
+2023-11-14,Electronics,ARIMA scenario-oracle (realised regressors),1335,1294.601088060252
+2023-11-15,Electronics,ARIMA scenario-oracle (realised regressors),1253,1343.3744205732726
+2023-11-16,Electronics,ARIMA scenario-oracle (realised regressors),1266,1229.5701459874474
+2023-11-17,Electronics,ARIMA scenario-oracle (realised regressors),1254,1278.3434402758537
+2023-11-18,Electronics,ARIMA scenario-oracle (realised regressors),1494,1375.8900210947963
+2023-11-19,Electronics,ARIMA scenario-oracle (realised regressors),1451,1294.6012134124155
+2023-11-20,Electronics,ARIMA scenario-oracle (realised regressors),1060,1278.3434531639962
+2023-11-21,Electronics,ARIMA scenario-oracle (realised regressors),1061,1310.8589771662691
+2023-11-22,Electronics,ARIMA scenario-oracle (realised regressors),1299,1294.60121557753
+2023-11-23,Electronics,ARIMA scenario-oracle (realised regressors),1292,1384.8200335383995
+2023-11-24,Electronics,ARIMA scenario-oracle (realised regressors),1338,1245.8279301057573
+2023-11-25,Electronics,ARIMA scenario-oracle (realised regressors),1252,1294.6012156835545
+2023-11-26,Electronics,ARIMA scenario-oracle (realised regressors),1247,1310.8589775471487
+2023-11-27,Electronics,ARIMA scenario-oracle (realised regressors),1258,1262.0856919803227
+2023-11-28,Electronics,ARIMA scenario-oracle (realised regressors),1161,1262.0856919815649
+2023-11-29,Electronics,ARIMA scenario-oracle (realised regressors),1461,1180.7968827010561
+2023-11-30,Electronics,ARIMA scenario-oracle (realised regressors),1262,1180.796882701264
+2023-12-01,Electronics,ARIMA scenario-oracle (realised regressors),1401,1310.858977550597
+2023-12-02,Electronics,ARIMA scenario-oracle (realised regressors),1332,1327.1167394067922
+2023-12-03,Electronics,ARIMA scenario-oracle (realised regressors),1219,1294.6012156944807
+2023-12-04,Electronics,ARIMA scenario-oracle (realised regressors),1186,1310.858977550647
+2023-12-05,Electronics,ARIMA scenario-oracle (realised regressors),1194,1294.6012156944882
+2023-12-06,Electronics,ARIMA scenario-oracle (realised regressors),1582,1359.6322631191301
+2023-12-07,Electronics,ARIMA scenario-oracle (realised regressors),1239,1245.8279301260088
+2023-12-08,Electronics,ARIMA scenario-oracle (realised regressors),1287,1278.3434538383294
+2023-12-09,Electronics,ARIMA scenario-oracle (realised regressors),1101,1294.6012156944896
+2023-12-10,Electronics,ARIMA scenario-oracle (realised regressors),1185,1294.6012156944896
+2023-12-11,Electronics,ARIMA scenario-oracle (realised regressors),1220,1310.8589775506498
+2023-12-12,Electronics,ARIMA scenario-oracle (realised regressors),1491,1359.6322631191306
+2023-12-13,Electronics,ARIMA scenario-oracle (realised regressors),1148,1262.0856919821692
+2023-12-14,Electronics,ARIMA scenario-oracle (realised regressors),1413,1245.827930126009
+2023-12-15,Electronics,ARIMA scenario-oracle (realised regressors),1315,1310.8589775506498
+2023-12-16,Electronics,ARIMA scenario-oracle (realised regressors),1280,1310.8589775506498
+2023-12-17,Electronics,ARIMA scenario-oracle (realised regressors),1205,1343.3745012629704
+2023-12-18,Electronics,ARIMA scenario-oracle (realised regressors),1469,1294.6012156944896
+2023-12-19,Electronics,ARIMA scenario-oracle (realised regressors),1373,1278.3434538383294
+2023-12-20,Electronics,ARIMA scenario-oracle (realised regressors),1257,1262.0856919821692
+2023-12-21,Electronics,ARIMA scenario-oracle (realised regressors),1455,1278.3434538383294
+2023-12-22,Electronics,ARIMA scenario-oracle (realised regressors),1227,1343.3745012629704
+2023-12-23,Electronics,ARIMA scenario-oracle (realised regressors),1280,1310.8589775506498
+2023-12-24,Electronics,ARIMA scenario-oracle (realised regressors),1384,1294.6012156944896
+2023-12-25,Electronics,ARIMA scenario-oracle (realised regressors),1034,1303.5312243224027
+2023-12-26,Electronics,ARIMA scenario-oracle (realised regressors),1546,1262.0856919821692
+2023-12-27,Electronics,ARIMA scenario-oracle (realised regressors),654,722.1174159377975
+2023-12-28,Electronics,ARIMA scenario-oracle (realised regressors),652,673.3441303693169
+2023-12-29,Electronics,ARIMA scenario-oracle (realised regressors),687,592.0553210885157
+2023-12-30,Electronics,ARIMA scenario-oracle (realised regressors),505,592.0553210885157
+2023-12-31,Electronics,ARIMA scenario-oracle (realised regressors),667,592.0553210885157
+2024-01-01,Electronics,ARIMA scenario-oracle (realised regressors),590,747.305186421871
+2024-01-02,Electronics,ARIMA scenario-oracle (realised regressors),671,673.3441303693169
+2024-01-03,Electronics,ARIMA scenario-oracle (realised regressors),688,722.1174159377975
+2024-01-04,Electronics,ARIMA scenario-oracle (realised regressors),615,705.8596540816372
+2024-01-05,Electronics,ARIMA scenario-oracle (realised regressors),759,770.8907015062782
+2024-01-06,Electronics,ARIMA scenario-oracle (realised regressors),657,673.3441303693169
+2024-01-07,Electronics,ARIMA scenario-oracle (realised regressors),586,705.8596540816372
+2024-01-08,Electronics,ARIMA scenario-oracle (realised regressors),692,722.1174159377975
+2024-01-09,Electronics,ARIMA scenario-oracle (realised regressors),1217,1310.8589775506498
+2024-01-10,Electronics,ARIMA scenario-oracle (realised regressors),1077,1278.3434538383294
+2024-01-11,Electronics,ARIMA scenario-oracle (realised regressors),1454,1310.8589775506498
+2024-01-12,Electronics,ARIMA scenario-oracle (realised regressors),1314,1262.0856919821692
+2024-01-13,Electronics,ARIMA scenario-oracle (realised regressors),1273,1310.8589775506498
+2024-01-14,Electronics,ARIMA scenario-oracle (realised regressors),1058,1229.5701682698489
+2024-01-15,Electronics,ARIMA scenario-oracle (realised regressors),1291,1271.0157006100824
+2024-01-16,Electronics,ARIMA scenario-oracle (realised regressors),1102,1359.6322631191306
+2024-01-17,Electronics,ARIMA scenario-oracle (realised regressors),1192,1294.6012156944896
+2024-01-18,Electronics,ARIMA scenario-oracle (realised regressors),1474,1278.3434538383294
+2024-01-19,Electronics,ARIMA scenario-oracle (realised regressors),1040,1262.0856919821692
+2024-01-20,Electronics,ARIMA scenario-oracle (realised regressors),1611,1327.1167394068102
+2024-01-21,Electronics,ARIMA scenario-oracle (realised regressors),1144,1327.1167394068102
+2024-01-22,Electronics,ARIMA scenario-oracle (realised regressors),1358,1310.8589775506498
+2024-01-23,Electronics,ARIMA scenario-oracle (realised regressors),1133,1262.0856919821692
+2024-01-24,Electronics,ARIMA scenario-oracle (realised regressors),1174,1359.6322631191306
+2024-01-25,Electronics,ARIMA scenario-oracle (realised regressors),1305,1278.3434538383294
+2024-01-26,Electronics,ARIMA scenario-oracle (realised regressors),1237,1278.3434538383294
+2024-01-27,Electronics,ARIMA scenario-oracle (realised regressors),1172,1359.6322631191306
+2024-01-28,Electronics,ARIMA scenario-oracle (realised regressors),1298,1294.6012156944896
+2024-01-29,Electronics,ARIMA scenario-oracle (realised regressors),1179,1180.796882701368
+2024-01-30,Electronics,ARIMA scenario-oracle (realised regressors),1245,1180.796882701368
+2023-10-31,Electronics,Prophet scenario-oracle (realised regressors),980,1168.3267481920172
+2023-11-01,Electronics,Prophet scenario-oracle (realised regressors),1429,1303.7438898023238
+2023-11-02,Electronics,Prophet scenario-oracle (realised regressors),1362,1280.3690183818903
+2023-11-03,Electronics,Prophet scenario-oracle (realised regressors),1441,1325.6946295480054
+2023-11-04,Electronics,Prophet scenario-oracle (realised regressors),1452,1294.6960764682856
+2023-11-05,Electronics,Prophet scenario-oracle (realised regressors),1287,1296.5767763605895
+2023-11-06,Electronics,Prophet scenario-oracle (realised regressors),1348,1188.7570420741724
+2023-11-07,Electronics,Prophet scenario-oracle (realised regressors),1254,1248.2281386313068
+2023-11-08,Electronics,Prophet scenario-oracle (realised regressors),1448,1335.1827457377838
+2023-11-09,Electronics,Prophet scenario-oracle (realised regressors),1188,1263.345339813528
+2023-11-10,Electronics,Prophet scenario-oracle (realised regressors),1157,1331.9750646317614
+2023-11-11,Electronics,Prophet scenario-oracle (realised regressors),1482,1317.1306897199822
+2023-11-12,Electronics,Prophet scenario-oracle (realised regressors),1315,1311.8614541280906
+2023-11-13,Electronics,Prophet scenario-oracle (realised regressors),1086,1268.658432513475
+2023-11-14,Electronics,Prophet scenario-oracle (realised regressors),1335,1279.6669945668077
+2023-11-15,Electronics,Prophet scenario-oracle (realised regressors),1253,1334.3132453373269
+2023-11-16,Electronics,Prophet scenario-oracle (realised regressors),1266,1197.8591267413203
+2023-11-17,Electronics,Prophet scenario-oracle (realised regressors),1254,1259.3389160753493
+2023-11-18,Electronics,Prophet scenario-oracle (realised regressors),1494,1357.573788339223
+2023-11-19,Electronics,Prophet scenario-oracle (realised regressors),1451,1278.6835973917964
+2023-11-20,Electronics,Prophet scenario-oracle (realised regressors),1060,1251.6347539450792
+2023-11-21,Electronics,Prophet scenario-oracle (realised regressors),1061,1294.9516723343258
+2023-11-22,Electronics,Prophet scenario-oracle (realised regressors),1299,1284.9812104331486
+2023-11-23,Electronics,Prophet scenario-oracle (realised regressors),1292,1365.6813435044844
+2023-11-24,Electronics,Prophet scenario-oracle (realised regressors),1338,1226.1610593390483
+2023-11-25,Electronics,Prophet scenario-oracle (realised regressors),1252,1275.933397099072
+2023-11-26,Electronics,Prophet scenario-oracle (realised regressors),1247,1293.9682751592975
+2023-11-27,Electronics,Prophet scenario-oracle (realised regressors),1258,1234.6110753767239
+2023-11-28,Electronics,Prophet scenario-oracle (realised regressors),1161,1245.619637430023
+2023-11-29,Electronics,Prophet scenario-oracle (realised regressors),1461,1171.032462857122
+2023-11-30,Electronics,Prophet scenario-oracle (realised regressors),1262,1147.6575914366356
+2023-12-01,Electronics,Prophet scenario-oracle (realised regressors),1401,1289.908271610406
+2023-12-02,Electronics,Prophet scenario-oracle (realised regressors),1332,1307.3722530345417
+2023-12-03,Electronics,Prophet scenario-oracle (realised regressors),1219,1276.9445965909647
+2023-12-04,Electronics,Prophet scenario-oracle (realised regressors),1186,1282.2041094801402
+2023-12-05,Electronics,Prophet scenario-oracle (realised regressors),1194,1277.0584933654839
+2023-12-06,Electronics,Prophet scenario-oracle (realised regressors),1582,1347.8589223040376
+2023-12-07,Electronics,Prophet scenario-oracle (realised regressors),1239,1211.4048037079713
+2023-12-08,Electronics,Prophet scenario-oracle (realised regressors),1287,1256.730414874105
+2023-12-09,Electronics,Prophet scenario-oracle (realised regressors),1101,1274.1943962982389
+2023-12-10,Electronics,Prophet scenario-oracle (realised regressors),1185,1276.075096190523
+2023-12-11,Electronics,Prophet scenario-oracle (realised regressors),1220,1281.3346090796874
+2023-12-12,Electronics,Prophet scenario-oracle (realised regressors),1491,1340.8057056368707
+2023-12-13,Electronics,Prophet scenario-oracle (realised regressors),1148,1250.064352895954
+2023-12-14,Electronics,Prophet scenario-oracle (realised regressors),1413,1210.535303307577
+2023-12-15,Electronics,Prophet scenario-oracle (realised regressors),1315,1288.1692708095757
+2023-12-16,Electronics,Prophet scenario-oracle (realised regressors),1280,1289.4790740657454
+2023-12-17,Electronics,Prophet scenario-oracle (realised regressors),1205,1323.6681302939432
+2023-12-18,Electronics,Prophet scenario-oracle (realised regressors),1469,1264.3109305113321
+2023-12-19,Electronics,Prophet scenario-oracle (realised regressors),1373,1259.165314396642
+2023-12-20,Electronics,Prophet scenario-oracle (realised regressors),1257,1249.194852495528
+2023-12-21,Electronics,Prophet scenario-oracle (realised regressors),1455,1241.9741592430269
+2023-12-22,Electronics,Prophet scenario-oracle (realised regressors),1227,1319.6081267450475
+2023-12-23,Electronics,Prophet scenario-oracle (realised regressors),1280,1288.6095736653285
+2023-12-24,Electronics,Prophet scenario-oracle (realised regressors),1384,1274.336095389673
+2023-12-25,Electronics,Prophet scenario-oracle (realised regressors),1034,1286.7455437630165
+2023-12-26,Electronics,Prophet scenario-oracle (realised regressors),1546,1242.1416358282743
+2023-12-27,Electronics,Prophet scenario-oracle (realised regressors),654,707.9173076589001
+2023-12-28,Electronics,Prophet scenario-oracle (realised regressors),652,636.0799017346643
+2023-12-29,Electronics,Prophet scenario-oracle (realised regressors),687,568.3262657252027
+2023-12-30,Electronics,Prophet scenario-oracle (realised regressors),505,569.63606898135
+2023-12-31,Electronics,Prophet scenario-oracle (realised regressors),667,571.5167688736304
+2024-01-01,Electronics,Prophet scenario-oracle (realised regressors),590,729.3138207584899
+2024-01-02,Electronics,Prophet scenario-oracle (realised regressors),671,652.4015564878891
+2024-01-03,Electronics,Prophet scenario-oracle (realised regressors),688,707.0478072584741
+2024-01-04,Electronics,Prophet scenario-oracle (realised regressors),615,667.5187576701143
+2024-01-05,Electronics,Prophet scenario-oracle (realised regressors),759,745.1527251721046
+2024-01-06,Electronics,Prophet scenario-oracle (realised regressors),657,649.5374594206475
+2024-01-07,Electronics,Prophet scenario-oracle (realised regressors),586,683.7265156488224
+2024-01-08,Electronics,Prophet scenario-oracle (realised regressors),692,688.9860285379801
+2024-01-09,Electronics,Prophet scenario-oracle (realised regressors),1217,1288.8651695312933
+2024-01-10,Electronics,Prophet scenario-oracle (realised regressors),1077,1262.7405294622076
+2024-01-11,Electronics,Prophet scenario-oracle (realised regressors),1454,1271.674014377621
+2024-01-12,Electronics,Prophet scenario-oracle (realised regressors),1314,1236.228734704033
+2024-01-13,Electronics,Prophet scenario-oracle (realised regressors),1273,1286.0010724640401
+2024-01-14,Electronics,Prophet scenario-oracle (realised regressors),1058,1207.110881516609
+2024-01-15,Electronics,Prophet scenario-oracle (realised regressors),1291,1251.828686225876
+2024-01-16,Electronics,Prophet scenario-oracle (realised regressors),1102,1336.4582036346972
+2024-01-17,Electronics,Prophet scenario-oracle (realised regressors),1192,1278.0252072297246
+2024-01-18,Electronics,Prophet scenario-oracle (realised regressors),1474,1238.4961576413157
+2024-01-19,Electronics,Prophet scenario-oracle (realised regressors),1040,1235.359234303618
+2024-01-20,Electronics,Prophet scenario-oracle (realised regressors),1611,1301.285750231566
+2024-01-21,Electronics,Prophet scenario-oracle (realised regressors),1144,1303.1664501238768
+2024-01-22,Electronics,Prophet scenario-oracle (realised regressors),1358,1276.1176066771786
+2024-01-23,Electronics,Prophet scenario-oracle (realised regressors),1133,1238.6636342266545
+2024-01-24,Electronics,Prophet scenario-oracle (realised regressors),1174,1341.7724195010394
+2024-01-25,Electronics,Prophet scenario-oracle (realised regressors),1305,1237.6266572408797
+2024-01-26,Electronics,Prophet scenario-oracle (realised regressors),1237,1250.6439120710918
+2024-01-27,Electronics,Prophet scenario-oracle (realised regressors),1172,1332.7246061670346
+2024-01-28,Electronics,Prophet scenario-oracle (realised regressors),1298,1269.9885933875494
+2024-01-29,Electronics,Prophet scenario-oracle (realised regressors),1179,1146.0146809331823
+2024-01-30,Electronics,Prophet scenario-oracle (realised regressors),1245,1157.023242986515
+2023-10-31,Furniture,Baseline: training mean,1289,1321.6781437125749
+2023-11-01,Furniture,Baseline: training mean,1582,1321.6781437125749
+2023-11-02,Furniture,Baseline: training mean,1591,1321.6781437125749
+2023-11-03,Furniture,Baseline: training mean,1301,1321.6781437125749
+2023-11-04,Furniture,Baseline: training mean,1332,1321.6781437125749
+2023-11-05,Furniture,Baseline: training mean,1623,1321.6781437125749
+2023-11-06,Furniture,Baseline: training mean,1334,1321.6781437125749
+2023-11-07,Furniture,Baseline: training mean,1366,1321.6781437125749
+2023-11-08,Furniture,Baseline: training mean,1504,1321.6781437125749
+2023-11-09,Furniture,Baseline: training mean,1358,1321.6781437125749
+2023-11-10,Furniture,Baseline: training mean,1581,1321.6781437125749
+2023-11-11,Furniture,Baseline: training mean,1536,1321.6781437125749
+2023-11-12,Furniture,Baseline: training mean,1402,1321.6781437125749
+2023-11-13,Furniture,Baseline: training mean,1351,1321.6781437125749
+2023-11-14,Furniture,Baseline: training mean,1443,1321.6781437125749
+2023-11-15,Furniture,Baseline: training mean,1744,1321.6781437125749
+2023-11-16,Furniture,Baseline: training mean,1385,1321.6781437125749
+2023-11-17,Furniture,Baseline: training mean,1361,1321.6781437125749
+2023-11-18,Furniture,Baseline: training mean,1692,1321.6781437125749
+2023-11-19,Furniture,Baseline: training mean,1563,1321.6781437125749
+2023-11-20,Furniture,Baseline: training mean,1343,1321.6781437125749
+2023-11-21,Furniture,Baseline: training mean,1484,1321.6781437125749
+2023-11-22,Furniture,Baseline: training mean,1736,1321.6781437125749
+2023-11-23,Furniture,Baseline: training mean,1449,1321.6781437125749
+2023-11-24,Furniture,Baseline: training mean,1440,1321.6781437125749
+2023-11-25,Furniture,Baseline: training mean,1398,1321.6781437125749
+2023-11-26,Furniture,Baseline: training mean,1516,1321.6781437125749
+2023-11-27,Furniture,Baseline: training mean,1609,1321.6781437125749
+2023-11-28,Furniture,Baseline: training mean,1252,1321.6781437125749
+2023-11-29,Furniture,Baseline: training mean,1613,1321.6781437125749
+2023-11-30,Furniture,Baseline: training mean,1352,1321.6781437125749
+2023-12-01,Furniture,Baseline: training mean,1337,1321.6781437125749
+2023-12-02,Furniture,Baseline: training mean,1650,1321.6781437125749
+2023-12-03,Furniture,Baseline: training mean,1446,1321.6781437125749
+2023-12-04,Furniture,Baseline: training mean,1462,1321.6781437125749
+2023-12-05,Furniture,Baseline: training mean,1494,1321.6781437125749
+2023-12-06,Furniture,Baseline: training mean,1704,1321.6781437125749
+2023-12-07,Furniture,Baseline: training mean,1293,1321.6781437125749
+2023-12-08,Furniture,Baseline: training mean,1437,1321.6781437125749
+2023-12-09,Furniture,Baseline: training mean,1428,1321.6781437125749
+2023-12-10,Furniture,Baseline: training mean,1343,1321.6781437125749
+2023-12-11,Furniture,Baseline: training mean,1545,1321.6781437125749
+2023-12-12,Furniture,Baseline: training mean,1458,1321.6781437125749
+2023-12-13,Furniture,Baseline: training mean,1688,1321.6781437125749
+2023-12-14,Furniture,Baseline: training mean,1404,1321.6781437125749
+2023-12-15,Furniture,Baseline: training mean,1322,1321.6781437125749
+2023-12-16,Furniture,Baseline: training mean,1401,1321.6781437125749
+2023-12-17,Furniture,Baseline: training mean,1519,1321.6781437125749
+2023-12-18,Furniture,Baseline: training mean,1480,1321.6781437125749
+2023-12-19,Furniture,Baseline: training mean,1490,1321.6781437125749
+2023-12-20,Furniture,Baseline: training mean,1446,1321.6781437125749
+2023-12-21,Furniture,Baseline: training mean,1706,1321.6781437125749
+2023-12-22,Furniture,Baseline: training mean,1506,1321.6781437125749
+2023-12-23,Furniture,Baseline: training mean,1382,1321.6781437125749
+2023-12-24,Furniture,Baseline: training mean,1386,1321.6781437125749
+2023-12-25,Furniture,Baseline: training mean,1410,1321.6781437125749
+2023-12-26,Furniture,Baseline: training mean,1480,1321.6781437125749
+2023-12-27,Furniture,Baseline: training mean,661,1321.6781437125749
+2023-12-28,Furniture,Baseline: training mean,628,1321.6781437125749
+2023-12-29,Furniture,Baseline: training mean,625,1321.6781437125749
+2023-12-30,Furniture,Baseline: training mean,620,1321.6781437125749
+2023-12-31,Furniture,Baseline: training mean,633,1321.6781437125749
+2024-01-01,Furniture,Baseline: training mean,724,1321.6781437125749
+2024-01-02,Furniture,Baseline: training mean,595,1321.6781437125749
+2024-01-03,Furniture,Baseline: training mean,576,1321.6781437125749
+2024-01-04,Furniture,Baseline: training mean,546,1321.6781437125749
+2024-01-05,Furniture,Baseline: training mean,796,1321.6781437125749
+2024-01-06,Furniture,Baseline: training mean,652,1321.6781437125749
+2024-01-07,Furniture,Baseline: training mean,629,1321.6781437125749
+2024-01-08,Furniture,Baseline: training mean,675,1321.6781437125749
+2024-01-09,Furniture,Baseline: training mean,1285,1321.6781437125749
+2024-01-10,Furniture,Baseline: training mean,1199,1321.6781437125749
+2024-01-11,Furniture,Baseline: training mean,1505,1321.6781437125749
+2024-01-12,Furniture,Baseline: training mean,1343,1321.6781437125749
+2024-01-13,Furniture,Baseline: training mean,1677,1321.6781437125749
+2024-01-14,Furniture,Baseline: training mean,1332,1321.6781437125749
+2024-01-15,Furniture,Baseline: training mean,1314,1321.6781437125749
+2024-01-16,Furniture,Baseline: training mean,1328,1321.6781437125749
+2024-01-17,Furniture,Baseline: training mean,1368,1321.6781437125749
+2024-01-18,Furniture,Baseline: training mean,1580,1321.6781437125749
+2024-01-19,Furniture,Baseline: training mean,1170,1321.6781437125749
+2024-01-20,Furniture,Baseline: training mean,1649,1321.6781437125749
+2024-01-21,Furniture,Baseline: training mean,1391,1321.6781437125749
+2024-01-22,Furniture,Baseline: training mean,1770,1321.6781437125749
+2024-01-23,Furniture,Baseline: training mean,1398,1321.6781437125749
+2024-01-24,Furniture,Baseline: training mean,1500,1321.6781437125749
+2024-01-25,Furniture,Baseline: training mean,1327,1321.6781437125749
+2024-01-26,Furniture,Baseline: training mean,1705,1321.6781437125749
+2024-01-27,Furniture,Baseline: training mean,1439,1321.6781437125749
+2024-01-28,Furniture,Baseline: training mean,1756,1321.6781437125749
+2024-01-29,Furniture,Baseline: training mean,1313,1321.6781437125749
+2024-01-30,Furniture,Baseline: training mean,1253,1321.6781437125749
+2023-10-31,Furniture,Baseline: last 28-day mean,1289,969.4642857142857
+2023-11-01,Furniture,Baseline: last 28-day mean,1582,969.4642857142857
+2023-11-02,Furniture,Baseline: last 28-day mean,1591,969.4642857142857
+2023-11-03,Furniture,Baseline: last 28-day mean,1301,969.4642857142857
+2023-11-04,Furniture,Baseline: last 28-day mean,1332,969.4642857142857
+2023-11-05,Furniture,Baseline: last 28-day mean,1623,969.4642857142857
+2023-11-06,Furniture,Baseline: last 28-day mean,1334,969.4642857142857
+2023-11-07,Furniture,Baseline: last 28-day mean,1366,969.4642857142857
+2023-11-08,Furniture,Baseline: last 28-day mean,1504,969.4642857142857
+2023-11-09,Furniture,Baseline: last 28-day mean,1358,969.4642857142857
+2023-11-10,Furniture,Baseline: last 28-day mean,1581,969.4642857142857
+2023-11-11,Furniture,Baseline: last 28-day mean,1536,969.4642857142857
+2023-11-12,Furniture,Baseline: last 28-day mean,1402,969.4642857142857
+2023-11-13,Furniture,Baseline: last 28-day mean,1351,969.4642857142857
+2023-11-14,Furniture,Baseline: last 28-day mean,1443,969.4642857142857
+2023-11-15,Furniture,Baseline: last 28-day mean,1744,969.4642857142857
+2023-11-16,Furniture,Baseline: last 28-day mean,1385,969.4642857142857
+2023-11-17,Furniture,Baseline: last 28-day mean,1361,969.4642857142857
+2023-11-18,Furniture,Baseline: last 28-day mean,1692,969.4642857142857
+2023-11-19,Furniture,Baseline: last 28-day mean,1563,969.4642857142857
+2023-11-20,Furniture,Baseline: last 28-day mean,1343,969.4642857142857
+2023-11-21,Furniture,Baseline: last 28-day mean,1484,969.4642857142857
+2023-11-22,Furniture,Baseline: last 28-day mean,1736,969.4642857142857
+2023-11-23,Furniture,Baseline: last 28-day mean,1449,969.4642857142857
+2023-11-24,Furniture,Baseline: last 28-day mean,1440,969.4642857142857
+2023-11-25,Furniture,Baseline: last 28-day mean,1398,969.4642857142857
+2023-11-26,Furniture,Baseline: last 28-day mean,1516,969.4642857142857
+2023-11-27,Furniture,Baseline: last 28-day mean,1609,969.4642857142857
+2023-11-28,Furniture,Baseline: last 28-day mean,1252,969.4642857142857
+2023-11-29,Furniture,Baseline: last 28-day mean,1613,969.4642857142857
+2023-11-30,Furniture,Baseline: last 28-day mean,1352,969.4642857142857
+2023-12-01,Furniture,Baseline: last 28-day mean,1337,969.4642857142857
+2023-12-02,Furniture,Baseline: last 28-day mean,1650,969.4642857142857
+2023-12-03,Furniture,Baseline: last 28-day mean,1446,969.4642857142857
+2023-12-04,Furniture,Baseline: last 28-day mean,1462,969.4642857142857
+2023-12-05,Furniture,Baseline: last 28-day mean,1494,969.4642857142857
+2023-12-06,Furniture,Baseline: last 28-day mean,1704,969.4642857142857
+2023-12-07,Furniture,Baseline: last 28-day mean,1293,969.4642857142857
+2023-12-08,Furniture,Baseline: last 28-day mean,1437,969.4642857142857
+2023-12-09,Furniture,Baseline: last 28-day mean,1428,969.4642857142857
+2023-12-10,Furniture,Baseline: last 28-day mean,1343,969.4642857142857
+2023-12-11,Furniture,Baseline: last 28-day mean,1545,969.4642857142857
+2023-12-12,Furniture,Baseline: last 28-day mean,1458,969.4642857142857
+2023-12-13,Furniture,Baseline: last 28-day mean,1688,969.4642857142857
+2023-12-14,Furniture,Baseline: last 28-day mean,1404,969.4642857142857
+2023-12-15,Furniture,Baseline: last 28-day mean,1322,969.4642857142857
+2023-12-16,Furniture,Baseline: last 28-day mean,1401,969.4642857142857
+2023-12-17,Furniture,Baseline: last 28-day mean,1519,969.4642857142857
+2023-12-18,Furniture,Baseline: last 28-day mean,1480,969.4642857142857
+2023-12-19,Furniture,Baseline: last 28-day mean,1490,969.4642857142857
+2023-12-20,Furniture,Baseline: last 28-day mean,1446,969.4642857142857
+2023-12-21,Furniture,Baseline: last 28-day mean,1706,969.4642857142857
+2023-12-22,Furniture,Baseline: last 28-day mean,1506,969.4642857142857
+2023-12-23,Furniture,Baseline: last 28-day mean,1382,969.4642857142857
+2023-12-24,Furniture,Baseline: last 28-day mean,1386,969.4642857142857
+2023-12-25,Furniture,Baseline: last 28-day mean,1410,969.4642857142857
+2023-12-26,Furniture,Baseline: last 28-day mean,1480,969.4642857142857
+2023-12-27,Furniture,Baseline: last 28-day mean,661,969.4642857142857
+2023-12-28,Furniture,Baseline: last 28-day mean,628,969.4642857142857
+2023-12-29,Furniture,Baseline: last 28-day mean,625,969.4642857142857
+2023-12-30,Furniture,Baseline: last 28-day mean,620,969.4642857142857
+2023-12-31,Furniture,Baseline: last 28-day mean,633,969.4642857142857
+2024-01-01,Furniture,Baseline: last 28-day mean,724,969.4642857142857
+2024-01-02,Furniture,Baseline: last 28-day mean,595,969.4642857142857
+2024-01-03,Furniture,Baseline: last 28-day mean,576,969.4642857142857
+2024-01-04,Furniture,Baseline: last 28-day mean,546,969.4642857142857
+2024-01-05,Furniture,Baseline: last 28-day mean,796,969.4642857142857
+2024-01-06,Furniture,Baseline: last 28-day mean,652,969.4642857142857
+2024-01-07,Furniture,Baseline: last 28-day mean,629,969.4642857142857
+2024-01-08,Furniture,Baseline: last 28-day mean,675,969.4642857142857
+2024-01-09,Furniture,Baseline: last 28-day mean,1285,969.4642857142857
+2024-01-10,Furniture,Baseline: last 28-day mean,1199,969.4642857142857
+2024-01-11,Furniture,Baseline: last 28-day mean,1505,969.4642857142857
+2024-01-12,Furniture,Baseline: last 28-day mean,1343,969.4642857142857
+2024-01-13,Furniture,Baseline: last 28-day mean,1677,969.4642857142857
+2024-01-14,Furniture,Baseline: last 28-day mean,1332,969.4642857142857
+2024-01-15,Furniture,Baseline: last 28-day mean,1314,969.4642857142857
+2024-01-16,Furniture,Baseline: last 28-day mean,1328,969.4642857142857
+2024-01-17,Furniture,Baseline: last 28-day mean,1368,969.4642857142857
+2024-01-18,Furniture,Baseline: last 28-day mean,1580,969.4642857142857
+2024-01-19,Furniture,Baseline: last 28-day mean,1170,969.4642857142857
+2024-01-20,Furniture,Baseline: last 28-day mean,1649,969.4642857142857
+2024-01-21,Furniture,Baseline: last 28-day mean,1391,969.4642857142857
+2024-01-22,Furniture,Baseline: last 28-day mean,1770,969.4642857142857
+2024-01-23,Furniture,Baseline: last 28-day mean,1398,969.4642857142857
+2024-01-24,Furniture,Baseline: last 28-day mean,1500,969.4642857142857
+2024-01-25,Furniture,Baseline: last 28-day mean,1327,969.4642857142857
+2024-01-26,Furniture,Baseline: last 28-day mean,1705,969.4642857142857
+2024-01-27,Furniture,Baseline: last 28-day mean,1439,969.4642857142857
+2024-01-28,Furniture,Baseline: last 28-day mean,1756,969.4642857142857
+2024-01-29,Furniture,Baseline: last 28-day mean,1313,969.4642857142857
+2024-01-30,Furniture,Baseline: last 28-day mean,1253,969.4642857142857
+2023-10-31,Furniture,ARIMA,1289,1189.1960852756504
+2023-11-01,Furniture,ARIMA,1582,1216.3473097756062
+2023-11-02,Furniture,ARIMA,1591,1234.4895161805741
+2023-11-03,Furniture,ARIMA,1301,1234.4895161805741
+2023-11-04,Furniture,ARIMA,1332,1234.4895161805741
+2023-11-05,Furniture,ARIMA,1623,1234.4895161805741
+2023-11-06,Furniture,ARIMA,1334,1234.4895161805741
+2023-11-07,Furniture,ARIMA,1366,1234.4895161805741
+2023-11-08,Furniture,ARIMA,1504,1234.4895161805741
+2023-11-09,Furniture,ARIMA,1358,1234.4895161805741
+2023-11-10,Furniture,ARIMA,1581,1234.4895161805741
+2023-11-11,Furniture,ARIMA,1536,1234.4895161805741
+2023-11-12,Furniture,ARIMA,1402,1234.4895161805741
+2023-11-13,Furniture,ARIMA,1351,1234.4895161805741
+2023-11-14,Furniture,ARIMA,1443,1234.4895161805741
+2023-11-15,Furniture,ARIMA,1744,1234.4895161805741
+2023-11-16,Furniture,ARIMA,1385,1234.4895161805741
+2023-11-17,Furniture,ARIMA,1361,1234.4895161805741
+2023-11-18,Furniture,ARIMA,1692,1234.4895161805741
+2023-11-19,Furniture,ARIMA,1563,1234.4895161805741
+2023-11-20,Furniture,ARIMA,1343,1234.4895161805741
+2023-11-21,Furniture,ARIMA,1484,1234.4895161805741
+2023-11-22,Furniture,ARIMA,1736,1234.4895161805741
+2023-11-23,Furniture,ARIMA,1449,1234.4895161805741
+2023-11-24,Furniture,ARIMA,1440,1234.4895161805741
+2023-11-25,Furniture,ARIMA,1398,1234.4895161805741
+2023-11-26,Furniture,ARIMA,1516,1234.4895161805741
+2023-11-27,Furniture,ARIMA,1609,1234.4895161805741
+2023-11-28,Furniture,ARIMA,1252,1234.4895161805741
+2023-11-29,Furniture,ARIMA,1613,1234.4895161805741
+2023-11-30,Furniture,ARIMA,1352,1234.4895161805741
+2023-12-01,Furniture,ARIMA,1337,1234.4895161805741
+2023-12-02,Furniture,ARIMA,1650,1234.4895161805741
+2023-12-03,Furniture,ARIMA,1446,1234.4895161805741
+2023-12-04,Furniture,ARIMA,1462,1234.4895161805741
+2023-12-05,Furniture,ARIMA,1494,1234.4895161805741
+2023-12-06,Furniture,ARIMA,1704,1234.4895161805741
+2023-12-07,Furniture,ARIMA,1293,1234.4895161805741
+2023-12-08,Furniture,ARIMA,1437,1234.4895161805741
+2023-12-09,Furniture,ARIMA,1428,1234.4895161805741
+2023-12-10,Furniture,ARIMA,1343,1234.4895161805741
+2023-12-11,Furniture,ARIMA,1545,1234.4895161805741
+2023-12-12,Furniture,ARIMA,1458,1234.4895161805741
+2023-12-13,Furniture,ARIMA,1688,1234.4895161805741
+2023-12-14,Furniture,ARIMA,1404,1234.4895161805741
+2023-12-15,Furniture,ARIMA,1322,1234.4895161805741
+2023-12-16,Furniture,ARIMA,1401,1234.4895161805741
+2023-12-17,Furniture,ARIMA,1519,1234.4895161805741
+2023-12-18,Furniture,ARIMA,1480,1234.4895161805741
+2023-12-19,Furniture,ARIMA,1490,1234.4895161805741
+2023-12-20,Furniture,ARIMA,1446,1234.4895161805741
+2023-12-21,Furniture,ARIMA,1706,1234.4895161805741
+2023-12-22,Furniture,ARIMA,1506,1234.4895161805741
+2023-12-23,Furniture,ARIMA,1382,1234.4895161805741
+2023-12-24,Furniture,ARIMA,1386,1234.4895161805741
+2023-12-25,Furniture,ARIMA,1410,1234.4895161805741
+2023-12-26,Furniture,ARIMA,1480,1234.4895161805741
+2023-12-27,Furniture,ARIMA,661,1234.4895161805741
+2023-12-28,Furniture,ARIMA,628,1234.4895161805741
+2023-12-29,Furniture,ARIMA,625,1234.4895161805741
+2023-12-30,Furniture,ARIMA,620,1234.4895161805741
+2023-12-31,Furniture,ARIMA,633,1234.4895161805741
+2024-01-01,Furniture,ARIMA,724,1234.4895161805741
+2024-01-02,Furniture,ARIMA,595,1234.4895161805741
+2024-01-03,Furniture,ARIMA,576,1234.4895161805741
+2024-01-04,Furniture,ARIMA,546,1234.4895161805741
+2024-01-05,Furniture,ARIMA,796,1234.4895161805741
+2024-01-06,Furniture,ARIMA,652,1234.4895161805741
+2024-01-07,Furniture,ARIMA,629,1234.4895161805741
+2024-01-08,Furniture,ARIMA,675,1234.4895161805741
+2024-01-09,Furniture,ARIMA,1285,1234.4895161805741
+2024-01-10,Furniture,ARIMA,1199,1234.4895161805741
+2024-01-11,Furniture,ARIMA,1505,1234.4895161805741
+2024-01-12,Furniture,ARIMA,1343,1234.4895161805741
+2024-01-13,Furniture,ARIMA,1677,1234.4895161805741
+2024-01-14,Furniture,ARIMA,1332,1234.4895161805741
+2024-01-15,Furniture,ARIMA,1314,1234.4895161805741
+2024-01-16,Furniture,ARIMA,1328,1234.4895161805741
+2024-01-17,Furniture,ARIMA,1368,1234.4895161805741
+2024-01-18,Furniture,ARIMA,1580,1234.4895161805741
+2024-01-19,Furniture,ARIMA,1170,1234.4895161805741
+2024-01-20,Furniture,ARIMA,1649,1234.4895161805741
+2024-01-21,Furniture,ARIMA,1391,1234.4895161805741
+2024-01-22,Furniture,ARIMA,1770,1234.4895161805741
+2024-01-23,Furniture,ARIMA,1398,1234.4895161805741
+2024-01-24,Furniture,ARIMA,1500,1234.4895161805741
+2024-01-25,Furniture,ARIMA,1327,1234.4895161805741
+2024-01-26,Furniture,ARIMA,1705,1234.4895161805741
+2024-01-27,Furniture,ARIMA,1439,1234.4895161805741
+2024-01-28,Furniture,ARIMA,1756,1234.4895161805741
+2024-01-29,Furniture,ARIMA,1313,1234.4895161805741
+2024-01-30,Furniture,ARIMA,1253,1234.4895161805741
+2023-10-31,Furniture,Prophet,1289,1291.369208937708
+2023-11-01,Furniture,Prophet,1582,1299.9412557396224
+2023-11-02,Furniture,Prophet,1591,1290.77910550124
+2023-11-03,Furniture,Prophet,1301,1309.3351457930041
+2023-11-04,Furniture,Prophet,1332,1283.984897859847
+2023-11-05,Furniture,Prophet,1623,1276.2189703419103
+2023-11-06,Furniture,Prophet,1334,1265.433942968457
+2023-11-07,Furniture,Prophet,1366,1290.730680693364
+2023-11-08,Furniture,Prophet,1504,1299.3027274952913
+2023-11-09,Furniture,Prophet,1358,1290.140577256932
+2023-11-10,Furniture,Prophet,1581,1308.6966175486673
+2023-11-11,Furniture,Prophet,1536,1283.34636961549
+2023-11-12,Furniture,Prophet,1402,1275.5804420975487
+2023-11-13,Furniture,Prophet,1351,1264.7954147241371
+2023-11-14,Furniture,Prophet,1443,1290.0921524490789
+2023-11-15,Furniture,Prophet,1744,1298.6641992509044
+2023-11-16,Furniture,Prophet,1385,1289.502049012582
+2023-11-17,Furniture,Prophet,1361,1308.0580893043218
+2023-11-18,Furniture,Prophet,1692,1282.7078413711326
+2023-11-19,Furniture,Prophet,1563,1274.9419138532182
+2023-11-20,Furniture,Prophet,1343,1264.1568864797673
+2023-11-21,Furniture,Prophet,1484,1289.4536242047352
+2023-11-22,Furniture,Prophet,1736,1298.0256710066342
+2023-11-23,Furniture,Prophet,1449,1288.863520768232
+2023-11-24,Furniture,Prophet,1440,1307.4195610599847
+2023-11-25,Furniture,Prophet,1398,1282.0693131267692
+2023-11-26,Furniture,Prophet,1516,1274.3033856088562
+2023-11-27,Furniture,Prophet,1609,1263.518358235448
+2023-11-28,Furniture,Prophet,1252,1288.8150959603227
+2023-11-29,Furniture,Prophet,1613,1297.387142762303
+2023-11-30,Furniture,Prophet,1352,1288.224992523924
+2023-12-01,Furniture,Prophet,1337,1306.7810328156286
+2023-12-02,Furniture,Prophet,1650,1281.430784882505
+2023-12-03,Furniture,Prophet,1446,1273.6648573645593
+2023-12-04,Furniture,Prophet,1462,1262.8798299911282
+2023-12-05,Furniture,Prophet,1494,1288.1765677159788
+2023-12-06,Furniture,Prophet,1704,1296.7486145179162
+2023-12-07,Furniture,Prophet,1293,1287.5864642795739
+2023-12-08,Furniture,Prophet,1437,1306.1425045712915
+2023-12-09,Furniture,Prophet,1428,1280.7922566381478
+2023-12-10,Furniture,Prophet,1343,1273.0263291201975
+2023-12-11,Furniture,Prophet,1545,1262.2413017467584
+2023-12-12,Furniture,Prophet,1458,1287.5380394716938
+2023-12-13,Furniture,Prophet,1688,1296.1100862735848
+2023-12-14,Furniture,Prophet,1404,1286.9479360352104
+2023-12-15,Furniture,Prophet,1322,1305.5039763269544
+2023-12-16,Furniture,Prophet,1401,1280.1537283937841
+2023-12-17,Furniture,Prophet,1519,1272.3878008758668
+2023-12-18,Furniture,Prophet,1480,1261.602773502439
+2023-12-19,Furniture,Prophet,1490,1286.8995112272225
+2023-12-20,Furniture,Prophet,1446,1295.4715580292539
+2023-12-21,Furniture,Prophet,1706,1286.3094077908604
+2023-12-22,Furniture,Prophet,1506,1304.865448082598
+2023-12-23,Furniture,Prophet,1382,1279.515200149427
+2023-12-24,Furniture,Prophet,1386,1271.749272631505
+2023-12-25,Furniture,Prophet,1410,1260.9642452580538
+2023-12-26,Furniture,Prophet,1480,1286.2609829828787
+2023-12-27,Furniture,Prophet,661,1294.8330297848668
+2023-12-28,Furniture,Prophet,628,1285.6708795465522
+2023-12-29,Furniture,Prophet,625,1304.2269198382612
+2023-12-30,Furniture,Prophet,620,1278.8766719051562
+2023-12-31,Furniture,Prophet,633,1271.1107443871433
+2024-01-01,Furniture,Prophet,724,1260.3257170137342
+2024-01-02,Furniture,Prophet,595,1285.622454738594
+2024-01-03,Furniture,Prophet,576,1294.1945015405356
+2024-01-04,Furniture,Prophet,546,1285.0323513022024
+2024-01-05,Furniture,Prophet,796,1303.5883915939353
+2024-01-06,Furniture,Prophet,652,1278.2381436607993
+2024-01-07,Furniture,Prophet,629,1270.4722161428128
+2024-01-08,Furniture,Prophet,675,1259.6871887693644
+2024-01-09,Furniture,Prophet,1285,1284.98392649425
+2024-01-10,Furniture,Prophet,1199,1293.55597329621
+2024-01-11,Furniture,Prophet,1505,1284.3938230578524
+2024-01-12,Furniture,Prophet,1343,1302.9498633495787
+2024-01-13,Furniture,Prophet,1677,1277.5996154164354
+2024-01-14,Furniture,Prophet,1332,1269.8336878984508
+2024-01-15,Furniture,Prophet,1314,1259.0486605250294
+2024-01-16,Furniture,Prophet,1328,1284.345398249906
+2024-01-17,Furniture,Prophet,1368,1292.9174450518785
+2024-01-18,Furniture,Prophet,1580,1283.7552948135442
+2024-01-19,Furniture,Prophet,1170,1302.311335105242
+2024-01-20,Furniture,Prophet,1649,1276.9610871720784
+2024-01-21,Furniture,Prophet,1391,1269.195159654154
+2024-01-22,Furniture,Prophet,1770,1258.4101322807096
+2024-01-23,Furniture,Prophet,1398,1283.706870005621
+2024-01-24,Furniture,Prophet,1500,1292.2789168074917
+2024-01-25,Furniture,Prophet,1327,1283.1167665691944
+2024-01-26,Furniture,Prophet,1705,1301.6728068608966
+2024-01-27,Furniture,Prophet,1439,1276.3225589277213
+2024-01-28,Furniture,Prophet,1756,1268.556631409792
+2024-01-29,Furniture,Prophet,1313,1257.7716040363398
+2024-01-30,Furniture,Prophet,1253,1283.0683417612772
+2023-10-31,Furniture,ARIMA scenario-oracle (realised regressors),1289,1328.9423876875917
+2023-11-01,Furniture,ARIMA scenario-oracle (realised regressors),1582,1514.2343684314933
+2023-11-02,Furniture,ARIMA scenario-oracle (realised regressors),1591,1521.4068104386893
+2023-11-03,Furniture,ARIMA scenario-oracle (realised regressors),1301,1550.2652940530334
+2023-11-04,Furniture,ARIMA scenario-oracle (realised regressors),1332,1521.9269671098805
+2023-11-05,Furniture,ARIMA scenario-oracle (realised regressors),1623,1516.207092116007
+2023-11-06,Furniture,ARIMA scenario-oracle (realised regressors),1334,1393.9552232211906
+2023-11-07,Furniture,ARIMA scenario-oracle (realised regressors),1366,1463.16760890202
+2023-11-08,Furniture,ARIMA scenario-oracle (realised regressors),1504,1551.7756159669932
+2023-11-09,Furniture,ARIMA scenario-oracle (realised regressors),1358,1498.7108577938013
+2023-11-10,Furniture,ARIMA scenario-oracle (realised regressors),1581,1507.578802538544
+2023-11-11,Furniture,ARIMA scenario-oracle (realised regressors),1536,1479.943738031234
+2023-11-12,Furniture,ARIMA scenario-oracle (realised regressors),1402,1541.9572314696704
+2023-11-13,Furniture,ARIMA scenario-oracle (realised regressors),1351,1494.8341065043003
+2023-11-14,Furniture,ARIMA scenario-oracle (realised regressors),1443,1495.5151347240098
+2023-11-15,Furniture,ARIMA scenario-oracle (realised regressors),1744,1561.2762705696166
+2023-11-16,Furniture,ARIMA scenario-oracle (realised regressors),1385,1412.5699467458462
+2023-11-17,Furniture,ARIMA scenario-oracle (realised regressors),1361,1479.9222277657477
+2023-11-18,Furniture,ARIMA scenario-oracle (realised regressors),1692,1597.392992135024
+2023-11-19,Furniture,ARIMA scenario-oracle (realised regressors),1563,1493.4170937810673
+2023-11-20,Furniture,ARIMA scenario-oracle (realised regressors),1343,1481.7697576755465
+2023-11-21,Furniture,ARIMA scenario-oracle (realised regressors),1484,1513.9377040058484
+2023-11-22,Furniture,ARIMA scenario-oracle (realised regressors),1736,1497.107783956339
+2023-11-23,Furniture,ARIMA scenario-oracle (realised regressors),1449,1567.7167406522242
+2023-11-24,Furniture,ARIMA scenario-oracle (realised regressors),1440,1433.131146950653
+2023-11-25,Furniture,ARIMA scenario-oracle (realised regressors),1398,1500.3567316435483
+2023-11-26,Furniture,ARIMA scenario-oracle (realised regressors),1516,1516.367681633585
+2023-11-27,Furniture,ARIMA scenario-oracle (realised regressors),1609,1455.0587365032984
+2023-11-28,Furniture,ARIMA scenario-oracle (realised regressors),1252,1461.056177693035
+2023-11-29,Furniture,ARIMA scenario-oracle (realised regressors),1613,1354.3656052437439
+2023-11-30,Furniture,ARIMA scenario-oracle (realised regressors),1352,1358.8509084972595
+2023-12-01,Furniture,ARIMA scenario-oracle (realised regressors),1337,1518.544360476566
+2023-12-02,Furniture,ARIMA scenario-oracle (realised regressors),1650,1533.606955595101
+2023-12-03,Furniture,ARIMA scenario-oracle (realised regressors),1446,1500.3889019117676
+2023-12-04,Furniture,ARIMA scenario-oracle (realised regressors),1462,1515.4524415580336
+2023-12-05,Furniture,ARIMA scenario-oracle (realised regressors),1494,1496.1719052115525
+2023-12-06,Furniture,ARIMA scenario-oracle (realised regressors),1704,1579.570197072771
+2023-12-07,Furniture,ARIMA scenario-oracle (realised regressors),1293,1434.1834094538924
+2023-12-08,Furniture,ARIMA scenario-oracle (realised regressors),1437,1479.0327147058126
+2023-12-09,Furniture,ARIMA scenario-oracle (realised regressors),1428,1497.4717120688829
+2023-12-10,Furniture,ARIMA scenario-oracle (realised regressors),1343,1494.7755620755486
+2023-12-11,Furniture,ARIMA scenario-oracle (realised regressors),1545,1519.9813974439803
+2023-12-12,Furniture,ARIMA scenario-oracle (realised regressors),1458,1574.700658825405
+2023-12-13,Furniture,ARIMA scenario-oracle (realised regressors),1688,1457.3623389595343
+2023-12-14,Furniture,ARIMA scenario-oracle (realised regressors),1404,1439.1814985312703
+2023-12-15,Furniture,ARIMA scenario-oracle (realised regressors),1322,1514.286967619193
+2023-12-16,Furniture,ARIMA scenario-oracle (realised regressors),1401,1519.1675630508744
+2023-12-17,Furniture,ARIMA scenario-oracle (realised regressors),1519,1556.343102759211
+2023-12-18,Furniture,ARIMA scenario-oracle (realised regressors),1480,1495.733035235181
+2023-12-19,Furniture,ARIMA scenario-oracle (realised regressors),1490,1479.6118272783106
+2023-12-20,Furniture,ARIMA scenario-oracle (realised regressors),1446,1455.0768927235054
+2023-12-21,Furniture,ARIMA scenario-oracle (realised regressors),1706,1477.996885762005
+2023-12-22,Furniture,ARIMA scenario-oracle (realised regressors),1506,1557.7634889323606
+2023-12-23,Furniture,ARIMA scenario-oracle (realised regressors),1382,1514.8927086342696
+2023-12-24,Furniture,ARIMA scenario-oracle (realised regressors),1386,1499.2478635187742
+2023-12-25,Furniture,ARIMA scenario-oracle (realised regressors),1410,1464.153345145374
+2023-12-26,Furniture,ARIMA scenario-oracle (realised regressors),1480,1456.7342981567765
+2023-12-27,Furniture,ARIMA scenario-oracle (realised regressors),661,713.5289644691712
+2023-12-28,Furniture,ARIMA scenario-oracle (realised regressors),628,649.9376010176394
+2023-12-29,Furniture,ARIMA scenario-oracle (realised regressors),625,553.6763517178579
+2023-12-30,Furniture,ARIMA scenario-oracle (realised regressors),620,552.6114773523345
+2023-12-31,Furniture,ARIMA scenario-oracle (realised regressors),633,550.9685233444045
+2024-01-01,Furniture,ARIMA scenario-oracle (realised regressors),724,701.7036161745934
+2024-01-02,Furniture,ARIMA scenario-oracle (realised regressors),595,650.6327345251792
+2024-01-03,Furniture,ARIMA scenario-oracle (realised regressors),576,711.8587728747322
+2024-01-04,Furniture,ARIMA scenario-oracle (realised regressors),546,692.9667924671272
+2024-01-05,Furniture,ARIMA scenario-oracle (realised regressors),796,769.7295204910531
+2024-01-06,Furniture,ARIMA scenario-oracle (realised regressors),652,653.4253540422122
+2024-01-07,Furniture,ARIMA scenario-oracle (realised regressors),629,691.4566234433411
+2024-01-08,Furniture,ARIMA scenario-oracle (realised regressors),675,710.903679905416
+2024-01-09,Furniture,ARIMA scenario-oracle (realised regressors),1285,1518.5667994051305
+2024-01-10,Furniture,ARIMA scenario-oracle (realised regressors),1199,1475.7428567774125
+2024-01-11,Furniture,ARIMA scenario-oracle (realised regressors),1505,1517.5811249576846
+2024-01-12,Furniture,ARIMA scenario-oracle (realised regressors),1343,1457.8226218712075
+2024-01-13,Furniture,ARIMA scenario-oracle (realised regressors),1677,1515.659848069864
+2024-01-14,Furniture,ARIMA scenario-oracle (realised regressors),1332,1418.844594869015
+2024-01-15,Furniture,ARIMA scenario-oracle (realised regressors),1314,1424.663944104673
+2024-01-16,Furniture,ARIMA scenario-oracle (realised regressors),1328,1576.4482980718647
+2024-01-17,Furniture,ARIMA scenario-oracle (realised regressors),1368,1498.2274541333993
+2024-01-18,Furniture,ARIMA scenario-oracle (realised regressors),1580,1475.8416432468662
+2024-01-19,Furniture,ARIMA scenario-oracle (realised regressors),1170,1458.1051366804916
+2024-01-20,Furniture,ARIMA scenario-oracle (realised regressors),1649,1537.0013523360205
+2024-01-21,Furniture,ARIMA scenario-oracle (realised regressors),1391,1536.004915845745
+2024-01-22,Furniture,ARIMA scenario-oracle (realised regressors),1770,1518.252577546944
+2024-01-23,Furniture,ARIMA scenario-oracle (realised regressors),1398,1456.3582142665925
+2024-01-24,Furniture,ARIMA scenario-oracle (realised regressors),1500,1576.8633896142028
+2024-01-25,Furniture,ARIMA scenario-oracle (realised regressors),1327,1477.8898409756448
+2024-01-26,Furniture,ARIMA scenario-oracle (realised regressors),1705,1476.0525599384641
+2024-01-27,Furniture,ARIMA scenario-oracle (realised regressors),1439,1577.6922219963237
+2024-01-28,Furniture,ARIMA scenario-oracle (realised regressors),1756,1496.822763790825
+2024-01-29,Furniture,ARIMA scenario-oracle (realised regressors),1313,1357.18416106101
+2024-01-30,Furniture,ARIMA scenario-oracle (realised regressors),1253,1358.6942767785335
+2023-10-31,Furniture,Prophet scenario-oracle (realised regressors),1289,1363.6644757638378
+2023-11-01,Furniture,Prophet scenario-oracle (realised regressors),1582,1515.9674205042618
+2023-11-02,Furniture,Prophet scenario-oracle (realised regressors),1591,1500.8553045264077
+2023-11-03,Furniture,Prophet scenario-oracle (realised regressors),1301,1560.410158662331
+2023-11-04,Furniture,Prophet scenario-oracle (realised regressors),1332,1506.6093152299643
+2023-11-05,Furniture,Prophet scenario-oracle (realised regressors),1623,1502.6198830888297
+2023-11-06,Furniture,Prophet scenario-oracle (realised regressors),1334,1377.9224031833858
+2023-11-07,Furniture,Prophet scenario-oracle (realised regressors),1366,1459.2384965496178
+2023-11-08,Furniture,Prophet scenario-oracle (realised regressors),1504,1554.0847799529793
+2023-11-09,Furniture,Prophet scenario-oracle (realised regressors),1358,1481.516002638084
+2023-11-10,Furniture,Prophet scenario-oracle (realised regressors),1581,1498.2923870959069
+2023-11-11,Furniture,Prophet scenario-oracle (realised regressors),1536,1463.643764109208
+2023-11-12,Furniture,Prophet scenario-oracle (realised regressors),1402,1521.585022091837
+2023-11-13,Furniture,Prophet scenario-oracle (realised regressors),1351,1473.4964239691922
+2023-11-14,Furniture,Prophet scenario-oracle (realised regressors),1443,1497.3558559983826
+2023-11-15,Furniture,Prophet scenario-oracle (realised regressors),1744,1553.8976985102627
+2023-11-16,Furniture,Prophet scenario-oracle (realised regressors),1385,1404.7200394126482
+2023-11-17,Furniture,Prophet scenario-oracle (realised regressors),1361,1483.42711399422
+2023-11-18,Furniture,Prophet scenario-oracle (realised regressors),1692,1582.8440341273722
+2023-11-19,Furniture,Prophet scenario-oracle (realised regressors),1563,1483.0934997578001
+2023-11-20,Furniture,Prophet scenario-oracle (realised regressors),1343,1454.1571220808123
+2023-11-21,Furniture,Prophet scenario-oracle (realised regressors),1484,1516.3209950014023
+2023-11-22,Furniture,Prophet scenario-oracle (realised regressors),1736,1496.2539557306297
+2023-11-23,Furniture,Prophet scenario-oracle (realised regressors),1449,1534.1244723031039
+2023-11-24,Furniture,Prophet scenario-oracle (realised regressors),1440,1444.9355916601858
+2023-11-25,Furniture,Prophet scenario-oracle (realised regressors),1398,1486.8958504562424
+2023-11-26,Furniture,Prophet scenario-oracle (realised regressors),1516,1502.0586387608073
+2023-11-27,Furniture,Prophet scenario-oracle (realised regressors),1609,1434.8178201924782
+2023-11-28,Furniture,Prophet scenario-oracle (realised regressors),1252,1458.6772522216143
+2023-11-29,Furniture,Prophet scenario-oracle (realised regressors),1613,1362.001331168136
+2023-11-30,Furniture,Prophet scenario-oracle (realised regressors),1352,1346.8892151902692
+2023-12-01,Furniture,Prophet scenario-oracle (realised regressors),1337,1521.357392000271
+2023-12-02,Furniture,Prophet scenario-oracle (realised regressors),1650,1525.0132099050063
+2023-12-03,Furniture,Prophet scenario-oracle (realised regressors),1446,1482.7193368724913
+2023-12-04,Furniture,Prophet scenario-oracle (realised regressors),1462,1492.0874000869042
+2023-12-05,Furniture,Prophet scenario-oracle (realised regressors),1494,1496.7946116703238
+2023-12-06,Furniture,Prophet scenario-oracle (realised regressors),1704,1572.4886746280108
+2023-12-07,Furniture,Prophet scenario-oracle (realised regressors),1293,1423.3110155303546
+2023-12-08,Furniture,Prophet scenario-oracle (realised regressors),1437,1482.865869666237
+2023-12-09,Furniture,Prophet scenario-oracle (realised regressors),1428,1486.5216875709498
+2023-12-10,Furniture,Prophet scenario-oracle (realised regressors),1343,1482.5322554298082
+2023-12-11,Furniture,Prophet scenario-oracle (realised regressors),1545,1491.9003186442146
+2023-12-12,Furniture,Prophet scenario-oracle (realised regressors),1458,1573.2164120104685
+2023-12-13,Furniture,Prophet scenario-oracle (realised regressors),1688,1457.388270511207
+2023-12-14,Furniture,Prophet scenario-oracle (realised regressors),1404,1423.1239340876743
+2023-12-15,Furniture,Prophet scenario-oracle (realised regressors),1322,1520.9832291149633
+2023-12-16,Furniture,Prophet scenario-oracle (realised regressors),1401,1505.4868265739608
+2023-12-17,Furniture,Prophet scenario-oracle (realised regressors),1519,1539.8018353242223
+2023-12-18,Furniture,Prophet scenario-oracle (realised regressors),1480,1472.56101675588
+2023-12-19,Furniture,Prophet scenario-oracle (realised regressors),1490,1477.2682283392453
+2023-12-20,Furniture,Prophet scenario-oracle (realised regressors),1446,1457.2011890685444
+2023-12-21,Furniture,Prophet scenario-oracle (realised regressors),1706,1461.2412935363795
+2023-12-22,Furniture,Prophet scenario-oracle (realised regressors),1506,1559.1005885636678
+2023-12-23,Furniture,Prophet scenario-oracle (realised regressors),1382,1505.2997451312845
+2023-12-24,Furniture,Prophet scenario-oracle (realised regressors),1386,1482.158092544469
+2023-12-25,Furniture,Prophet scenario-oracle (realised regressors),1410,1429.595465635089
+2023-12-26,Furniture,Prophet scenario-oracle (realised regressors),1480,1457.9289264508845
+2023-12-27,Furniture,Prophet scenario-oracle (realised regressors),661,698.5811819428982
+2023-12-28,Furniture,Prophet scenario-oracle (realised regressors),628,626.0124046280561
+2023-12-29,Furniture,Prophet scenario-oracle (realised regressors),625,551.5017156441128
+2023-12-30,Furniture,Prophet scenario-oracle (realised regressors),620,536.0053131031443
+2023-12-31,Furniture,Prophet scenario-oracle (realised regressors),633,532.0158809619547
+2024-01-01,Furniture,Prophet scenario-oracle (realised regressors),724,651.8232380638252
+2024-01-02,Furniture,Prophet scenario-oracle (realised regressors),595,641.8522579882691
+2024-01-03,Furniture,Prophet scenario-oracle (realised regressors),576,698.3941005002353
+2024-01-04,Furniture,Prophet scenario-oracle (realised regressors),546,664.1297640767608
+2024-01-05,Furniture,Prophet scenario-oracle (realised regressors),796,761.9890591040288
+2024-01-06,Furniture,Prophet scenario-oracle (realised regressors),652,631.5793338889185
+2024-01-07,Furniture,Prophet scenario-oracle (realised regressors),629,665.8943426391294
+2024-01-08,Furniture,Prophet scenario-oracle (realised regressors),675,675.2624058535257
+2024-01-09,Furniture,Prophet scenario-oracle (realised regressors),1285,1515.0114249026688
+2024-01-10,Furniture,Prophet scenario-oracle (realised regressors),1199,1475.792165186239
+2024-01-11,Furniture,Prophet scenario-oracle (realised regressors),1505,1498.9844900997757
+2024-01-12,Furniture,Prophet scenario-oracle (realised regressors),1343,1462.7782420072126
+2024-01-13,Furniture,Prophet scenario-oracle (realised regressors),1677,1504.7385008033095
+2024-01-14,Furniture,Prophet scenario-oracle (realised regressors),1332,1404.9879664336856
+2024-01-15,Furniture,Prophet scenario-oracle (realised regressors),1314,1390.7297804157101
+2024-01-16,Furniture,Prophet scenario-oracle (realised regressors),1328,1572.2810047970686
+2024-01-17,Furniture,Prophet scenario-oracle (realised regressors),1368,1494.757304189266
+2024-01-18,Furniture,Prophet scenario-oracle (realised regressors),1580,1460.4929677657622
+2024-01-19,Furniture,Prophet scenario-oracle (realised regressors),1170,1462.5911605645588
+2024-01-20,Furniture,Prophet scenario-oracle (realised regressors),1649,1523.7036398063235
+2024-01-21,Furniture,Prophet scenario-oracle (realised regressors),1391,1519.7142076652005
+2024-01-22,Furniture,Prophet scenario-oracle (realised regressors),1770,1490.7778299882166
+2024-01-23,Furniture,Prophet scenario-oracle (realised regressors),1398,1457.1806006803124
+2024-01-24,Furniture,Prophet scenario-oracle (realised regressors),1500,1571.17910452931
+2024-01-25,Furniture,Prophet scenario-oracle (realised regressors),1327,1460.305886323087
+2024-01-26,Furniture,Prophet scenario-oracle (realised regressors),1705,1481.556299567552
+2024-01-27,Furniture,Prophet scenario-oracle (realised regressors),1439,1561.8209992550271
+2024-01-28,Furniture,Prophet scenario-oracle (realised regressors),1756,1481.2226853311372
+2024-01-29,Furniture,Prophet scenario-oracle (realised regressors),1313,1337.3729849800059
+2024-01-30,Furniture,Prophet scenario-oracle (realised regressors),1253,1361.232417009191
+2023-10-31,Groceries,Baseline: training mean,4283,4867.103293413174
+2023-11-01,Groceries,Baseline: training mean,4872,4867.103293413174
+2023-11-02,Groceries,Baseline: training mean,5539,4867.103293413174
+2023-11-03,Groceries,Baseline: training mean,4834,4867.103293413174
+2023-11-04,Groceries,Baseline: training mean,4954,4867.103293413174
+2023-11-05,Groceries,Baseline: training mean,4640,4867.103293413174
+2023-11-06,Groceries,Baseline: training mean,4269,4867.103293413174
+2023-11-07,Groceries,Baseline: training mean,4783,4867.103293413174
+2023-11-08,Groceries,Baseline: training mean,5358,4867.103293413174
+2023-11-09,Groceries,Baseline: training mean,5010,4867.103293413174
+2023-11-10,Groceries,Baseline: training mean,4742,4867.103293413174
+2023-11-11,Groceries,Baseline: training mean,4978,4867.103293413174
+2023-11-12,Groceries,Baseline: training mean,5138,4867.103293413174
+2023-11-13,Groceries,Baseline: training mean,4847,4867.103293413174
+2023-11-14,Groceries,Baseline: training mean,4612,4867.103293413174
+2023-11-15,Groceries,Baseline: training mean,4985,4867.103293413174
+2023-11-16,Groceries,Baseline: training mean,4874,4867.103293413174
+2023-11-17,Groceries,Baseline: training mean,4379,4867.103293413174
+2023-11-18,Groceries,Baseline: training mean,5193,4867.103293413174
+2023-11-19,Groceries,Baseline: training mean,5465,4867.103293413174
+2023-11-20,Groceries,Baseline: training mean,4484,4867.103293413174
+2023-11-21,Groceries,Baseline: training mean,4733,4867.103293413174
+2023-11-22,Groceries,Baseline: training mean,5077,4867.103293413174
+2023-11-23,Groceries,Baseline: training mean,5120,4867.103293413174
+2023-11-24,Groceries,Baseline: training mean,4578,4867.103293413174
+2023-11-25,Groceries,Baseline: training mean,4685,4867.103293413174
+2023-11-26,Groceries,Baseline: training mean,4243,4867.103293413174
+2023-11-27,Groceries,Baseline: training mean,5156,4867.103293413174
+2023-11-28,Groceries,Baseline: training mean,4708,4867.103293413174
+2023-11-29,Groceries,Baseline: training mean,4830,4867.103293413174
+2023-11-30,Groceries,Baseline: training mean,4275,4867.103293413174
+2023-12-01,Groceries,Baseline: training mean,5203,4867.103293413174
+2023-12-02,Groceries,Baseline: training mean,4982,4867.103293413174
+2023-12-03,Groceries,Baseline: training mean,4983,4867.103293413174
+2023-12-04,Groceries,Baseline: training mean,4978,4867.103293413174
+2023-12-05,Groceries,Baseline: training mean,4614,4867.103293413174
+2023-12-06,Groceries,Baseline: training mean,5655,4867.103293413174
+2023-12-07,Groceries,Baseline: training mean,5552,4867.103293413174
+2023-12-08,Groceries,Baseline: training mean,4710,4867.103293413174
+2023-12-09,Groceries,Baseline: training mean,4684,4867.103293413174
+2023-12-10,Groceries,Baseline: training mean,4959,4867.103293413174
+2023-12-11,Groceries,Baseline: training mean,3930,4867.103293413174
+2023-12-12,Groceries,Baseline: training mean,5206,4867.103293413174
+2023-12-13,Groceries,Baseline: training mean,5469,4867.103293413174
+2023-12-14,Groceries,Baseline: training mean,5166,4867.103293413174
+2023-12-15,Groceries,Baseline: training mean,4318,4867.103293413174
+2023-12-16,Groceries,Baseline: training mean,4616,4867.103293413174
+2023-12-17,Groceries,Baseline: training mean,4935,4867.103293413174
+2023-12-18,Groceries,Baseline: training mean,5251,4867.103293413174
+2023-12-19,Groceries,Baseline: training mean,5011,4867.103293413174
+2023-12-20,Groceries,Baseline: training mean,4594,4867.103293413174
+2023-12-21,Groceries,Baseline: training mean,5694,4867.103293413174
+2023-12-22,Groceries,Baseline: training mean,5177,4867.103293413174
+2023-12-23,Groceries,Baseline: training mean,4908,4867.103293413174
+2023-12-24,Groceries,Baseline: training mean,5819,4867.103293413174
+2023-12-25,Groceries,Baseline: training mean,4161,4867.103293413174
+2023-12-26,Groceries,Baseline: training mean,4998,4867.103293413174
+2023-12-27,Groceries,Baseline: training mean,3304,4867.103293413174
+2023-12-28,Groceries,Baseline: training mean,3319,4867.103293413174
+2023-12-29,Groceries,Baseline: training mean,3122,4867.103293413174
+2023-12-30,Groceries,Baseline: training mean,2721,4867.103293413174
+2023-12-31,Groceries,Baseline: training mean,2747,4867.103293413174
+2024-01-01,Groceries,Baseline: training mean,3427,4867.103293413174
+2024-01-02,Groceries,Baseline: training mean,3070,4867.103293413174
+2024-01-03,Groceries,Baseline: training mean,3403,4867.103293413174
+2024-01-04,Groceries,Baseline: training mean,2907,4867.103293413174
+2024-01-05,Groceries,Baseline: training mean,3394,4867.103293413174
+2024-01-06,Groceries,Baseline: training mean,3232,4867.103293413174
+2024-01-07,Groceries,Baseline: training mean,3466,4867.103293413174
+2024-01-08,Groceries,Baseline: training mean,3119,4867.103293413174
+2024-01-09,Groceries,Baseline: training mean,4688,4867.103293413174
+2024-01-10,Groceries,Baseline: training mean,4559,4867.103293413174
+2024-01-11,Groceries,Baseline: training mean,5093,4867.103293413174
+2024-01-12,Groceries,Baseline: training mean,4922,4867.103293413174
+2024-01-13,Groceries,Baseline: training mean,4959,4867.103293413174
+2024-01-14,Groceries,Baseline: training mean,4798,4867.103293413174
+2024-01-15,Groceries,Baseline: training mean,4779,4867.103293413174
+2024-01-16,Groceries,Baseline: training mean,4708,4867.103293413174
+2024-01-17,Groceries,Baseline: training mean,4519,4867.103293413174
+2024-01-18,Groceries,Baseline: training mean,5018,4867.103293413174
+2024-01-19,Groceries,Baseline: training mean,4226,4867.103293413174
+2024-01-20,Groceries,Baseline: training mean,5603,4867.103293413174
+2024-01-21,Groceries,Baseline: training mean,4832,4867.103293413174
+2024-01-22,Groceries,Baseline: training mean,5037,4867.103293413174
+2024-01-23,Groceries,Baseline: training mean,4045,4867.103293413174
+2024-01-24,Groceries,Baseline: training mean,5257,4867.103293413174
+2024-01-25,Groceries,Baseline: training mean,5220,4867.103293413174
+2024-01-26,Groceries,Baseline: training mean,4682,4867.103293413174
+2024-01-27,Groceries,Baseline: training mean,5268,4867.103293413174
+2024-01-28,Groceries,Baseline: training mean,5199,4867.103293413174
+2024-01-29,Groceries,Baseline: training mean,4547,4867.103293413174
+2024-01-30,Groceries,Baseline: training mean,4052,4867.103293413174
+2023-10-31,Groceries,Baseline: last 28-day mean,4283,3839.5
+2023-11-01,Groceries,Baseline: last 28-day mean,4872,3839.5
+2023-11-02,Groceries,Baseline: last 28-day mean,5539,3839.5
+2023-11-03,Groceries,Baseline: last 28-day mean,4834,3839.5
+2023-11-04,Groceries,Baseline: last 28-day mean,4954,3839.5
+2023-11-05,Groceries,Baseline: last 28-day mean,4640,3839.5
+2023-11-06,Groceries,Baseline: last 28-day mean,4269,3839.5
+2023-11-07,Groceries,Baseline: last 28-day mean,4783,3839.5
+2023-11-08,Groceries,Baseline: last 28-day mean,5358,3839.5
+2023-11-09,Groceries,Baseline: last 28-day mean,5010,3839.5
+2023-11-10,Groceries,Baseline: last 28-day mean,4742,3839.5
+2023-11-11,Groceries,Baseline: last 28-day mean,4978,3839.5
+2023-11-12,Groceries,Baseline: last 28-day mean,5138,3839.5
+2023-11-13,Groceries,Baseline: last 28-day mean,4847,3839.5
+2023-11-14,Groceries,Baseline: last 28-day mean,4612,3839.5
+2023-11-15,Groceries,Baseline: last 28-day mean,4985,3839.5
+2023-11-16,Groceries,Baseline: last 28-day mean,4874,3839.5
+2023-11-17,Groceries,Baseline: last 28-day mean,4379,3839.5
+2023-11-18,Groceries,Baseline: last 28-day mean,5193,3839.5
+2023-11-19,Groceries,Baseline: last 28-day mean,5465,3839.5
+2023-11-20,Groceries,Baseline: last 28-day mean,4484,3839.5
+2023-11-21,Groceries,Baseline: last 28-day mean,4733,3839.5
+2023-11-22,Groceries,Baseline: last 28-day mean,5077,3839.5
+2023-11-23,Groceries,Baseline: last 28-day mean,5120,3839.5
+2023-11-24,Groceries,Baseline: last 28-day mean,4578,3839.5
+2023-11-25,Groceries,Baseline: last 28-day mean,4685,3839.5
+2023-11-26,Groceries,Baseline: last 28-day mean,4243,3839.5
+2023-11-27,Groceries,Baseline: last 28-day mean,5156,3839.5
+2023-11-28,Groceries,Baseline: last 28-day mean,4708,3839.5
+2023-11-29,Groceries,Baseline: last 28-day mean,4830,3839.5
+2023-11-30,Groceries,Baseline: last 28-day mean,4275,3839.5
+2023-12-01,Groceries,Baseline: last 28-day mean,5203,3839.5
+2023-12-02,Groceries,Baseline: last 28-day mean,4982,3839.5
+2023-12-03,Groceries,Baseline: last 28-day mean,4983,3839.5
+2023-12-04,Groceries,Baseline: last 28-day mean,4978,3839.5
+2023-12-05,Groceries,Baseline: last 28-day mean,4614,3839.5
+2023-12-06,Groceries,Baseline: last 28-day mean,5655,3839.5
+2023-12-07,Groceries,Baseline: last 28-day mean,5552,3839.5
+2023-12-08,Groceries,Baseline: last 28-day mean,4710,3839.5
+2023-12-09,Groceries,Baseline: last 28-day mean,4684,3839.5
+2023-12-10,Groceries,Baseline: last 28-day mean,4959,3839.5
+2023-12-11,Groceries,Baseline: last 28-day mean,3930,3839.5
+2023-12-12,Groceries,Baseline: last 28-day mean,5206,3839.5
+2023-12-13,Groceries,Baseline: last 28-day mean,5469,3839.5
+2023-12-14,Groceries,Baseline: last 28-day mean,5166,3839.5
+2023-12-15,Groceries,Baseline: last 28-day mean,4318,3839.5
+2023-12-16,Groceries,Baseline: last 28-day mean,4616,3839.5
+2023-12-17,Groceries,Baseline: last 28-day mean,4935,3839.5
+2023-12-18,Groceries,Baseline: last 28-day mean,5251,3839.5
+2023-12-19,Groceries,Baseline: last 28-day mean,5011,3839.5
+2023-12-20,Groceries,Baseline: last 28-day mean,4594,3839.5
+2023-12-21,Groceries,Baseline: last 28-day mean,5694,3839.5
+2023-12-22,Groceries,Baseline: last 28-day mean,5177,3839.5
+2023-12-23,Groceries,Baseline: last 28-day mean,4908,3839.5
+2023-12-24,Groceries,Baseline: last 28-day mean,5819,3839.5
+2023-12-25,Groceries,Baseline: last 28-day mean,4161,3839.5
+2023-12-26,Groceries,Baseline: last 28-day mean,4998,3839.5
+2023-12-27,Groceries,Baseline: last 28-day mean,3304,3839.5
+2023-12-28,Groceries,Baseline: last 28-day mean,3319,3839.5
+2023-12-29,Groceries,Baseline: last 28-day mean,3122,3839.5
+2023-12-30,Groceries,Baseline: last 28-day mean,2721,3839.5
+2023-12-31,Groceries,Baseline: last 28-day mean,2747,3839.5
+2024-01-01,Groceries,Baseline: last 28-day mean,3427,3839.5
+2024-01-02,Groceries,Baseline: last 28-day mean,3070,3839.5
+2024-01-03,Groceries,Baseline: last 28-day mean,3403,3839.5
+2024-01-04,Groceries,Baseline: last 28-day mean,2907,3839.5
+2024-01-05,Groceries,Baseline: last 28-day mean,3394,3839.5
+2024-01-06,Groceries,Baseline: last 28-day mean,3232,3839.5
+2024-01-07,Groceries,Baseline: last 28-day mean,3466,3839.5
+2024-01-08,Groceries,Baseline: last 28-day mean,3119,3839.5
+2024-01-09,Groceries,Baseline: last 28-day mean,4688,3839.5
+2024-01-10,Groceries,Baseline: last 28-day mean,4559,3839.5
+2024-01-11,Groceries,Baseline: last 28-day mean,5093,3839.5
+2024-01-12,Groceries,Baseline: last 28-day mean,4922,3839.5
+2024-01-13,Groceries,Baseline: last 28-day mean,4959,3839.5
+2024-01-14,Groceries,Baseline: last 28-day mean,4798,3839.5
+2024-01-15,Groceries,Baseline: last 28-day mean,4779,3839.5
+2024-01-16,Groceries,Baseline: last 28-day mean,4708,3839.5
+2024-01-17,Groceries,Baseline: last 28-day mean,4519,3839.5
+2024-01-18,Groceries,Baseline: last 28-day mean,5018,3839.5
+2024-01-19,Groceries,Baseline: last 28-day mean,4226,3839.5
+2024-01-20,Groceries,Baseline: last 28-day mean,5603,3839.5
+2024-01-21,Groceries,Baseline: last 28-day mean,4832,3839.5
+2024-01-22,Groceries,Baseline: last 28-day mean,5037,3839.5
+2024-01-23,Groceries,Baseline: last 28-day mean,4045,3839.5
+2024-01-24,Groceries,Baseline: last 28-day mean,5257,3839.5
+2024-01-25,Groceries,Baseline: last 28-day mean,5220,3839.5
+2024-01-26,Groceries,Baseline: last 28-day mean,4682,3839.5
+2024-01-27,Groceries,Baseline: last 28-day mean,5268,3839.5
+2024-01-28,Groceries,Baseline: last 28-day mean,5199,3839.5
+2024-01-29,Groceries,Baseline: last 28-day mean,4547,3839.5
+2024-01-30,Groceries,Baseline: last 28-day mean,4052,3839.5
+2023-10-31,Groceries,ARIMA,4283,4682.675243254033
+2023-11-01,Groceries,ARIMA,4872,4687.628657828057
+2023-11-02,Groceries,ARIMA,5539,4701.238621817309
+2023-11-03,Groceries,ARIMA,4834,4707.085656066368
+2023-11-04,Groceries,ARIMA,4954,4712.681312935959
+2023-11-05,Groceries,ARIMA,4640,4717.843372225374
+2023-11-06,Groceries,ARIMA,4269,4722.7890546174785
+2023-11-07,Groceries,ARIMA,4783,4727.5290362996475
+2023-11-08,Groceries,ARIMA,5358,4732.07742639933
+2023-11-09,Groceries,ARIMA,5010,4736.442223941232
+2023-11-10,Groceries,ARIMA,4742,4740.631008932442
+2023-11-11,Groceries,ARIMA,4978,4744.650892836823
+2023-11-12,Groceries,ARIMA,5138,4748.508691503184
+2023-11-13,Groceries,ARIMA,4847,4752.210940944925
+2023-11-14,Groceries,ARIMA,4612,4755.763913195996
+2023-11-15,Groceries,ARIMA,4985,4759.173627236979
+2023-11-16,Groceries,ARIMA,4874,4762.445859340399
+2023-11-17,Groceries,ARIMA,4379,4765.586152870309
+2023-11-18,Groceries,ARIMA,5193,4768.5998276779
+2023-11-19,Groceries,ARIMA,5465,4771.491989114247
+2023-11-20,Groceries,ARIMA,4484,4774.267536679248
+2023-11-21,Groceries,ARIMA,4733,4776.931172321703
+2023-11-22,Groceries,ARIMA,5077,4779.48740840471
+2023-11-23,Groceries,ARIMA,5120,4781.940575349886
+2023-11-24,Groceries,ARIMA,4578,4784.294828973373
+2023-11-25,Groceries,ARIMA,4685,4786.554157526042
+2023-11-26,Groceries,ARIMA,4243,4788.72238844984
+2023-11-27,Groceries,ARIMA,5156,4790.803194861708
+2023-11-28,Groceries,ARIMA,4708,4792.8001017760735
+2023-11-29,Groceries,ARIMA,4830,4794.716492076438
+2023-11-30,Groceries,ARIMA,4275,4796.555612246193
+2023-12-01,Groceries,ARIMA,5203,4798.32057786836
+2023-12-02,Groceries,ARIMA,4982,4800.014378903584
+2023-12-03,Groceries,ARIMA,4983,4801.639884755308
+2023-12-04,Groceries,ARIMA,4978,4803.199849130724
+2023-12-05,Groceries,ARIMA,4614,4804.696914705716
+2023-12-06,Groceries,ARIMA,5655,4806.133617601723
+2023-12-07,Groceries,ARIMA,5552,4807.51239168208
+2023-12-08,Groceries,ARIMA,4710,4808.835572675136
+2023-12-09,Groceries,ARIMA,4684,4810.10540213112
+2023-12-10,Groceries,ARIMA,4959,4811.324031219467
+2023-12-11,Groceries,ARIMA,3930,4812.493524373028
+2023-12-12,Groceries,ARIMA,5206,4813.615862785351
+2023-12-13,Groceries,ARIMA,5469,4814.692947766945
+2023-12-14,Groceries,ARIMA,5166,4815.726603966213
+2023-12-15,Groceries,ARIMA,4318,4816.718582460522
+2023-12-16,Groceries,ARIMA,4616,4817.670563722638
+2023-12-17,Groceries,ARIMA,4935,4818.584160467545
+2023-12-18,Groceries,ARIMA,5251,4819.460920384489
+2023-12-19,Groceries,ARIMA,5011,4820.302328758858
+2023-12-20,Groceries,ARIMA,4594,4821.109810988342
+2023-12-21,Groceries,ARIMA,5694,4821.884734997653
+2023-12-22,Groceries,ARIMA,5177,4822.628413555867
+2023-12-23,Groceries,ARIMA,4908,4823.3421065003395
+2023-12-24,Groceries,ARIMA,5819,4824.027022870946
+2023-12-25,Groceries,ARIMA,4161,4824.68432295827
+2023-12-26,Groceries,ARIMA,4998,4825.315120269209
+2023-12-27,Groceries,ARIMA,3304,4825.920483413321
+2023-12-28,Groceries,ARIMA,3319,4826.501437913116
+2023-12-29,Groceries,ARIMA,3122,4827.058967941358
+2023-12-30,Groceries,ARIMA,2721,4827.594017988307
+2023-12-31,Groceries,ARIMA,2747,4828.10749446175
+2024-01-01,Groceries,ARIMA,3427,4828.60026722251
+2024-01-02,Groceries,ARIMA,3070,4829.073171058042
+2024-01-03,Groceries,ARIMA,3403,4829.527007096617
+2024-01-04,Groceries,ARIMA,2907,4829.962544164482
+2024-01-05,Groceries,ARIMA,3394,4830.380520088297
+2024-01-06,Groceries,ARIMA,3232,4830.781642945063
+2024-01-07,Groceries,ARIMA,3466,4831.166592261644
+2024-01-08,Groceries,ARIMA,3119,4831.53602016593
+2024-01-09,Groceries,ARIMA,4688,4831.89055249158
+2024-01-10,Groceries,ARIMA,4559,4832.230789838225
+2024-01-11,Groceries,ARIMA,5093,4832.55730858892
+2024-01-12,Groceries,ARIMA,4922,4832.870661886572
+2024-01-13,Groceries,ARIMA,4959,4833.171380570996
+2024-01-14,Groceries,ARIMA,4798,4833.459974078197
+2024-01-15,Groceries,ARIMA,4779,4833.736931303378
+2024-01-16,Groceries,ARIMA,4708,4834.002721429164
+2024-01-17,Groceries,ARIMA,4519,4834.257794720425
+2024-01-18,Groceries,ARIMA,5018,4834.502583287052
+2024-01-19,Groceries,ARIMA,4226,4834.737501815978
+2024-01-20,Groceries,ARIMA,5603,4834.962948273683
+2024-01-21,Groceries,ARIMA,4832,4835.179304580373
+2024-01-22,Groceries,ARIMA,5037,4835.38693725698
+2024-01-23,Groceries,ARIMA,4045,4835.586198046066
+2024-01-24,Groceries,ARIMA,5257,4835.7774245077
+2024-01-25,Groceries,ARIMA,5220,4835.960940591305
+2024-01-26,Groceries,ARIMA,4682,4836.137057184448
+2024-01-27,Groceries,ARIMA,5268,4836.306072639502
+2024-01-28,Groceries,ARIMA,5199,4836.468273279075
+2024-01-29,Groceries,ARIMA,4547,4836.6239338810565
+2024-01-30,Groceries,ARIMA,4052,4836.773318144109
+2023-10-31,Groceries,Prophet,4283,5015.791017544257
+2023-11-01,Groceries,Prophet,4872,5109.6189608466175
+2023-11-02,Groceries,Prophet,5539,5063.8074365127095
+2023-11-03,Groceries,Prophet,4834,5073.815920936881
+2023-11-04,Groceries,Prophet,4954,5055.162651568738
+2023-11-05,Groceries,Prophet,4640,5101.108545955259
+2023-11-06,Groceries,Prophet,4269,5048.124910081103
+2023-11-07,Groceries,Prophet,4783,5022.5863876233125
+2023-11-08,Groceries,Prophet,5358,5116.414330925733
+2023-11-09,Groceries,Prophet,5010,5070.6028065917535
+2023-11-10,Groceries,Prophet,4742,5080.611291015916
+2023-11-11,Groceries,Prophet,4978,5061.958021647863
+2023-11-12,Groceries,Prophet,5138,5107.9039160342645
+2023-11-13,Groceries,Prophet,4847,5054.920280160168
+2023-11-14,Groceries,Prophet,4612,5029.381757702522
+2023-11-15,Groceries,Prophet,4985,5123.209701004755
+2023-11-16,Groceries,Prophet,4874,5077.398176670779
+2023-11-17,Groceries,Prophet,4379,5087.406661095014
+2023-11-18,Groceries,Prophet,5193,5068.753391726985
+2023-11-19,Groceries,Prophet,5465,5114.699286113445
+2023-11-20,Groceries,Prophet,4484,5061.715650239047
+2023-11-21,Groceries,Prophet,4733,5036.177127781577
+2023-11-22,Groceries,Prophet,5077,5130.00507108378
+2023-11-23,Groceries,Prophet,5120,5084.193546749806
+2023-11-24,Groceries,Prophet,4578,5094.202031174049
+2023-11-25,Groceries,Prophet,4685,5075.548761805975
+2023-11-26,Groceries,Prophet,4243,5121.494656192451
+2023-11-27,Groceries,Prophet,5156,5068.511020318111
+2023-11-28,Groceries,Prophet,4708,5042.97249786047
+2023-11-29,Groceries,Prophet,4830,5136.800441162896
+2023-11-30,Groceries,Prophet,4275,5090.988916828851
+2023-12-01,Groceries,Prophet,5203,5100.9974012531475
+2023-12-02,Groceries,Prophet,4982,5082.344131885054
+2023-12-03,Groceries,Prophet,4983,5128.290026271541
+2023-12-04,Groceries,Prophet,4978,5075.306390397176
+2023-12-05,Groceries,Prophet,4614,5049.767867939524
+2023-12-06,Groceries,Prophet,5655,5143.595811241917
+2023-12-07,Groceries,Prophet,5552,5097.784286907877
+2023-12-08,Groceries,Prophet,4710,5107.792771332182
+2023-12-09,Groceries,Prophet,4684,5089.139501964178
+2023-12-10,Groceries,Prophet,4959,5135.085396350547
+2023-12-11,Groceries,Prophet,3930,5082.101760476056
+2023-12-12,Groceries,Prophet,5206,5056.563238018735
+2023-12-13,Groceries,Prophet,5469,5150.391181321034
+2023-12-14,Groceries,Prophet,5166,5104.57965698707
+2023-12-15,Groceries,Prophet,4318,5114.588141411217
+2023-12-16,Groceries,Prophet,4616,5095.934872043167
+2023-12-17,Groceries,Prophet,4935,5141.880766429727
+2023-12-18,Groceries,Prophet,5251,5088.89713055512
+2023-12-19,Groceries,Prophet,5011,5063.358608097472
+2023-12-20,Groceries,Prophet,4594,5157.18655140015
+2023-12-21,Groceries,Prophet,5694,5111.375027066097
+2023-12-22,Groceries,Prophet,5177,5121.383511490317
+2023-12-23,Groceries,Prophet,4908,5102.730242122291
+2023-12-24,Groceries,Prophet,5819,5148.676136508733
+2023-12-25,Groceries,Prophet,4161,5095.692500634396
+2023-12-26,Groceries,Prophet,4998,5070.153978176528
+2023-12-27,Groceries,Prophet,3304,5163.9819214791705
+2023-12-28,Groceries,Prophet,3319,5118.170397145141
+2023-12-29,Groceries,Prophet,3122,5128.178881569352
+2023-12-30,Groceries,Prophet,2721,5109.525612201235
+2023-12-31,Groceries,Prophet,2747,5155.471506587738
+2024-01-01,Groceries,Prophet,3427,5102.487870713461
+2024-01-02,Groceries,Prophet,3070,5076.949348255737
+2024-01-03,Groceries,Prophet,3403,5170.777291558287
+2024-01-04,Groceries,Prophet,2907,5124.9657672241665
+2024-01-05,Groceries,Prophet,3394,5134.974251648384
+2024-01-06,Groceries,Prophet,3232,5116.320982280359
+2024-01-07,Groceries,Prophet,3466,5162.2668766669185
+2024-01-08,Groceries,Prophet,3119,5109.283240792341
+2024-01-09,Groceries,Prophet,4688,5083.744718334792
+2024-01-10,Groceries,Prophet,4559,5177.572661637218
+2024-01-11,Groceries,Prophet,5093,5131.761137303194
+2024-01-12,Groceries,Prophet,4922,5141.769621727483
+2024-01-13,Groceries,Prophet,4959,5123.11635235935
+2024-01-14,Groceries,Prophet,4798,5169.062246745924
+2024-01-15,Groceries,Prophet,4779,5116.0786108718
+2024-01-16,Groceries,Prophet,4708,5090.540088413847
+2024-01-17,Groceries,Prophet,4519,5184.368031716333
+2024-01-18,Groceries,Prophet,5018,5138.556507382238
+2024-01-19,Groceries,Prophet,4226,5148.564991806518
+2024-01-20,Groceries,Prophet,5603,5129.911722438474
+2024-01-21,Groceries,Prophet,4832,5175.857616825016
+2024-01-22,Groceries,Prophet,5037,5122.873980950865
+2024-01-23,Groceries,Prophet,4045,5097.335458493058
+2024-01-24,Groceries,Prophet,5257,5191.163401795354
+2024-01-25,Groceries,Prophet,5220,5145.351877461265
+2024-01-26,Groceries,Prophet,4682,5155.360361885615
+2024-01-27,Groceries,Prophet,5268,5136.707092517598
+2024-01-28,Groceries,Prophet,5199,5182.6529869040205
+2024-01-29,Groceries,Prophet,4547,5129.6693510297455
+2024-01-30,Groceries,Prophet,4052,5104.130828572112
+2023-10-31,Groceries,ARIMA scenario-oracle (realised regressors),4283,4658.142778700737
+2023-11-01,Groceries,ARIMA scenario-oracle (realised regressors),4872,5165.132489350071
+2023-11-02,Groceries,ARIMA scenario-oracle (realised regressors),5539,5165.132489350071
+2023-11-03,Groceries,ARIMA scenario-oracle (realised regressors),4834,5291.879917012406
+2023-11-04,Groceries,ARIMA scenario-oracle (realised regressors),4954,5165.132489350071
+2023-11-05,Groceries,ARIMA scenario-oracle (realised regressors),4640,5165.132489350071
+2023-11-06,Groceries,ARIMA scenario-oracle (realised regressors),4269,4784.89020636307
+2023-11-07,Groceries,ARIMA scenario-oracle (realised regressors),4783,4975.011347856571
+2023-11-08,Groceries,ARIMA scenario-oracle (realised regressors),5358,5291.879917012406
+2023-11-09,Groceries,ARIMA scenario-oracle (realised regressors),5010,5101.758775518905
+2023-11-10,Groceries,ARIMA scenario-oracle (realised regressors),4742,5143.675476835508
+2023-11-11,Groceries,ARIMA scenario-oracle (realised regressors),4978,5080.3017630043405
+2023-11-12,Groceries,ARIMA scenario-oracle (realised regressors),5138,5228.506203181239
+2023-11-13,Groceries,ARIMA scenario-oracle (realised regressors),4847,5101.758775518905
+2023-11-14,Groceries,ARIMA scenario-oracle (realised regressors),4612,5101.758775518905
+2023-11-15,Groceries,ARIMA scenario-oracle (realised regressors),4985,5291.879917012406
+2023-11-16,Groceries,ARIMA scenario-oracle (realised regressors),4874,4848.2639201942375
+2023-11-17,Groceries,ARIMA scenario-oracle (realised regressors),4379,5038.385061687738
+2023-11-18,Groceries,ARIMA scenario-oracle (realised regressors),5193,5418.627344674739
+2023-11-19,Groceries,ARIMA scenario-oracle (realised regressors),5465,5101.758775518905
+2023-11-20,Groceries,ARIMA scenario-oracle (realised regressors),4484,5038.385061687738
+2023-11-21,Groceries,ARIMA scenario-oracle (realised regressors),4733,5165.132489350071
+2023-11-22,Groceries,ARIMA scenario-oracle (realised regressors),5077,5101.758775518905
+2023-11-23,Groceries,ARIMA scenario-oracle (realised regressors),5120,5333.796618329008
+2023-11-24,Groceries,ARIMA scenario-oracle (realised regressors),4578,4911.637634025405
+2023-11-25,Groceries,ARIMA scenario-oracle (realised regressors),4685,5101.758775518905
+2023-11-26,Groceries,ARIMA scenario-oracle (realised regressors),4243,5165.132489350071
+2023-11-27,Groceries,ARIMA scenario-oracle (realised regressors),5156,4975.011347856571
+2023-11-28,Groceries,ARIMA scenario-oracle (realised regressors),4708,4975.011347856571
+2023-11-29,Groceries,ARIMA scenario-oracle (realised regressors),4830,4658.142778700737
+2023-11-30,Groceries,ARIMA scenario-oracle (realised regressors),4275,4658.142778700737
+2023-12-01,Groceries,ARIMA scenario-oracle (realised regressors),5203,5165.132489350071
+2023-12-02,Groceries,ARIMA scenario-oracle (realised regressors),4982,5228.506203181239
+2023-12-03,Groceries,ARIMA scenario-oracle (realised regressors),4983,5101.758775518905
+2023-12-04,Groceries,ARIMA scenario-oracle (realised regressors),4978,5165.132489350071
+2023-12-05,Groceries,ARIMA scenario-oracle (realised regressors),4614,5101.758775518905
+2023-12-06,Groceries,ARIMA scenario-oracle (realised regressors),5655,5355.253630843572
+2023-12-07,Groceries,ARIMA scenario-oracle (realised regressors),5552,4911.637634025405
+2023-12-08,Groceries,ARIMA scenario-oracle (realised regressors),4710,5038.385061687738
+2023-12-09,Groceries,ARIMA scenario-oracle (realised regressors),4684,5101.758775518905
+2023-12-10,Groceries,ARIMA scenario-oracle (realised regressors),4959,5101.758775518905
+2023-12-11,Groceries,ARIMA scenario-oracle (realised regressors),3930,5165.132489350071
+2023-12-12,Groceries,ARIMA scenario-oracle (realised regressors),5206,5355.253630843572
+2023-12-13,Groceries,ARIMA scenario-oracle (realised regressors),5469,4975.011347856571
+2023-12-14,Groceries,ARIMA scenario-oracle (realised regressors),5166,4911.637634025405
+2023-12-15,Groceries,ARIMA scenario-oracle (realised regressors),4318,5165.132489350071
+2023-12-16,Groceries,ARIMA scenario-oracle (realised regressors),4616,5165.132489350071
+2023-12-17,Groceries,ARIMA scenario-oracle (realised regressors),4935,5291.879917012406
+2023-12-18,Groceries,ARIMA scenario-oracle (realised regressors),5251,5101.758775518905
+2023-12-19,Groceries,ARIMA scenario-oracle (realised regressors),5011,5038.385061687738
+2023-12-20,Groceries,ARIMA scenario-oracle (realised regressors),4594,4975.011347856571
+2023-12-21,Groceries,ARIMA scenario-oracle (realised regressors),5694,5038.385061687738
+2023-12-22,Groceries,ARIMA scenario-oracle (realised regressors),5177,5291.879917012406
+2023-12-23,Groceries,ARIMA scenario-oracle (realised regressors),4908,5165.132489350071
+2023-12-24,Groceries,ARIMA scenario-oracle (realised regressors),5819,5101.758775518905
+2023-12-25,Groceries,ARIMA scenario-oracle (realised regressors),4161,5016.928049173174
+2023-12-26,Groceries,ARIMA scenario-oracle (realised regressors),4998,4975.011347856571
+2023-12-27,Groceries,ARIMA scenario-oracle (realised regressors),3304,3319.2272223937916
+2023-12-28,Groceries,ARIMA scenario-oracle (realised regressors),3319,3129.106080900291
+2023-12-29,Groceries,ARIMA scenario-oracle (realised regressors),3122,2812.2375117444567
+2023-12-30,Groceries,ARIMA scenario-oracle (realised regressors),2721,2812.2375117444567
+2023-12-31,Groceries,ARIMA scenario-oracle (realised regressors),2747,2812.2375117444567
+2024-01-01,Groceries,ARIMA scenario-oracle (realised regressors),3427,3297.7702098792274
+2024-01-02,Groceries,ARIMA scenario-oracle (realised regressors),3070,3129.106080900291
+2024-01-03,Groceries,ARIMA scenario-oracle (realised regressors),3403,3319.2272223937916
+2024-01-04,Groceries,ARIMA scenario-oracle (realised regressors),2907,3255.8535085626245
+2024-01-05,Groceries,ARIMA scenario-oracle (realised regressors),3394,3509.348363887292
+2024-01-06,Groceries,ARIMA scenario-oracle (realised regressors),3232,3129.106080900291
+2024-01-07,Groceries,ARIMA scenario-oracle (realised regressors),3466,3255.8535085626245
+2024-01-08,Groceries,ARIMA scenario-oracle (realised regressors),3119,3319.2272223937916
+2024-01-09,Groceries,ARIMA scenario-oracle (realised regressors),4688,5165.132489350071
+2024-01-10,Groceries,ARIMA scenario-oracle (realised regressors),4559,5038.385061687738
+2024-01-11,Groceries,ARIMA scenario-oracle (realised regressors),5093,5165.132489350071
+2024-01-12,Groceries,ARIMA scenario-oracle (realised regressors),4922,4975.011347856571
+2024-01-13,Groceries,ARIMA scenario-oracle (realised regressors),4959,5165.132489350071
+2024-01-14,Groceries,ARIMA scenario-oracle (realised regressors),4798,4848.2639201942375
+2024-01-15,Groceries,ARIMA scenario-oracle (realised regressors),4779,4890.180621510841
+2024-01-16,Groceries,ARIMA scenario-oracle (realised regressors),4708,5355.253630843572
+2024-01-17,Groceries,ARIMA scenario-oracle (realised regressors),4519,5101.758775518905
+2024-01-18,Groceries,ARIMA scenario-oracle (realised regressors),5018,5038.385061687738
+2024-01-19,Groceries,ARIMA scenario-oracle (realised regressors),4226,4975.011347856571
+2024-01-20,Groceries,ARIMA scenario-oracle (realised regressors),5603,5228.506203181239
+2024-01-21,Groceries,ARIMA scenario-oracle (realised regressors),4832,5228.506203181239
+2024-01-22,Groceries,ARIMA scenario-oracle (realised regressors),5037,5165.132489350071
+2024-01-23,Groceries,ARIMA scenario-oracle (realised regressors),4045,4975.011347856571
+2024-01-24,Groceries,ARIMA scenario-oracle (realised regressors),5257,5355.253630843572
+2024-01-25,Groceries,ARIMA scenario-oracle (realised regressors),5220,5038.385061687738
+2024-01-26,Groceries,ARIMA scenario-oracle (realised regressors),4682,5038.385061687738
+2024-01-27,Groceries,ARIMA scenario-oracle (realised regressors),5268,5355.253630843572
+2024-01-28,Groceries,ARIMA scenario-oracle (realised regressors),5199,5101.758775518905
+2024-01-29,Groceries,ARIMA scenario-oracle (realised regressors),4547,4658.142778700737
+2024-01-30,Groceries,ARIMA scenario-oracle (realised regressors),4052,4658.142778700737
+2023-10-31,Groceries,Prophet scenario-oracle (realised regressors),4283,4755.830261787015
+2023-11-01,Groceries,Prophet scenario-oracle (realised regressors),4872,5347.3248451206055
+2023-11-02,Groceries,Prophet scenario-oracle (realised regressors),5539,5283.727918490181
+2023-11-03,Groceries,Prophet scenario-oracle (realised regressors),4834,5431.663315197614
+2023-11-04,Groceries,Prophet scenario-oracle (realised regressors),4954,5306.827783554477
+2023-11-05,Groceries,Prophet scenario-oracle (realised regressors),4640,5350.089563286767
+2023-11-06,Groceries,Prophet scenario-oracle (realised regressors),4269,4889.410096016809
+2023-11-07,Groceries,Prophet scenario-oracle (realised regressors),4783,5065.950133061189
+2023-11-08,Groceries,Prophet scenario-oracle (realised regressors),5358,5457.1155170772445
+2023-11-09,Groceries,Prophet scenario-oracle (realised regressors),5010,5193.189391129201
+2023-11-10,Groceries,Prophet scenario-oracle (realised regressors),4742,5308.528743792598
+2023-11-11,Groceries,Prophet scenario-oracle (realised regressors),4978,5250.469611922052
+2023-11-12,Groceries,Prophet scenario-oracle (realised regressors),5138,5393.1038354708
+2023-11-13,Groceries,Prophet scenario-oracle (realised regressors),4847,5199.529967290993
+2023-11-14,Groceries,Prophet scenario-oracle (realised regressors),4612,5175.740805017926
+2023-11-15,Groceries,Prophet scenario-oracle (realised regressors),4985,5433.353389488744
+2023-11-16,Groceries,Prophet scenario-oracle (realised regressors),4874,4902.321664450619
+2023-11-17,Groceries,Prophet scenario-oracle (realised regressors),4379,5117.033460930571
+2023-11-18,Groceries,Prophet scenario-oracle (realised regressors),5193,5526.4091274678285
+2023-11-19,Groceries,Prophet scenario-oracle (realised regressors),5465,5235.7889083374
+2023-11-20,Groceries,Prophet scenario-oracle (realised regressors),4484,5108.991439929872
+2023-11-21,Groceries,Prophet scenario-oracle (realised regressors),4733,5218.755077202001
+2023-11-22,Groceries,Prophet scenario-oracle (realised regressors),5077,5209.262062582793
+2023-11-23,Groceries,Prophet scenario-oracle (realised regressors),5120,5446.951090770815
+2023-11-24,Groceries,Prophet scenario-oracle (realised regressors),4578,4959.718533797082
+2023-11-25,Groceries,Prophet scenario-oracle (realised regressors),4685,5168.765001016726
+2023-11-26,Groceries,Prophet scenario-oracle (realised regressors),4243,5278.803180521434
+2023-11-27,Groceries,Prophet scenario-oracle (realised regressors),5156,5018.452912568906
+2023-11-28,Groceries,Prophet scenario-oracle (realised regressors),4708,4994.663750295855
+2023-11-29,Groceries,Prophet scenario-oracle (realised regressors),4830,4718.065136586707
+2023-11-30,Groceries,Prophet scenario-oracle (realised regressors),4275,4654.4682099561105
+2023-12-01,Groceries,Prophet scenario-oracle (realised regressors),5203,5203.062005298784
+2023-12-02,Groceries,Prophet scenario-oracle (realised regressors),4982,5278.555672973264
+2023-12-03,Groceries,Prophet scenario-oracle (realised regressors),4983,5188.264653160518
+2023-12-04,Groceries,Prophet scenario-oracle (realised regressors),4978,5195.019984298039
+2023-12-05,Groceries,Prophet scenario-oracle (realised regressors),4614,5104.454422252454
+2023-12-06,Groceries,Prophet scenario-oracle (realised regressors),5655,5428.843406495982
+2023-12-07,Groceries,Prophet scenario-oracle (realised regressors),5552,4897.81168145773
+2023-12-08,Groceries,Prophet scenario-oracle (realised regressors),4710,5045.747078165295
+2023-12-09,Groceries,Prophet scenario-oracle (realised regressors),4684,5121.240745839839
+2023-12-10,Groceries,Prophet scenario-oracle (realised regressors),4959,5164.502525572026
+2023-12-11,Groceries,Prophet scenario-oracle (realised regressors),3930,5171.257856709444
+2023-12-12,Groceries,Prophet scenario-oracle (realised regressors),5206,5347.797893754241
+2023-12-13,Groceries,Prophet scenario-oracle (realised regressors),5469,5004.422880272421
+2023-12-14,Groceries,Prophet scenario-oracle (realised regressors),5166,4874.049553869433
+2023-12-15,Groceries,Prophet scenario-oracle (realised regressors),4318,5155.537750121906
+2023-12-16,Groceries,Prophet scenario-oracle (realised regressors),4616,5164.255018023889
+2023-12-17,Groceries,Prophet scenario-oracle (realised regressors),4935,5341.069597301252
+2023-12-18,Groceries,Prophet scenario-oracle (realised regressors),5251,5080.719329348477
+2023-12-19,Groceries,Prophet scenario-oracle (realised regressors),5011,4990.153767302908
+2023-12-20,Groceries,Prophet scenario-oracle (realised regressors),4594,4980.66075268401
+2023-12-21,Groceries,Prophet scenario-oracle (realised regressors),5694,4983.840225826002
+2023-12-22,Groceries,Prophet scenario-oracle (realised regressors),5177,5265.328422078558
+2023-12-23,Groceries,Prophet scenario-oracle (realised regressors),4908,5140.492890435514
+2023-12-24,Groceries,Prophet scenario-oracle (realised regressors),5819,5116.978270395184
+2023-12-25,Groceries,Prophet scenario-oracle (realised regressors),4161,5024.361157716181
+2023-12-26,Groceries,Prophet scenario-oracle (realised regressors),4998,4899.615239941933
+2023-12-27,Groceries,Prophet scenario-oracle (realised regressors),3304,3151.7251407530853
+2023-12-28,Groceries,Prophet scenario-oracle (realised regressors),3319,2887.7990148050235
+2023-12-29,Groceries,Prophet scenario-oracle (realised regressors),3122,2568.2996131048676
+2023-12-30,Groceries,Prophet scenario-oracle (realised regressors),2721,2577.016881006698
+2023-12-31,Groceries,Prophet scenario-oracle (realised regressors),2747,2620.278660739016
+2024-01-01,Groceries,Prophet scenario-oracle (realised regressors),3427,3128.64914601279
+2024-01-02,Groceries,Prophet scenario-oracle (realised regressors),3070,2870.3504286936186
+2024-01-03,Groceries,Prophet scenario-oracle (realised regressors),3403,3127.9630131646745
+2024-01-04,Groceries,Prophet scenario-oracle (realised regressors),2907,2997.589686761594
+2024-01-05,Groceries,Prophet scenario-oracle (realised regressors),3394,3279.0778830141016
+2024-01-06,Groceries,Prophet scenario-oracle (realised regressors),3232,2887.1367522809496
+2024-01-07,Groceries,Prophet scenario-oracle (realised regressors),3466,3063.9513315583426
+2024-01-08,Groceries,Prophet scenario-oracle (realised regressors),3119,3070.706662695719
+2024-01-09,Groceries,Prophet scenario-oracle (realised regressors),4688,5052.4201840827445
+2024-01-10,Groceries,Prophet scenario-oracle (realised regressors),4559,4976.1507696911585
+2024-01-11,Groceries,Prophet scenario-oracle (realised regressors),5093,5046.106642605639
+2024-01-12,Groceries,Prophet scenario-oracle (realised regressors),4922,4860.1600404505525
+2024-01-13,Groceries,Prophet scenario-oracle (realised regressors),4959,5069.206507670047
+2024-01-14,Groceries,Prophet scenario-oracle (realised regressors),4798,4778.586288539749
+2024-01-15,Groceries,Prophet scenario-oracle (realised regressors),4779,4819.521975406
+2024-01-16,Groceries,Prophet scenario-oracle (realised regressors),4708,5228.987255811869
+2024-01-17,Groceries,Prophet scenario-oracle (realised regressors),4519,5019.1650418752715
+2024-01-18,Groceries,Prophet scenario-oracle (realised regressors),5018,4888.791715472134
+2024-01-19,Groceries,Prophet scenario-oracle (realised regressors),4226,4836.397912862112
+2024-01-20,Groceries,Prophet scenario-oracle (realised regressors),5603,5112.2207798541995
+2024-01-21,Groceries,Prophet scenario-oracle (realised regressors),4832,5155.4825595865095
+2024-01-22,Groceries,Prophet scenario-oracle (realised regressors),5037,5028.685091179185
+2024-01-23,Groceries,Prophet scenario-oracle (realised regressors),4045,4804.566729588404
+2024-01-24,Groceries,Prophet scenario-oracle (realised regressors),5257,5262.5085133768725
+2024-01-25,Groceries,Prophet scenario-oracle (realised regressors),5220,4865.029587883653
+2024-01-26,Groceries,Prophet scenario-oracle (realised regressors),4682,4879.412185046137
+2024-01-27,Groceries,Prophet scenario-oracle (realised regressors),5268,5222.011451810876
+2024-01-28,Groceries,Prophet scenario-oracle (realised regressors),5199,4998.167632452967
+2024-01-29,Groceries,Prophet scenario-oracle (realised regressors),4547,4470.711765410388
+2024-01-30,Groceries,Prophet scenario-oracle (realised regressors),4052,4446.922603137327
+2023-10-31,Toys,Baseline: training mean,1086,1301.2634730538923
+2023-11-01,Toys,Baseline: training mean,1316,1301.2634730538923
+2023-11-02,Toys,Baseline: training mean,1330,1301.2634730538923
+2023-11-03,Toys,Baseline: training mean,1318,1301.2634730538923
+2023-11-04,Toys,Baseline: training mean,1529,1301.2634730538923
+2023-11-05,Toys,Baseline: training mean,1409,1301.2634730538923
+2023-11-06,Toys,Baseline: training mean,1099,1301.2634730538923
+2023-11-07,Toys,Baseline: training mean,1645,1301.2634730538923
+2023-11-08,Toys,Baseline: training mean,1392,1301.2634730538923
+2023-11-09,Toys,Baseline: training mean,1309,1301.2634730538923
+2023-11-10,Toys,Baseline: training mean,1225,1301.2634730538923
+2023-11-11,Toys,Baseline: training mean,1407,1301.2634730538923
+2023-11-12,Toys,Baseline: training mean,1478,1301.2634730538923
+2023-11-13,Toys,Baseline: training mean,1404,1301.2634730538923
+2023-11-14,Toys,Baseline: training mean,1360,1301.2634730538923
+2023-11-15,Toys,Baseline: training mean,1475,1301.2634730538923
+2023-11-16,Toys,Baseline: training mean,1344,1301.2634730538923
+2023-11-17,Toys,Baseline: training mean,1186,1301.2634730538923
+2023-11-18,Toys,Baseline: training mean,1493,1301.2634730538923
+2023-11-19,Toys,Baseline: training mean,1218,1301.2634730538923
+2023-11-20,Toys,Baseline: training mean,1262,1301.2634730538923
+2023-11-21,Toys,Baseline: training mean,1521,1301.2634730538923
+2023-11-22,Toys,Baseline: training mean,1354,1301.2634730538923
+2023-11-23,Toys,Baseline: training mean,1527,1301.2634730538923
+2023-11-24,Toys,Baseline: training mean,1464,1301.2634730538923
+2023-11-25,Toys,Baseline: training mean,1239,1301.2634730538923
+2023-11-26,Toys,Baseline: training mean,1641,1301.2634730538923
+2023-11-27,Toys,Baseline: training mean,1431,1301.2634730538923
+2023-11-28,Toys,Baseline: training mean,1240,1301.2634730538923
+2023-11-29,Toys,Baseline: training mean,1341,1301.2634730538923
+2023-11-30,Toys,Baseline: training mean,1327,1301.2634730538923
+2023-12-01,Toys,Baseline: training mean,1557,1301.2634730538923
+2023-12-02,Toys,Baseline: training mean,1648,1301.2634730538923
+2023-12-03,Toys,Baseline: training mean,1580,1301.2634730538923
+2023-12-04,Toys,Baseline: training mean,1613,1301.2634730538923
+2023-12-05,Toys,Baseline: training mean,1247,1301.2634730538923
+2023-12-06,Toys,Baseline: training mean,1582,1301.2634730538923
+2023-12-07,Toys,Baseline: training mean,1191,1301.2634730538923
+2023-12-08,Toys,Baseline: training mean,1527,1301.2634730538923
+2023-12-09,Toys,Baseline: training mean,1102,1301.2634730538923
+2023-12-10,Toys,Baseline: training mean,1385,1301.2634730538923
+2023-12-11,Toys,Baseline: training mean,1383,1301.2634730538923
+2023-12-12,Toys,Baseline: training mean,1644,1301.2634730538923
+2023-12-13,Toys,Baseline: training mean,1391,1301.2634730538923
+2023-12-14,Toys,Baseline: training mean,1417,1301.2634730538923
+2023-12-15,Toys,Baseline: training mean,1479,1301.2634730538923
+2023-12-16,Toys,Baseline: training mean,1481,1301.2634730538923
+2023-12-17,Toys,Baseline: training mean,1516,1301.2634730538923
+2023-12-18,Toys,Baseline: training mean,1528,1301.2634730538923
+2023-12-19,Toys,Baseline: training mean,1508,1301.2634730538923
+2023-12-20,Toys,Baseline: training mean,1379,1301.2634730538923
+2023-12-21,Toys,Baseline: training mean,1446,1301.2634730538923
+2023-12-22,Toys,Baseline: training mean,1689,1301.2634730538923
+2023-12-23,Toys,Baseline: training mean,1465,1301.2634730538923
+2023-12-24,Toys,Baseline: training mean,1498,1301.2634730538923
+2023-12-25,Toys,Baseline: training mean,1304,1301.2634730538923
+2023-12-26,Toys,Baseline: training mean,1483,1301.2634730538923
+2023-12-27,Toys,Baseline: training mean,438,1301.2634730538923
+2023-12-28,Toys,Baseline: training mean,401,1301.2634730538923
+2023-12-29,Toys,Baseline: training mean,343,1301.2634730538923
+2023-12-30,Toys,Baseline: training mean,387,1301.2634730538923
+2023-12-31,Toys,Baseline: training mean,462,1301.2634730538923
+2024-01-01,Toys,Baseline: training mean,363,1301.2634730538923
+2024-01-02,Toys,Baseline: training mean,453,1301.2634730538923
+2024-01-03,Toys,Baseline: training mean,451,1301.2634730538923
+2024-01-04,Toys,Baseline: training mean,393,1301.2634730538923
+2024-01-05,Toys,Baseline: training mean,357,1301.2634730538923
+2024-01-06,Toys,Baseline: training mean,554,1301.2634730538923
+2024-01-07,Toys,Baseline: training mean,340,1301.2634730538923
+2024-01-08,Toys,Baseline: training mean,349,1301.2634730538923
+2024-01-09,Toys,Baseline: training mean,1234,1301.2634730538923
+2024-01-10,Toys,Baseline: training mean,1437,1301.2634730538923
+2024-01-11,Toys,Baseline: training mean,1236,1301.2634730538923
+2024-01-12,Toys,Baseline: training mean,1408,1301.2634730538923
+2024-01-13,Toys,Baseline: training mean,1681,1301.2634730538923
+2024-01-14,Toys,Baseline: training mean,1312,1301.2634730538923
+2024-01-15,Toys,Baseline: training mean,1355,1301.2634730538923
+2024-01-16,Toys,Baseline: training mean,1402,1301.2634730538923
+2024-01-17,Toys,Baseline: training mean,1301,1301.2634730538923
+2024-01-18,Toys,Baseline: training mean,1314,1301.2634730538923
+2024-01-19,Toys,Baseline: training mean,1036,1301.2634730538923
+2024-01-20,Toys,Baseline: training mean,1664,1301.2634730538923
+2024-01-21,Toys,Baseline: training mean,1227,1301.2634730538923
+2024-01-22,Toys,Baseline: training mean,1682,1301.2634730538923
+2024-01-23,Toys,Baseline: training mean,1348,1301.2634730538923
+2024-01-24,Toys,Baseline: training mean,1281,1301.2634730538923
+2024-01-25,Toys,Baseline: training mean,1561,1301.2634730538923
+2024-01-26,Toys,Baseline: training mean,1308,1301.2634730538923
+2024-01-27,Toys,Baseline: training mean,1538,1301.2634730538923
+2024-01-28,Toys,Baseline: training mean,1353,1301.2634730538923
+2024-01-29,Toys,Baseline: training mean,1348,1301.2634730538923
+2024-01-30,Toys,Baseline: training mean,1364,1301.2634730538923
+2023-10-31,Toys,Baseline: last 28-day mean,1086,790.1785714285714
+2023-11-01,Toys,Baseline: last 28-day mean,1316,790.1785714285714
+2023-11-02,Toys,Baseline: last 28-day mean,1330,790.1785714285714
+2023-11-03,Toys,Baseline: last 28-day mean,1318,790.1785714285714
+2023-11-04,Toys,Baseline: last 28-day mean,1529,790.1785714285714
+2023-11-05,Toys,Baseline: last 28-day mean,1409,790.1785714285714
+2023-11-06,Toys,Baseline: last 28-day mean,1099,790.1785714285714
+2023-11-07,Toys,Baseline: last 28-day mean,1645,790.1785714285714
+2023-11-08,Toys,Baseline: last 28-day mean,1392,790.1785714285714
+2023-11-09,Toys,Baseline: last 28-day mean,1309,790.1785714285714
+2023-11-10,Toys,Baseline: last 28-day mean,1225,790.1785714285714
+2023-11-11,Toys,Baseline: last 28-day mean,1407,790.1785714285714
+2023-11-12,Toys,Baseline: last 28-day mean,1478,790.1785714285714
+2023-11-13,Toys,Baseline: last 28-day mean,1404,790.1785714285714
+2023-11-14,Toys,Baseline: last 28-day mean,1360,790.1785714285714
+2023-11-15,Toys,Baseline: last 28-day mean,1475,790.1785714285714
+2023-11-16,Toys,Baseline: last 28-day mean,1344,790.1785714285714
+2023-11-17,Toys,Baseline: last 28-day mean,1186,790.1785714285714
+2023-11-18,Toys,Baseline: last 28-day mean,1493,790.1785714285714
+2023-11-19,Toys,Baseline: last 28-day mean,1218,790.1785714285714
+2023-11-20,Toys,Baseline: last 28-day mean,1262,790.1785714285714
+2023-11-21,Toys,Baseline: last 28-day mean,1521,790.1785714285714
+2023-11-22,Toys,Baseline: last 28-day mean,1354,790.1785714285714
+2023-11-23,Toys,Baseline: last 28-day mean,1527,790.1785714285714
+2023-11-24,Toys,Baseline: last 28-day mean,1464,790.1785714285714
+2023-11-25,Toys,Baseline: last 28-day mean,1239,790.1785714285714
+2023-11-26,Toys,Baseline: last 28-day mean,1641,790.1785714285714
+2023-11-27,Toys,Baseline: last 28-day mean,1431,790.1785714285714
+2023-11-28,Toys,Baseline: last 28-day mean,1240,790.1785714285714
+2023-11-29,Toys,Baseline: last 28-day mean,1341,790.1785714285714
+2023-11-30,Toys,Baseline: last 28-day mean,1327,790.1785714285714
+2023-12-01,Toys,Baseline: last 28-day mean,1557,790.1785714285714
+2023-12-02,Toys,Baseline: last 28-day mean,1648,790.1785714285714
+2023-12-03,Toys,Baseline: last 28-day mean,1580,790.1785714285714
+2023-12-04,Toys,Baseline: last 28-day mean,1613,790.1785714285714
+2023-12-05,Toys,Baseline: last 28-day mean,1247,790.1785714285714
+2023-12-06,Toys,Baseline: last 28-day mean,1582,790.1785714285714
+2023-12-07,Toys,Baseline: last 28-day mean,1191,790.1785714285714
+2023-12-08,Toys,Baseline: last 28-day mean,1527,790.1785714285714
+2023-12-09,Toys,Baseline: last 28-day mean,1102,790.1785714285714
+2023-12-10,Toys,Baseline: last 28-day mean,1385,790.1785714285714
+2023-12-11,Toys,Baseline: last 28-day mean,1383,790.1785714285714
+2023-12-12,Toys,Baseline: last 28-day mean,1644,790.1785714285714
+2023-12-13,Toys,Baseline: last 28-day mean,1391,790.1785714285714
+2023-12-14,Toys,Baseline: last 28-day mean,1417,790.1785714285714
+2023-12-15,Toys,Baseline: last 28-day mean,1479,790.1785714285714
+2023-12-16,Toys,Baseline: last 28-day mean,1481,790.1785714285714
+2023-12-17,Toys,Baseline: last 28-day mean,1516,790.1785714285714
+2023-12-18,Toys,Baseline: last 28-day mean,1528,790.1785714285714
+2023-12-19,Toys,Baseline: last 28-day mean,1508,790.1785714285714
+2023-12-20,Toys,Baseline: last 28-day mean,1379,790.1785714285714
+2023-12-21,Toys,Baseline: last 28-day mean,1446,790.1785714285714
+2023-12-22,Toys,Baseline: last 28-day mean,1689,790.1785714285714
+2023-12-23,Toys,Baseline: last 28-day mean,1465,790.1785714285714
+2023-12-24,Toys,Baseline: last 28-day mean,1498,790.1785714285714
+2023-12-25,Toys,Baseline: last 28-day mean,1304,790.1785714285714
+2023-12-26,Toys,Baseline: last 28-day mean,1483,790.1785714285714
+2023-12-27,Toys,Baseline: last 28-day mean,438,790.1785714285714
+2023-12-28,Toys,Baseline: last 28-day mean,401,790.1785714285714
+2023-12-29,Toys,Baseline: last 28-day mean,343,790.1785714285714
+2023-12-30,Toys,Baseline: last 28-day mean,387,790.1785714285714
+2023-12-31,Toys,Baseline: last 28-day mean,462,790.1785714285714
+2024-01-01,Toys,Baseline: last 28-day mean,363,790.1785714285714
+2024-01-02,Toys,Baseline: last 28-day mean,453,790.1785714285714
+2024-01-03,Toys,Baseline: last 28-day mean,451,790.1785714285714
+2024-01-04,Toys,Baseline: last 28-day mean,393,790.1785714285714
+2024-01-05,Toys,Baseline: last 28-day mean,357,790.1785714285714
+2024-01-06,Toys,Baseline: last 28-day mean,554,790.1785714285714
+2024-01-07,Toys,Baseline: last 28-day mean,340,790.1785714285714
+2024-01-08,Toys,Baseline: last 28-day mean,349,790.1785714285714
+2024-01-09,Toys,Baseline: last 28-day mean,1234,790.1785714285714
+2024-01-10,Toys,Baseline: last 28-day mean,1437,790.1785714285714
+2024-01-11,Toys,Baseline: last 28-day mean,1236,790.1785714285714
+2024-01-12,Toys,Baseline: last 28-day mean,1408,790.1785714285714
+2024-01-13,Toys,Baseline: last 28-day mean,1681,790.1785714285714
+2024-01-14,Toys,Baseline: last 28-day mean,1312,790.1785714285714
+2024-01-15,Toys,Baseline: last 28-day mean,1355,790.1785714285714
+2024-01-16,Toys,Baseline: last 28-day mean,1402,790.1785714285714
+2024-01-17,Toys,Baseline: last 28-day mean,1301,790.1785714285714
+2024-01-18,Toys,Baseline: last 28-day mean,1314,790.1785714285714
+2024-01-19,Toys,Baseline: last 28-day mean,1036,790.1785714285714
+2024-01-20,Toys,Baseline: last 28-day mean,1664,790.1785714285714
+2024-01-21,Toys,Baseline: last 28-day mean,1227,790.1785714285714
+2024-01-22,Toys,Baseline: last 28-day mean,1682,790.1785714285714
+2024-01-23,Toys,Baseline: last 28-day mean,1348,790.1785714285714
+2024-01-24,Toys,Baseline: last 28-day mean,1281,790.1785714285714
+2024-01-25,Toys,Baseline: last 28-day mean,1561,790.1785714285714
+2024-01-26,Toys,Baseline: last 28-day mean,1308,790.1785714285714
+2024-01-27,Toys,Baseline: last 28-day mean,1538,790.1785714285714
+2024-01-28,Toys,Baseline: last 28-day mean,1353,790.1785714285714
+2024-01-29,Toys,Baseline: last 28-day mean,1348,790.1785714285714
+2024-01-30,Toys,Baseline: last 28-day mean,1364,790.1785714285714
+2023-10-31,Toys,ARIMA,1086,1360.4631710280732
+2023-11-01,Toys,ARIMA,1316,1357.0477217657349
+2023-11-02,Toys,ARIMA,1330,1353.826247577038
+2023-11-03,Toys,ARIMA,1318,1350.7877319524976
+2023-11-04,Toys,ARIMA,1529,1347.9217840479728
+2023-11-05,Toys,ARIMA,1409,1345.2186031509873
+2023-11-06,Toys,ARIMA,1099,1342.6689451651282
+2023-11-07,Toys,ARIMA,1645,1340.264090997912
+2023-11-08,Toys,ARIMA,1392,1337.995816744011
+2023-11-09,Toys,ARIMA,1309,1335.8563655618773
+2023-11-10,Toys,ARIMA,1225,1333.8384211475889
+2023-11-11,Toys,ARIMA,1407,1331.9350827152082
+2023-11-12,Toys,ARIMA,1478,1330.1398413980905
+2023-11-13,Toys,ARIMA,1404,1328.4465579904438
+2023-11-14,Toys,ARIMA,1360,1326.8494419530216
+2023-11-15,Toys,ARIMA,1475,1325.3430316111542
+2023-11-16,Toys,ARIMA,1344,1323.9221754774023
+2023-11-17,Toys,ARIMA,1186,1322.5820146349604
+2023-11-18,Toys,ARIMA,1493,1321.317966121567
+2023-11-19,Toys,ARIMA,1218,1320.1257072571009
+2023-11-20,Toys,ARIMA,1262,1319.0011608612651
+2023-11-21,Toys,ARIMA,1521,1317.9404813108106
+2023-11-22,Toys,ARIMA,1354,1316.9400413886176
+2023-11-23,Toys,ARIMA,1527,1315.9964198796627
+2023-11-24,Toys,ARIMA,1464,1315.1063898714533
+2023-11-25,Toys,ARIMA,1239,1314.2669077189212
+2023-11-26,Toys,ARIMA,1641,1313.4751026360366
+2023-11-27,Toys,ARIMA,1431,1312.7282668785513
+2023-11-28,Toys,ARIMA,1240,1312.023846484296
+2023-11-29,Toys,ARIMA,1341,1311.35943253937
+2023-11-30,Toys,ARIMA,1327,1310.7327529403517
+2023-12-01,Toys,ARIMA,1557,1310.141664624363
+2023-12-02,Toys,ARIMA,1648,1309.5841462404144
+2023-12-03,Toys,ARIMA,1580,1309.058291236969
+2023-12-04,Toys,ARIMA,1613,1308.5623013420884
+2023-12-05,Toys,ARIMA,1247,1308.0944804138635
+2023-12-06,Toys,ARIMA,1582,1307.6532286400993
+2023-12-07,Toys,ARIMA,1191,1307.2370370674203
+2023-12-08,Toys,ARIMA,1527,1306.8444824410867
+2023-12-09,Toys,ARIMA,1102,1306.474222337875
+2023-12-10,Toys,ARIMA,1385,1306.1249905753796
+2023-12-11,Toys,ARIMA,1383,1305.7955928820343
+2023-12-12,Toys,ARIMA,1644,1305.48490281305
+2023-12-13,Toys,ARIMA,1391,1305.1918578982993
+2023-12-14,Toys,ARIMA,1417,1304.915456008976
+2023-12-15,Toys,ARIMA,1479,1304.6547519306046
+2023-12-16,Toys,ARIMA,1481,1304.4088541306805
+2023-12-17,Toys,ARIMA,1516,1304.1769217098865
+2023-12-18,Toys,ARIMA,1528,1303.958161526461
+2023-12-19,Toys,ARIMA,1508,1303.7518254838822
+2023-12-20,Toys,ARIMA,1379,1303.5572079725944
+2023-12-21,Toys,ARIMA,1446,1303.3736434570283
+2023-12-22,Toys,ARIMA,1689,1303.200504199661
+2023-12-23,Toys,ARIMA,1465,1303.037198114336
+2023-12-24,Toys,ARIMA,1498,1302.8831667414993
+2023-12-25,Toys,ARIMA,1304,1302.73788333843
+2023-12-26,Toys,ARIMA,1483,1302.6008510779322
+2023-12-27,Toys,ARIMA,438,1302.47160134933
+2023-12-28,Toys,ARIMA,401,1302.349692155954
+2023-12-29,Toys,ARIMA,343,1302.2347066036414
+2023-12-30,Toys,ARIMA,387,1302.126251475078
+2023-12-31,Toys,ARIMA,462,1302.0239558851097
+2024-01-01,Toys,ARIMA,363,1301.9274700124208
+2024-01-02,Toys,ARIMA,453,1301.8364639032486
+2024-01-03,Toys,ARIMA,451,1301.750626343035
+2024-01-04,Toys,ARIMA,393,1301.6696637921643
+2024-01-05,Toys,ARIMA,357,1301.5932993821416
+2024-01-06,Toys,ARIMA,554,1301.5212719687831
+2024-01-07,Toys,ARIMA,340,1301.4533352391786
+2024-01-08,Toys,ARIMA,349,1301.3892568693727
+2024-01-09,Toys,ARIMA,1234,1301.328817729884
+2024-01-10,Toys,ARIMA,1437,1301.2718111363451
+2024-01-11,Toys,ARIMA,1236,1301.2180421427033
+2024-01-12,Toys,ARIMA,1408,1301.16732687456
+2024-01-13,Toys,ARIMA,1681,1301.1194919003744
+2024-01-14,Toys,ARIMA,1312,1301.0743736383774
+2024-01-15,Toys,ARIMA,1355,1301.0318177971694
+2024-01-16,Toys,ARIMA,1402,1300.9916788480882
+2024-01-17,Toys,ARIMA,1301,1300.9538195275438
+2024-01-18,Toys,ARIMA,1314,1300.9181103676156
+2024-01-19,Toys,ARIMA,1036,1300.8844292533101
+2024-01-20,Toys,ARIMA,1664,1300.8526610049635
+2024-01-21,Toys,ARIMA,1227,1300.8226969843595
+2024-01-22,Toys,ARIMA,1682,1300.7944347232187
+2024-01-23,Toys,ARIMA,1348,1300.7677775727866
+2024-01-24,Toys,ARIMA,1281,1300.7426343733227
+2024-01-25,Toys,ARIMA,1561,1300.7189191423613
+2024-01-26,Toys,ARIMA,1308,1300.696550780675
+2024-01-27,Toys,ARIMA,1538,1300.6754527949397
+2024-01-28,Toys,ARIMA,1353,1300.65555303615
+2024-01-29,Toys,ARIMA,1348,1300.6367834528892
+2024-01-30,Toys,ARIMA,1364,1300.6190798586142
+2023-10-31,Toys,Prophet,1086,1228.5846425464074
+2023-11-01,Toys,Prophet,1316,1251.8571176139315
+2023-11-02,Toys,Prophet,1330,1233.6495801701874
+2023-11-03,Toys,Prophet,1318,1263.5828101908082
+2023-11-04,Toys,Prophet,1529,1248.6513880577902
+2023-11-05,Toys,Prophet,1409,1242.7446000569505
+2023-11-06,Toys,Prophet,1099,1230.0483111796248
+2023-11-07,Toys,Prophet,1645,1227.4247408525218
+2023-11-08,Toys,Prophet,1392,1250.697215920064
+2023-11-09,Toys,Prophet,1309,1232.4896784763155
+2023-11-10,Toys,Prophet,1225,1262.4229084969297
+2023-11-11,Toys,Prophet,1407,1247.4914863639203
+2023-11-12,Toys,Prophet,1478,1241.5846983630404
+2023-11-13,Toys,Prophet,1404,1228.888409485763
+2023-11-14,Toys,Prophet,1360,1226.264839158701
+2023-11-15,Toys,Prophet,1475,1249.5373142261592
+2023-11-16,Toys,Prophet,1344,1231.3297767824406
+2023-11-17,Toys,Prophet,1186,1261.2630068030116
+2023-11-18,Toys,Prophet,1493,1246.3315846700502
+2023-11-19,Toys,Prophet,1218,1240.4247966692085
+2023-11-20,Toys,Prophet,1262,1227.728507791823
+2023-11-21,Toys,Prophet,1521,1225.1049374648155
+2023-11-22,Toys,Prophet,1354,1248.3774125323166
+2023-11-23,Toys,Prophet,1527,1230.1698750885655
+2023-11-24,Toys,Prophet,1464,1260.1031051091336
+2023-11-25,Toys,Prophet,1239,1245.1716829761192
+2023-11-26,Toys,Prophet,1641,1239.2648949752986
+2023-11-27,Toys,Prophet,1431,1226.5686060979613
+2023-11-28,Toys,Prophet,1240,1223.945035770889
+2023-11-29,Toys,Prophet,1341,1247.217510838449
+2023-11-30,Toys,Prophet,1327,1229.0099733946938
+2023-12-01,Toys,Prophet,1557,1258.9432034152876
+2023-12-02,Toys,Prophet,1648,1244.0117812823416
+2023-12-03,Toys,Prophet,1580,1238.1049932814656
+2023-12-04,Toys,Prophet,1613,1225.4087044040998
+2023-12-05,Toys,Prophet,1247,1222.7851340770035
+2023-12-06,Toys,Prophet,1582,1246.0576091445446
+2023-12-07,Toys,Prophet,1191,1227.8500717008187
+2023-12-08,Toys,Prophet,1527,1257.783301721409
+2023-12-09,Toys,Prophet,1102,1242.8518795884715
+2023-12-10,Toys,Prophet,1385,1236.9450915875557
+2023-12-11,Toys,Prophet,1383,1224.2488027101595
+2023-12-12,Toys,Prophet,1644,1221.6252323831827
+2023-12-13,Toys,Prophet,1391,1244.8977074506772
+2023-12-14,Toys,Prophet,1417,1226.690170006922
+2023-12-15,Toys,Prophet,1479,1256.6234000275306
+2023-12-16,Toys,Prophet,1481,1241.6919778945405
+2023-12-17,Toys,Prophet,1516,1235.7851898937236
+2023-12-18,Toys,Prophet,1528,1223.088901016298
+2023-12-19,Toys,Prophet,1508,1220.4653306891917
+2023-12-20,Toys,Prophet,1379,1243.7378057568096
+2023-12-21,Toys,Prophet,1446,1225.5302683130471
+2023-12-22,Toys,Prophet,1689,1255.4634983336848
+2023-12-23,Toys,Prophet,1465,1240.5320762006706
+2023-12-24,Toys,Prophet,1498,1234.6252881998137
+2023-12-25,Toys,Prophet,1304,1221.9289993224434
+2023-12-26,Toys,Prophet,1483,1219.3054289953063
+2023-12-27,Toys,Prophet,438,1242.577904062905
+2023-12-28,Toys,Prophet,401,1224.370366619175
+2023-12-29,Toys,Prophet,343,1254.3035966398063
+2023-12-30,Toys,Prophet,387,1239.3721745068317
+2023-12-31,Toys,Prophet,462,1233.4653865059038
+2024-01-01,Toys,Prophet,363,1220.7690976285817
+2024-01-02,Toys,Prophet,453,1218.1455273014856
+2024-01-03,Toys,Prophet,451,1241.4180023690374
+2024-01-04,Toys,Prophet,393,1223.2104649253001
+2024-01-05,Toys,Prophet,357,1253.1436949458557
+2024-01-06,Toys,Prophet,554,1238.2122728129616
+2024-01-07,Toys,Prophet,340,1232.3054848120714
+2024-01-08,Toys,Prophet,349,1219.6091959346415
+2024-01-09,Toys,Prophet,1234,1216.9856256076
+2024-01-10,Toys,Prophet,1437,1240.2581006751575
+2024-01-11,Toys,Prophet,1236,1222.0505632314253
+2024-01-12,Toys,Prophet,1408,1251.9837932520097
+2024-01-13,Toys,Prophet,1681,1237.0523711190308
+2024-01-14,Toys,Prophet,1312,1231.1455831181618
+2024-01-15,Toys,Prophet,1355,1218.4492942408658
+2024-01-16,Toys,Prophet,1402,1215.8257239137147
+2024-01-17,Toys,Prophet,1301,1239.09819898129
+2024-01-18,Toys,Prophet,1314,1220.8906615375531
+2024-01-19,Toys,Prophet,1036,1250.8238915581314
+2024-01-20,Toys,Prophet,1664,1235.8924694251607
+2024-01-21,Toys,Prophet,1227,1229.985681424329
+2024-01-22,Toys,Prophet,1682,1217.2893925470044
+2024-01-23,Toys,Prophet,1348,1214.6658222198935
+2024-01-24,Toys,Prophet,1281,1237.9382972873855
+2024-01-25,Toys,Prophet,1561,1219.7307598436782
+2024-01-26,Toys,Prophet,1308,1249.6639898642134
+2024-01-27,Toys,Prophet,1538,1234.7325677312908
+2024-01-28,Toys,Prophet,1353,1228.825779730419
+2024-01-29,Toys,Prophet,1348,1216.129490853064
+2024-01-30,Toys,Prophet,1364,1213.5059205260084
+2023-10-31,Toys,ARIMA scenario-oracle (realised regressors),1086,1408.4707518019718
+2023-11-01,Toys,ARIMA scenario-oracle (realised regressors),1316,1519.7992722913657
+2023-11-02,Toys,ARIMA scenario-oracle (realised regressors),1330,1519.7992722913657
+2023-11-03,Toys,ARIMA scenario-oracle (realised regressors),1318,1547.631402413714
+2023-11-04,Toys,ARIMA scenario-oracle (realised regressors),1529,1519.7992722913657
+2023-11-05,Toys,ARIMA scenario-oracle (realised regressors),1409,1519.7992722913657
+2023-11-06,Toys,ARIMA scenario-oracle (realised regressors),1099,1436.3028819243202
+2023-11-07,Toys,ARIMA scenario-oracle (realised regressors),1645,1478.051077107843
+2023-11-08,Toys,ARIMA scenario-oracle (realised regressors),1392,1547.631402413714
+2023-11-09,Toys,ARIMA scenario-oracle (realised regressors),1309,1505.8832072301916
+2023-11-10,Toys,ARIMA scenario-oracle (realised regressors),1225,1531.0386287606082
+2023-11-11,Toys,ARIMA scenario-oracle (realised regressors),1407,1517.122563699434
+2023-11-12,Toys,ARIMA scenario-oracle (realised regressors),1478,1533.71533735254
+2023-11-13,Toys,ARIMA scenario-oracle (realised regressors),1404,1505.8832072301916
+2023-11-14,Toys,ARIMA scenario-oracle (realised regressors),1360,1505.8832072301916
+2023-11-15,Toys,ARIMA scenario-oracle (realised regressors),1475,1547.631402413714
+2023-11-16,Toys,ARIMA scenario-oracle (realised regressors),1344,1450.2189469854945
+2023-11-17,Toys,ARIMA scenario-oracle (realised regressors),1186,1491.9671421690173
+2023-11-18,Toys,ARIMA scenario-oracle (realised regressors),1493,1575.4635325360628
+2023-11-19,Toys,ARIMA scenario-oracle (realised regressors),1218,1505.8832072301916
+2023-11-20,Toys,ARIMA scenario-oracle (realised regressors),1262,1491.9671421690173
+2023-11-21,Toys,ARIMA scenario-oracle (realised regressors),1521,1519.7992722913657
+2023-11-22,Toys,ARIMA scenario-oracle (realised regressors),1354,1505.8832072301916
+2023-11-23,Toys,ARIMA scenario-oracle (realised regressors),1527,1572.786823944131
+2023-11-24,Toys,ARIMA scenario-oracle (realised regressors),1464,1464.1350120466689
+2023-11-25,Toys,ARIMA scenario-oracle (realised regressors),1239,1505.8832072301916
+2023-11-26,Toys,ARIMA scenario-oracle (realised regressors),1641,1519.7992722913657
+2023-11-27,Toys,ARIMA scenario-oracle (realised regressors),1431,1478.051077107843
+2023-11-28,Toys,ARIMA scenario-oracle (realised regressors),1240,1478.051077107843
+2023-11-29,Toys,ARIMA scenario-oracle (realised regressors),1341,1408.4707518019718
+2023-11-30,Toys,ARIMA scenario-oracle (realised regressors),1327,1408.4707518019718
+2023-12-01,Toys,ARIMA scenario-oracle (realised regressors),1557,1519.7992722913657
+2023-12-02,Toys,ARIMA scenario-oracle (realised regressors),1648,1533.71533735254
+2023-12-03,Toys,ARIMA scenario-oracle (realised regressors),1580,1505.8832072301916
+2023-12-04,Toys,ARIMA scenario-oracle (realised regressors),1613,1519.7992722913657
+2023-12-05,Toys,ARIMA scenario-oracle (realised regressors),1247,1505.8832072301916
+2023-12-06,Toys,ARIMA scenario-oracle (realised regressors),1582,1561.5474674748884
+2023-12-07,Toys,ARIMA scenario-oracle (realised regressors),1191,1464.1350120466689
+2023-12-08,Toys,ARIMA scenario-oracle (realised regressors),1527,1491.9671421690173
+2023-12-09,Toys,ARIMA scenario-oracle (realised regressors),1102,1505.8832072301916
+2023-12-10,Toys,ARIMA scenario-oracle (realised regressors),1385,1505.8832072301916
+2023-12-11,Toys,ARIMA scenario-oracle (realised regressors),1383,1519.7992722913657
+2023-12-12,Toys,ARIMA scenario-oracle (realised regressors),1644,1561.5474674748884
+2023-12-13,Toys,ARIMA scenario-oracle (realised regressors),1391,1478.051077107843
+2023-12-14,Toys,ARIMA scenario-oracle (realised regressors),1417,1464.1350120466689
+2023-12-15,Toys,ARIMA scenario-oracle (realised regressors),1479,1519.7992722913657
+2023-12-16,Toys,ARIMA scenario-oracle (realised regressors),1481,1519.7992722913657
+2023-12-17,Toys,ARIMA scenario-oracle (realised regressors),1516,1547.631402413714
+2023-12-18,Toys,ARIMA scenario-oracle (realised regressors),1528,1505.8832072301916
+2023-12-19,Toys,ARIMA scenario-oracle (realised regressors),1508,1491.9671421690173
+2023-12-20,Toys,ARIMA scenario-oracle (realised regressors),1379,1478.051077107843
+2023-12-21,Toys,ARIMA scenario-oracle (realised regressors),1446,1491.9671421690173
+2023-12-22,Toys,ARIMA scenario-oracle (realised regressors),1689,1547.631402413714
+2023-12-23,Toys,ARIMA scenario-oracle (realised regressors),1465,1519.7992722913657
+2023-12-24,Toys,ARIMA scenario-oracle (realised regressors),1498,1505.8832072301916
+2023-12-25,Toys,ARIMA scenario-oracle (realised regressors),1304,1503.2064986382597
+2023-12-26,Toys,ARIMA scenario-oracle (realised regressors),1483,1478.051077107843
+2023-12-27,Toys,ARIMA scenario-oracle (realised regressors),438,418.09461077610194
+2023-12-28,Toys,ARIMA scenario-oracle (realised regressors),401,376.3464155925792
+2023-12-29,Toys,ARIMA scenario-oracle (realised regressors),343,306.76609028670805
+2023-12-30,Toys,ARIMA scenario-oracle (realised regressors),387,306.76609028670805
+2023-12-31,Toys,ARIMA scenario-oracle (realised regressors),462,306.76609028670805
+2024-01-01,Toys,ARIMA scenario-oracle (realised regressors),363,429.3339672453444
+2024-01-02,Toys,ARIMA scenario-oracle (realised regressors),453,376.3464155925792
+2024-01-03,Toys,ARIMA scenario-oracle (realised regressors),451,418.09461077610194
+2024-01-04,Toys,ARIMA scenario-oracle (realised regressors),393,404.17854571492774
+2024-01-05,Toys,ARIMA scenario-oracle (realised regressors),357,459.8428059596247
+2024-01-06,Toys,ARIMA scenario-oracle (realised regressors),554,376.3464155925792
+2024-01-07,Toys,ARIMA scenario-oracle (realised regressors),340,404.17854571492774
+2024-01-08,Toys,ARIMA scenario-oracle (realised regressors),349,418.09461077610194
+2024-01-09,Toys,ARIMA scenario-oracle (realised regressors),1234,1519.7992722913657
+2024-01-10,Toys,ARIMA scenario-oracle (realised regressors),1437,1491.9671421690173
+2024-01-11,Toys,ARIMA scenario-oracle (realised regressors),1236,1519.7992722913657
+2024-01-12,Toys,ARIMA scenario-oracle (realised regressors),1408,1478.051077107843
+2024-01-13,Toys,ARIMA scenario-oracle (realised regressors),1681,1519.7992722913657
+2024-01-14,Toys,ARIMA scenario-oracle (realised regressors),1312,1450.2189469854945
+2024-01-15,Toys,ARIMA scenario-oracle (realised regressors),1355,1475.3743685159113
+2024-01-16,Toys,ARIMA scenario-oracle (realised regressors),1402,1561.5474674748884
+2024-01-17,Toys,ARIMA scenario-oracle (realised regressors),1301,1505.8832072301916
+2024-01-18,Toys,ARIMA scenario-oracle (realised regressors),1314,1491.9671421690173
+2024-01-19,Toys,ARIMA scenario-oracle (realised regressors),1036,1478.051077107843
+2024-01-20,Toys,ARIMA scenario-oracle (realised regressors),1664,1533.71533735254
+2024-01-21,Toys,ARIMA scenario-oracle (realised regressors),1227,1533.71533735254
+2024-01-22,Toys,ARIMA scenario-oracle (realised regressors),1682,1519.7992722913657
+2024-01-23,Toys,ARIMA scenario-oracle (realised regressors),1348,1478.051077107843
+2024-01-24,Toys,ARIMA scenario-oracle (realised regressors),1281,1561.5474674748884
+2024-01-25,Toys,ARIMA scenario-oracle (realised regressors),1561,1491.9671421690173
+2024-01-26,Toys,ARIMA scenario-oracle (realised regressors),1308,1491.9671421690173
+2024-01-27,Toys,ARIMA scenario-oracle (realised regressors),1538,1561.5474674748884
+2024-01-28,Toys,ARIMA scenario-oracle (realised regressors),1353,1505.8832072301916
+2024-01-29,Toys,ARIMA scenario-oracle (realised regressors),1348,1408.4707518019718
+2024-01-30,Toys,ARIMA scenario-oracle (realised regressors),1364,1408.4707518019718
+2023-10-31,Toys,Prophet scenario-oracle (realised regressors),1086,1299.9410492567417
+2023-11-01,Toys,Prophet scenario-oracle (realised regressors),1316,1431.174904805221
+2023-11-02,Toys,Prophet scenario-oracle (realised regressors),1330,1402.5903064803394
+2023-11-03,Toys,Prophet scenario-oracle (realised regressors),1318,1462.5136412275997
+2023-11-04,Toys,Prophet scenario-oracle (realised regressors),1529,1429.8987889178784
+2023-11-05,Toys,Prophet scenario-oracle (realised regressors),1409,1430.7737270483915
+2023-11-06,Toys,Prophet scenario-oracle (realised regressors),1099,1325.3542643028795
+2023-11-07,Toys,Prophet scenario-oracle (realised regressors),1645,1365.0901171467692
+2023-11-08,Toys,Prophet scenario-oracle (realised regressors),1392,1452.790170263814
+2023-11-09,Toys,Prophet scenario-oracle (realised regressors),1309,1380.6717695074842
+2023-11-10,Toys,Prophet scenario-oracle (realised regressors),1225,1414.218102588647
+2023-11-11,Toys,Prophet scenario-oracle (realised regressors),1407,1396.1145177560836
+2023-11-12,Toys,Prophet scenario-oracle (realised regressors),1478,1437.8777250297985
+2023-11-13,Toys,Prophet scenario-oracle (realised regressors),1404,1390.5033321929318
+2023-11-14,Toys,Prophet scenario-oracle (realised regressors),1360,1386.7053826054155
+2023-11-15,Toys,Prophet scenario-oracle (realised regressors),1475,1445.3829007680638
+2023-11-16,Toys,Prophet scenario-oracle (realised regressors),1344,1315.2194301031705
+2023-11-17,Toys,Prophet scenario-oracle (realised regressors),1186,1389.654032327514
+2023-11-18,Toys,Prophet scenario-oracle (realised regressors),1493,1473.1293198350872
+2023-11-19,Toys,Prophet scenario-oracle (realised regressors),1218,1401.4479205798311
+2023-11-20,Toys,Prophet scenario-oracle (realised regressors),1262,1368.584795220005
+2023-11-21,Toys,Prophet scenario-oracle (realised regressors),1521,1393.809380586844
+2023-11-22,Toys,Prophet scenario-oracle (realised regressors),1354,1394.4418288409786
+2023-11-23,Toys,Prophet scenario-oracle (realised regressors),1527,1412.036566235704
+2023-11-24,Toys,Prophet scenario-oracle (realised regressors),1464,1353.2242278775113
+2023-11-25,Toys,Prophet scenario-oracle (realised regressors),1239,1393.165712953586
+2023-11-26,Toys,Prophet scenario-oracle (realised regressors),1641,1408.551918561238
+2023-11-27,Toys,Prophet scenario-oracle (realised regressors),1431,1346.666258247158
+2023-11-28,Toys,Prophet scenario-oracle (realised regressors),1240,1342.8683086596413
+2023-11-29,Toys,Prophet scenario-oracle (realised regressors),1341,1285.455687005223
+2023-11-30,Toys,Prophet scenario-oracle (realised regressors),1327,1256.8710886803005
+2023-12-01,Toys,Prophet scenario-oracle (realised regressors),1557,1403.8620282904335
+2023-12-02,Toys,Prophet scenario-oracle (realised regressors),1648,1414.7809784122273
+2023-12-03,Toys,Prophet scenario-oracle (realised regressors),1580,1386.633381588423
+2023-12-04,Toys,Prophet scenario-oracle (realised regressors),1613,1382.7927911829102
+2023-12-05,Toys,Prophet scenario-oracle (realised regressors),1247,1364.4835741182194
+2023-12-06,Toys,Prophet scenario-oracle (realised regressors),1582,1437.6723597581206
+2023-12-07,Toys,Prophet scenario-oracle (realised regressors),1191,1307.5088890931845
+2023-12-08,Toys,Prophet scenario-oracle (realised regressors),1527,1367.4322238404307
+2023-12-09,Toys,Prophet scenario-oracle (realised regressors),1102,1378.3511739622322
+2023-12-10,Toys,Prophet scenario-oracle (realised regressors),1385,1379.22611209268
+2023-12-11,Toys,Prophet scenario-oracle (realised regressors),1383,1375.3855216871336
+2023-12-12,Toys,Prophet scenario-oracle (realised regressors),1644,1415.1213745311654
+2023-12-13,Toys,Prophet scenario-oracle (realised regressors),1391,1343.1974853995148
+2023-12-14,Toys,Prophet scenario-oracle (realised regressors),1417,1300.1016195974757
+2023-12-15,Toys,Prophet scenario-oracle (realised regressors),1479,1389.0474892990278
+2023-12-16,Toys,Prophet scenario-oracle (realised regressors),1481,1385.4551719436308
+2023-12-17,Toys,Prophet scenario-oracle (realised regressors),1516,1415.3526450284617
+2023-12-18,Toys,Prophet scenario-oracle (realised regressors),1528,1353.4669847142864
+2023-12-19,Toys,Prophet scenario-oracle (realised regressors),1508,1335.157767649595
+2023-12-20,Toys,Prophet scenario-oracle (realised regressors),1379,1335.790215903808
+2023-12-21,Toys,Prophet scenario-oracle (realised regressors),1446,1321.7168850560602
+2023-12-22,Toys,Prophet scenario-oracle (realised regressors),1689,1410.66275475765
+2023-12-23,Toys,Prophet scenario-oracle (realised regressors),1465,1378.0479024479353
+2023-12-24,Toys,Prophet scenario-oracle (realised regressors),1498,1364.4115731012694
+2023-12-25,Toys,Prophet scenario-oracle (realised regressors),1304,1319.6827135525095
+2023-12-26,Toys,Prophet scenario-oracle (realised regressors),1483,1313.2392306767235
+2023-12-27,Toys,Prophet scenario-oracle (realised regressors),438,295.23714379950707
+2023-12-28,Toys,Prophet scenario-oracle (realised regressors),401,223.1187430432051
+2023-12-29,Toys,Prophet scenario-oracle (realised regressors),343,181.4632054504491
+2023-12-30,Toys,Prophet scenario-oracle (realised regressors),387,177.8708880950221
+2023-12-31,Toys,Prophet scenario-oracle (realised regressors),462,178.74582622547723
+2024-01-01,Toys,Prophet scenario-oracle (realised regressors),363,264.6183739711116
+2024-01-02,Toys,Prophet scenario-oracle (realised regressors),453,229.1523561410704
+2024-01-03,Toys,Prophet scenario-oracle (realised regressors),451,287.8298743038001
+2024-01-04,Toys,Prophet scenario-oracle (realised regressors),393,244.7340085017895
+2024-01-05,Toys,Prophet scenario-oracle (realised regressors),357,333.6798782032872
+2024-01-06,Toys,Prophet scenario-oracle (realised regressors),554,243.01995598507574
+2024-01-07,Toys,Prophet scenario-oracle (realised regressors),340,272.9174290698586
+2024-01-08,Toys,Prophet scenario-oracle (realised regressors),349,269.0768386642851
+2024-01-09,Toys,Prophet scenario-oracle (realised regressors),1234,1341.9584941167982
+2024-01-10,Toys,Prophet scenario-oracle (realised regressors),1437,1328.0796748938214
+2024-01-11,Toys,Prophet scenario-oracle (realised regressors),1236,1328.5176115232248
+2024-01-12,Toys,Prophet scenario-oracle (realised regressors),1408,1315.8846088847117
+2024-01-13,Toys,Prophet scenario-oracle (realised regressors),1681,1355.8260939607735
+2024-01-14,Toys,Prophet scenario-oracle (realised regressors),1312,1284.144694705516
+2024-01-15,Toys,Prophet scenario-oracle (realised regressors),1355,1268.4383701111378
+2024-01-16,Toys,Prophet scenario-oracle (realised regressors),1402,1378.0850270525261
+2024-01-17,Toys,Prophet scenario-oracle (realised regressors),1301,1335.1836728752646
+2024-01-18,Toys,Prophet scenario-oracle (realised regressors),1314,1292.08780707322
+2024-01-19,Toys,Prophet scenario-oracle (realised regressors),1036,1308.4773393890084
+2024-01-20,Toys,Prophet scenario-oracle (realised regressors),1664,1362.9300919422278
+2024-01-21,Toys,Prophet scenario-oracle (realised regressors),1227,1363.8050300727502
+2024-01-22,Toys,Prophet scenario-oracle (realised regressors),1682,1330.94190471299
+2024-01-23,Toys,Prophet scenario-oracle (realised regressors),1348,1283.6101526939742
+2024-01-24,Toys,Prophet scenario-oracle (realised regressors),1281,1385.8214732881133
+2024-01-25,Toys,Prophet scenario-oracle (realised regressors),1561,1284.6805375775048
+2024-01-26,Toys,Prophet scenario-oracle (realised regressors),1308,1315.5813373703745
+2024-01-27,Toys,Prophet scenario-oracle (realised regressors),1538,1384.545357400832
+2024-01-28,Toys,Prophet scenario-oracle (realised regressors),1353,1327.3752256227074
+2024-01-29,Toys,Prophet scenario-oracle (realised regressors),1348,1207.4444954000146
+2024-01-30,Toys,Prophet scenario-oracle (realised regressors),1364,1203.6465458125035

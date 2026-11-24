@@ -1,0 +1,15 @@
+Check,Result,Detail
+Exported category totals == raw CSV totals,PASS,max diff 0
+All date x category cells match raw,PASS,3800 cells
+Export matches raw AND differs from the majority-vote remap (discriminating),PASS,remap would shift totals by up to 64%
+"Exported metrics recomputed from forecast rows (row-matched, full coverage)",PASS,"30 rows matched, max diff 2.27e-13"
+Forecast-file 'Actual' column equals raw CSV demand,PASS,460 cells
+LightGBM rows present in exported metrics and recomputed,PASS,5 rows
+Exported selection == validation argmin (read back from disk),PASS,"{'Clothing': 'Baseline: last 28-day mean', 'Electronics': 'Baseline: training mean', 'Furniture': 'Baseline: training mean', 'Groceries': 'ARIMA', 'Toys': 'ARIMA'}"
+"Selection is falsifiable (validation and test disagree somewhere, so the check has teeth)",PASS,disagree on ['Clothing']
+Tier A excludes every same-day commercial/exogenous column,PASS,
+POISON TEST: recursion is bit-identical when test-window demand is corrupted,PASS,max |diff| = 0.000e+00
+Tier B beats Tier A on the same horizon (the Price leak is real),PASS,"B 0.923 vs A 0.122, both recursive"
+Early stopping status reported honestly per tier (F9),PASS,"converged: ['A: history + calendar'] | hit 3000 cap: ['B: + own price/discount/promo', 'C: + competitor/weather/epidemic (DISQUALIFIED)']"
+Wastage columns exist on disk and are all flagged SYNTH,PASS,"['Wastage_Units_SYNTH', 'Wastage_pct_of_units_handled_SYNTH', 'Wastage_pct_of_units_sold_SYNTH']"
+Holiday file is non-empty and contains known fixed holidays,PASS,"28 dates incl. Jul 4, Dec 25, Thanksgiving"

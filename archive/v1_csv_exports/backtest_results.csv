@@ -1,0 +1,11 @@
+Category,Policy,Fill rate (%),Stockout days,Avg on-hand units
+Clothing,Forecast policy,99.60324363296911,2,11048.00443739833
+Clothing,Static policy,99.65739033888553,1,11149.37505155074
+Electronics,Forecast policy,100.0,0,7137.685956549
+Electronics,Static policy,100.0,0,7081.005024062217
+Furniture,Forecast policy,100.0,0,5732.85689977552
+Furniture,Static policy,99.95343734989206,1,6078.914383392033
+Groceries,Forecast policy,100.0,0,20767.186874569168
+Groceries,Static policy,100.0,0,20095.74935446764
+Toys,Forecast policy,99.98152732493709,1,1938.9159021616758
+Toys,Static policy,100.0,0,2194.875713590463

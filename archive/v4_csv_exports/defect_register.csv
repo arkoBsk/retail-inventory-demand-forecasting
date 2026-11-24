@@ -1,0 +1,20 @@
+Round,ID,Defect
+1,D1,"Category is a (Store,Product) attribute; products span 2-5 categories"
+1,D2,"Majority-vote category fix relabels ~50% of rows, swings totals -64%..+56%"
+1,D3,Demand uncensored vs Units Sold censored by inventory (11.4% at cap)
+1,D4,"Report regression is circular: R2 0.7033 = corr(Demand,UnitsSold)^2"
+1,D5,Original LightGBM used same-day inventory/ordered and test-set early stopping
+1,D6,IsHoliday was a constant 0
+1,D7,Seasonality is a function of calendar month
+1,D8,No wastage field exists in the data
+1,D9,"Data spans 2.08 years, not 3 fiscal years"
+1,D10,Lead time / review period / service level absent from data
+2,E1,v2 'leakage-free' LightGBM was not: accuracy came from same-day Price/Competitor Pricing
+2,E2,"Price is generated FROM Demand (positive slope, same-day only)"
+2,E3,"LightGBM was one-step-ahead, compared against 92-day ARIMA/Prophet"
+2,E4,Best model was selected on the test set
+2,E5,Oracle regressors labelled as known-in-advance
+2,E6,Early stopping never fired; subsample inert (bagging_freq=0)
+2,E7,Verification assertions were vacuous
+2,E8,Aggregation hid row-level error
+2,E9,Single seed; R2 moved 0.918->0.926 on seed change
